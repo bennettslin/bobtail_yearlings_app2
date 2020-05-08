@@ -1,3 +1,30 @@
-# React-Static - Basic Template
+# yearlings_bobtail_app
 
-To use this template, run `react-static create` and use the `basic` template.
+## Development
+
+Local server.
+
+```
+npm run start
+```
+
+Local deployment.
+
+```
+npm run stage
+npm run serve
+```
+
+Asset sizes.
+
+```
+npm run analyze
+```
+
+## Release
+
+Build and deploy production release.
+
+```
+npm run release
+```
