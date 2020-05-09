@@ -9,6 +9,8 @@ import {
     EMAIL_ID
 } from '../../constants/website'
 
+import './style.scss'
+
 class MailingList extends Component {
 
     constructor(props) {
@@ -62,55 +64,76 @@ class MailingList extends Component {
                     target: '_blank'
                 }}
             >
-                <input
-                    required
+                <label
                     {...{
                         className: cx(
-                            'MailingList__emailField',
-                            'MailingList__input'
-                        ),
-                        id: EMAIL_ID,
-                        name: EMAIL_NAME,
-                        type: 'text',
-                        value: emailValue,
-                        placeholder: 'Email address',
-                        autoComplete: 'off',
-                        maxLength: 254,
-                        // onFocus: this.onInputFocus,
-                        onChange: this.onChange
+                            'MailingList__label',
+                            'Rancho'
+                        )
                     }}
-                />
-                {/* Honeypot field to prevent bot signups. */}
+                >
+                    Mailing List
+                </label>
                 <div
                     {...{
-                        style: {
-                            position: 'absolute',
-                            left: '-5000px'
-                        },
-                        'aria-hidden': true
+                        className: cx(
+                            'MailingList__inputs',
+                            'Rancho'
+                        )
                     }}
                 >
                     <input
+                        required
                         {...{
-                            name: EMAIL_DUMMY_NAME,
+                            className: cx(
+                                'MailingList__emailField',
+                                'MailingList__input',
+                                'PtSansNarrow'
+                            ),
+                            id: EMAIL_ID,
+                            name: EMAIL_NAME,
                             type: 'text',
-                            defaultValue: '',
-                            tabIndex: -1
+                            value: emailValue,
+                            placeholder: 'Email address',
+                            autoComplete: 'off',
+                            maxLength: 254,
+                            // onFocus: this.onInputFocus,
+                            onChange: this.onChange
+                        }}
+                    />
+                    {/* Honeypot field to prevent bot signups. */}
+                    <div
+                        {...{
+                            style: {
+                                position: 'absolute',
+                                left: '-5000px'
+                            },
+                            'aria-hidden': true
+                        }}
+                    >
+                        <input
+                            {...{
+                                name: EMAIL_DUMMY_NAME,
+                                type: 'text',
+                                defaultValue: '',
+                                tabIndex: -1
+                            }}
+                        />
+                    </div>
+                    <input
+                        {...{
+                            className: cx(
+                                'MailingList__submitButton',
+                                'MailingList__input',
+                                'PtSansNarrow'
+                            ),
+                            type: 'submit',
+                            value: 'Sign up!',
+                            disabled: !isValidEmail
+                            // onClick: this.onButtonClick
                         }}
                     />
                 </div>
-                <input
-                    {...{
-                        className: cx(
-                            'MailingList__submitButton',
-                            'MailingList__input'
-                        ),
-                        type: 'submit',
-                        value: 'Sign up!',
-                        disabled: !isValidEmail
-                        // onClick: this.onButtonClick
-                    }}
-                />
             </form>
         )
     }

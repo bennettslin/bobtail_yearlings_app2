@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+@font-face {
+    font-family: PTSansNarrow;
+    src: url('../assets/fonts/pt_sans/PTN57F.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: Rancho;
+    src: url('../assets/fonts/Rancho/Rancho-Regular.ttf') format('truetype');
+}
+
+.PtSansNarrow {
+    font-family: PtSansNarrow, Arial;
+}
+
+.Rancho {
+    font-family: Rancho, Garamond;
+}

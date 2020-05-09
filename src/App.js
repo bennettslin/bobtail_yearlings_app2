@@ -4,21 +4,23 @@ import { Router } from '@reach/router'
 
 import Fallback from './components/Fallback'
 import Header from './components/Header'
-import Page from './components/Page'
+import Content from './components/Content'
+import Footer from './components/Footer'
 import Wrapper from './components/Wrapper'
 
-import './style.scss'
+import './scss/style.scss'
 
 const App = () => (
     <Root>
         <Suspense {...{ fallback: Fallback() }} >
             <Wrapper>
                 <Header />
-                <Page>
+                <Content>
                     <Router>
                         <Routes {...{ path: '*' }} />
                     </Router>
-                </Page>
+                </Content>
+                <Footer />
             </Wrapper>
         </Suspense>
     </Root>

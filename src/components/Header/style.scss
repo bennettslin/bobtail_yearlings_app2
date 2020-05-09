@@ -1,7 +1,9 @@
+@import '../../scss/responsive.scss';
+
 .Header {
     background-color: #dff;
-    height: 300px;
-    padding: 20px 0;
+    height: $height__header;
+    padding: $margin__wide 0;
 
     display: flex;
     justify-content: center;

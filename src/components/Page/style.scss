@@ -1,12 +1,13 @@
+@import '../../scss/responsive.scss';
+
 .Page {
-    background-color: #ffd;
+    background-color: #ddf;
     height: 100%;
+    width: 100%;
 
-    & > * {
-        height: 100%;
+    @media (min-width: $width__page) {
+        width: $width__page;
     }
 
-    & > * > * {
-        height: 100%;
-    }
+    padding: 0 $margin__wide;
 }

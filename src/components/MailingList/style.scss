@@ -1,15 +1,77 @@
-.MailingList {
+@import '../../scss/borders.scss';
+@import '../../scss/colours.scss';
+@import '../../scss/responsive.scss';
 
+$height__mailingList: 44px;
+$marginTop__mailingList: 4px;
+
+.MailingList {
+    width: $width__child__wide;
+}
+
+.MailingList__label {
+    color: $colour__label__dark;
+    font-size: 2.5em;
+}
+
+.MailingList__inputs {
+    display: flex;
+
+    & > :not(:last-child) {
+        margin-right: $marginTop__mailingList * 2;
+    }
 }
 
 .MailingList__input {
-
+    box-sizing: border-box;
+    font-size: 1.6em;
+    padding: 0;
 }
 
 .MailingList__emailField {
+    flex-grow: 1;
 
+    height: $height__mailingList;
+    padding-top: $marginTop__mailingList;
+    padding-left: $marginTop__mailingList * 2;
+
+    color: $colour__text__dark;
+
+    &::placeholder {
+        color: $colour__neutral__light;
+    }
+
+    border: 1px solid $colour__neutral__dark;
+    border-radius: $borderRadius__narrow;
+
+    &:hover,
+    &:active,
+    &:focus {
+        border-color: $colour__label__light;
+    }
 }
 
 .MailingList__submitButton {
+    height: $height__mailingList + $marginTop__mailingList;
 
+    border: 1px solid transparent;
+    background-color: transparent;
+    
+    color: $colour__link__dark;
+    
+    &:not(:disabled) {
+        cursor: pointer;
+    }
+
+    &:hover {
+        color: $colour__link__medium;
+    }
+
+    &:active {
+        color: $colour__link__light;
+    }
+
+    &:disabled {
+        color: $colour__neutral__light;
+    }
 }

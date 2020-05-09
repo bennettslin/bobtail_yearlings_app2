@@ -1,0 +1,13 @@
+@import '../../scss/responsive.scss';
+
+.Footer {
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    height: $height__footer;
+    background-color: #bdd;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

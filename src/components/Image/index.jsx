@@ -1,28 +1,27 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import cx from 'classnames'
+import PropTypes from 'prop-types'
 
 import './style.scss'
 
-const Page = ({
+const Image = ({
     className,
-    children
+    src
 }) => (
-    <div
+    <img
         {...{
             className: cx(
-                'Page',
+                'Image',
                 className
-            )
+            ),
+            src
         }}
-    >
-        {children}
-    </div>
+    />
 )
 
-Page.propTypes = {
+Image.propTypes = {
     className: PropTypes.string.isRequired,
-    children: PropTypes.node.isRequired
+    src: PropTypes.string.isRequired
 }
 
-export default Page
+export default Image

@@ -4,12 +4,11 @@ import cx from 'classnames'
 
 import './style.scss'
 
-const Wrapper = ({ children }) => (
+const Content = ({ children }) => (
     <div
         {...{
             className: cx(
-                'Wrapper',
-                'PtSansNarrow'
+                'Content'
             )
         }}
     >
@@ -17,8 +16,8 @@ const Wrapper = ({ children }) => (
     </div>
 )
 
-Wrapper.propTypes = {
+Content.propTypes = {
     children: PropTypes.node.isRequired
 }
 
-export default Wrapper
+export default Content
