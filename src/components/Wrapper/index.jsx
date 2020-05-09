@@ -4,7 +4,7 @@ import cx from 'classnames'
 
 import './style.scss'
 
-const Wrapper =({ children }) => (
+const Wrapper = ({ children }) => (
     <div
         {...{
             className: cx(

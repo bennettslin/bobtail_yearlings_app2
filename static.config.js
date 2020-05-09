@@ -5,11 +5,11 @@ export default {
         [
             require.resolve('react-static-plugin-source-filesystem'),
             {
-                location: path.resolve('./src/pages'),
-            },
+                location: path.resolve('./src/pages')
+            }
         ],
         require.resolve('react-static-plugin-reach-router'),
         require.resolve('react-static-plugin-sitemap'),
-        'react-static-plugin-sass',
-    ],
+        'react-static-plugin-sass'
+    ]
 }

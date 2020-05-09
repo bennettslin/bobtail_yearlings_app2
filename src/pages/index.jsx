@@ -1,6 +1,8 @@
 import React from 'react'
 import cx from 'classnames'
 
+import MailingList from '../components/MailingList'
+
 import './style.scss'
 
 const Home = () => (
@@ -11,7 +13,7 @@ const Home = () => (
             )
         }}
     >
-        Home
+        <MailingList />
     </div>
 )
 

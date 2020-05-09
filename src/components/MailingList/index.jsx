@@ -2,12 +2,12 @@ import React, { Component } from 'react'
 import cx from 'classnames'
 import * as EmailValidator from 'email-validator'
 
-import { EMAIL_ID } from '../../../constants/website'
-
-// MailChimp constants.
-const EMAIL_ACTION = `https://bobtailyearlings.us4.list-manage.com/subscribe/post?u=7a9ef82a8d139c5688d0209ef&amp;id=13ca4c5861`
-const EMAIL_NAME = 'EMAIL'
-const EMAIL_DUMMY_NAME = 'b_7a9ef82a8d139c5688d0209ef_13ca4c5861'
+import {
+    EMAIL_ACTION,
+    EMAIL_NAME,
+    EMAIL_DUMMY_NAME,
+    EMAIL_ID
+} from '../../constants/website'
 
 class MailingList extends Component {
 
@@ -28,21 +28,21 @@ class MailingList extends Component {
         })
     }
 
-    onInputFocus = e => {
-        logEvent({
-            e,
-            componentName: 'MailingList',
-            analyticsIdentifier: 'email'
-        })
-    }
+    // onInputFocus = e => {
+    //     logEvent({
+    //         e,
+    //         componentName: 'MailingList',
+    //         analyticsIdentifier: 'email'
+    //     })
+    // }
 
-    onButtonClick = e => {
-        logEvent({
-            e,
-            componentName: 'MailingList',
-            analyticsIdentifier: 'submit'
-        })
-    }
+    // onButtonClick = e => {
+    //     logEvent({
+    //         e,
+    //         componentName: 'MailingList',
+    //         analyticsIdentifier: 'submit'
+    //     })
+    // }
 
     render() {
         const {
@@ -67,8 +67,7 @@ class MailingList extends Component {
                     {...{
                         className: cx(
                             'MailingList__emailField',
-                            'MailingList__input',
-                            'PtSansNarrow'
+                            'MailingList__input'
                         ),
                         id: EMAIL_ID,
                         name: EMAIL_NAME,
@@ -77,9 +76,8 @@ class MailingList extends Component {
                         placeholder: 'Email address',
                         autoComplete: 'off',
                         maxLength: 254,
-                        onFocus: this.onInputFocus,
-                        onChange: this.onChange,
-                        onBlur: this.onBlur
+                        // onFocus: this.onInputFocus,
+                        onChange: this.onChange
                     }}
                 />
                 {/* Honeypot field to prevent bot signups. */}
@@ -105,13 +103,12 @@ class MailingList extends Component {
                     {...{
                         className: cx(
                             'MailingList__submitButton',
-                            'MailingList__input',
-                            'PtSansNarrow'
+                            'MailingList__input'
                         ),
                         type: 'submit',
                         value: 'Sign up!',
-                        disabled: !isValidEmail,
-                        onClick: this.onButtonClick
+                        disabled: !isValidEmail
+                        // onClick: this.onButtonClick
                     }}
                 />
             </form>

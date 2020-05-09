@@ -4,7 +4,7 @@ import cx from 'classnames'
 
 import './style.scss'
 
-const Page =({ children }) => (
+const Page = ({ children }) => (
     <div
         {...{
             className: cx(

@@ -14,12 +14,16 @@ if (typeof document !== 'undefined') {
         ? ReactDOM.hydrate
         : ReactDOM.render
 
-    renderMethod(
-        <AppContainer>
-            <App />
-        </AppContainer>,
-        target
-    )
+    const render = Component => {
+        renderMethod(
+            <AppContainer>
+                <Component />
+            </AppContainer>,
+            target
+        )
+    }
+
+    render(App)
 
     // Hot Module Replacement.
     if (module && module.hot) {
