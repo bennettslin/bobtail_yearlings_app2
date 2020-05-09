@@ -1,25 +1,27 @@
 import React, { Suspense } from 'react'
 import { Root, Routes } from 'react-static'
-import { Router } from 'components/Router'
+import { Router } from '@reach/router'
 
-import './app.scss'
+import Fallback from './components/Fallback'
+import Header from './components/Header'
+import Page from './components/Page'
+import Wrapper from './components/Wrapper'
 
-export default () => (
+import './style.scss'
+
+const App = () => (
     <Root>
-        <Suspense
-            {...{
-                fallback: (
-                    <em>Loading...</em>
-                )
-            }}
-        >
-            <Router>
-                <Routes
-                    {...{
-                        path: '*'
-                    }}
-                />
-            </Router>
+        <Suspense {...{ fallback: Fallback() }} >
+            <Wrapper>
+                <Header />
+                <Page>
+                    <Router>
+                        <Routes {...{ path: '*' }} />
+                    </Router>
+                </Page>
+            </Wrapper>
         </Suspense>
     </Root>
 )
+
+export default App

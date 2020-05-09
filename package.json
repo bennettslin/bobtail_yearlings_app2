@@ -8,11 +8,16 @@
     "analyze": "react-static build --analyze",
     "serve": "serve dist -p 3000",
     "deploy": "aws s3 sync dist/ s3://bobtailyearlings",
-    "release": "npm run build && npm run deploy"
+    "release": "npm run build && npm run deploy",
+    "lint": "eslint --ext js,jsx src",
+    "lint:fix": "eslint --ext js,jsx --fix src"
   },
   "dependencies": {
     "@reach/router": "^1.2.1",
     "axios": "^0.19.0",
+    "classnames": "^2.2.6",
+    "email-validator": "^2.0.4",
+    "prop-types": "^15.7.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-static": "^7.2.0",
@@ -27,9 +32,9 @@
     "eslint-config-react-app": "^5.0.1",
     "eslint-config-react-tools": "^1.1.7",
     "eslint-plugin-flowtype": "^4.2.0",
-    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react": "^7.19.0",
     "serve": "^11.1.0"
   }
 }

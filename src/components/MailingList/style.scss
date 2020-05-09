@@ -1,0 +1,71 @@
+.MailingList {
+    display: flex;
+
+    & > :not(:last-child) {
+        margin-right: $MARGIN_THIN * 2;
+    }
+}
+
+.MailingList__input {
+    box-sizing: border-box;
+    font-size: 1em;
+    padding: 0;
+}
+
+.MailingList__emailField {
+    flex-grow: 1;
+    
+    height: $length__iconSmall;
+    padding-top: $MARGIN_THIN;
+    padding-left: $MARGIN_THIN * 2;
+
+    color: $colour__text__dark;
+
+    border: 1px solid $colour__neutral__dark;
+    border-radius: $borderRadius__narrow;
+
+    .DW__userAgentDesktop
+    & {
+        transition: border-color $animationDuration__default;
+    }
+
+    &::placeholder {
+        color: $colour__annotationWormhole__title;
+    }
+
+    &:hover,
+    &:active,
+    &:focus {
+        border-color: $colour__playing__empty;
+    }
+}
+
+.MailingList__submitButton {
+    height: $length__iconSmall + $MARGIN_THIN;
+
+    border: 1px solid transparent;
+    background-color: transparent;
+    
+    color: $colour__link__dark;
+    
+    &:not(:disabled) {
+        cursor: pointer;
+    }
+
+    .DW__userAgentDesktop
+    & {
+        transition: color $animationDuration__default;
+    }
+
+    &:hover {
+        color: $colour__linkHover__dark;
+    }
+
+    &:active {
+        color: $colour__linkActive;
+    }
+
+    &:disabled {
+        color: $colour__neutral__dark;
+    }
+}
