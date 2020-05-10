@@ -2,6 +2,8 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import { AppContainer } from 'react-hot-loader'
 
+import './utils/analytics'
+
 // Export top-level component as JSX for static rendering.
 import App from './App'
 export default App
