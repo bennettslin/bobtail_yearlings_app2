@@ -1,3 +1,5 @@
+@import '../../scss/colours.scss';
+
 body {
     margin: 0;
 }
@@ -18,4 +20,5 @@ body {
 
 .Rancho {
     font-family: Rancho, Garamond;
+    color: $colour__primary__dark;
 }

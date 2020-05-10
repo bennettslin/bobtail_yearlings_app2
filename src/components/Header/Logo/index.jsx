@@ -1,6 +1,9 @@
 import React from 'react'
 import cx from 'classnames'
 
+import Svg from '../../Svg'
+import logo from '../../../assets/svgs/logo.svg'
+
 import './style.scss'
 
 const Logo = () => (
@@ -11,7 +14,11 @@ const Logo = () => (
             )
         }}
     >
-        Logo
+        <Svg
+            {...{
+                src: logo
+            }}
+        />
     </div>
 )
 

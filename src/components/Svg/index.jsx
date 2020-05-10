@@ -1,56 +1,35 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-
-const defaultProps = {
-    viewBoxWidth: 0,
-    viewBoxHeight: 0
-}
+import ReactInlineSvg from 'react-inlinesvg'
 
 const propTypes = {
     className: PropTypes.string,
     style: PropTypes.object,
-    viewBoxWidth: PropTypes.number,
-    viewBoxHeight: PropTypes.number,
-    children: PropTypes.node
+    src: PropTypes.string.isRequired
 }
 
 const Svg = ({
     className,
     style,
-    viewBoxWidth,
-    viewBoxHeight,
-    children
-
-}) => {
-
-    const
-        safeViewBoxWidth =
-            viewBoxWidth > 0 ?
-                viewBoxWidth :
-                0,
-        safeViewBoxHeight =
-            viewBoxHeight > 0 ?
-                viewBoxHeight :
-                0
-
-    return (
-        <svg
+    src
+}) => (
+    <>
+        <div
             {...{
                 className,
-                ...safeViewBoxWidth && safeViewBoxHeight && {
-                    viewBox: `0 0 ${safeViewBoxWidth} ${safeViewBoxHeight}`
-                },
-                xmlns: 'http://www.w3.org/2000/svg',
-                preserveAspectRatio: 'none',
                 style
             }}
         >
-            {children}
-        </svg>
-    )
-}
+            <ReactInlineSvg
+                {...{
+                    xmlns: 'http://www.w3.org/2000/svg',
+                    src
+                }}
+            />
+        </div>
+    </>
+)
 
-Svg.defaultProps = defaultProps
 Svg.propTypes = propTypes
 
 export default Svg

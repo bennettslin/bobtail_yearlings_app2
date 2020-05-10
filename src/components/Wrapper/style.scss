@@ -1,5 +1,7 @@
+@import '../../scss/colours.scss';
+
 .Wrapper {
-    background-color: #ffd;
+    background-color: $colour__background;
 
     position: absolute;
     top: 0;

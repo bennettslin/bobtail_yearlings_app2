@@ -7,11 +7,12 @@ const NotFound = () => (
     <div
         {...{
             className: cx(
-                'NotFound'
+                'NotFound',
+                'Rancho'
             )
         }}
     >
-        404 page
+        Page Not Found
     </div>
 )
 

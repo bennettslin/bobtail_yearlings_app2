@@ -1,4 +1,14 @@
 .Logo {
-    background-color: #fdd;
     width: 350px;
+}
+
+.Logo {
+    .eyeDark { fill: hsl(225, 20%, 20%); }
+    .eyeLight { fill: hsl(225, 20%, 90%); }
+    .hoof { fill: hsl(225, 20%, 35%); }
+
+    .letter { fill: hsl(30, 22%, 49%); }
+    .head { fill: hsl(30, 30%, 57%); }
+    .ear { fill: hsl(30, 22%, 50%); }
+    .snout { fill: hsl(30, 22%, 45%); }
 }

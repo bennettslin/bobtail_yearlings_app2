@@ -77,8 +77,7 @@ class MailingList extends Component {
                 <div
                     {...{
                         className: cx(
-                            'MailingList__inputs',
-                            'Rancho'
+                            'MailingList__inputs'
                         )
                     }}
                 >
