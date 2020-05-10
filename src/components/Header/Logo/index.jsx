@@ -10,7 +10,8 @@ const Logo = () => (
     <div
         {...{
             className: cx(
-                'Logo'
+                'Logo',
+                'responsive__headerChild'
             )
         }}
     >

@@ -12,6 +12,7 @@ const Page = ({
         {...{
             className: cx(
                 'Page',
+                'responsive__page',
                 className
             )
         }}

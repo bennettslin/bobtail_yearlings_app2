@@ -57,7 +57,8 @@ class MailingList extends Component {
                 noValidate
                 {...{
                     className: cx(
-                        'MailingList'
+                        'MailingList',
+                        'responsive__pageChild'
                     ),
                     action: EMAIL_ACTION,
                     method: 'post',

@@ -2,11 +2,8 @@ import React from 'react'
 import cx from 'classnames'
 
 import Page from '../../components/Page'
-import Anchor from '../../components/Anchor'
-import Image from '../../components/Image'
+import AlbumLink from '../../components/AlbumLink'
 import MailingList from '../../components/MailingList'
-
-import example from '../../assets/images/example.jpg'
 
 import './style.scss'
 
@@ -18,33 +15,7 @@ const Home = () => (
             )
         }}
     >
-        <Anchor
-            {...{
-                className: cx(
-                    'YBLink'
-                ),
-                href: 'https://www.yearlingsbobtail.com'
-            }}
-        >
-            <Image
-                {...{
-                    className: cx(
-                        'YBImage'
-                    ),
-                    src: example
-                }}
-            />
-            <div
-                {...{
-                    className: cx(
-                        'YBImage__text',
-                        'Rancho'
-                    )
-                }}
-            >
-                Our new audio webcomic!
-            </div>
-        </Anchor>
+        <AlbumLink />
         <MailingList />
     </Page>
 )

@@ -9,7 +9,8 @@ const Header = () => (
     <div
         {...{
             className: cx(
-                'Header'
+                'Header',
+                'responsive__header'
             )
         }}
     >

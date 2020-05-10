@@ -1,8 +1,48 @@
-$height__header: 300px;
 $height__footer: 48px;
 
-$width__page: 800px;
+$width__page: 768px;
 $width__child__wide: 600px;
+$width__child__wide__mobile: 300px;
+
+$height__child__narrow: 240px;
+$width__child__narrow: $height__child__narrow * 1.5;
+
+$height__child__narrow__mobile: 160px;
+$width__child__narrow__mobile: $height__child__narrow__mobile * 1.5;
 
 $margin__narrow: 8px;
 $margin__wide: 24px;
+
+.responsive__header {
+    padding: $margin__narrow 0;
+
+    @media (min-width: $width__page) {
+        padding: $margin__wide 0;
+    }
+}
+
+.responsive__page {
+    width: 100%;
+
+    @media (min-width: $width__page) {
+        width: $width__page;
+    }
+}
+
+.responsive__pageChild {
+    width: calc(100% - #{$margin__narrow * 2});
+    margin: $margin__narrow $margin__narrow 0;
+
+    @media (min-width: $width__page) {
+        width: $width__child__wide - $margin__wide * 2;
+        margin: $margin__wide $margin__wide 0;
+    }
+}
+
+.responsive__headerChild {
+    width: $width__child__narrow__mobile;
+
+    @media (min-width: $width__page) {
+        width: $width__child__narrow;
+    }
+}
