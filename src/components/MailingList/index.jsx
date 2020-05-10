@@ -2,6 +2,8 @@ import React, { Component } from 'react'
 import cx from 'classnames'
 import * as EmailValidator from 'email-validator'
 
+import sendEvent from '../../utils/analytics'
+
 import {
     EMAIL_ACTION,
     EMAIL_NAME,
@@ -30,21 +32,21 @@ class MailingList extends Component {
         })
     }
 
-    // onInputFocus = e => {
-    //     logEvent({
-    //         e,
-    //         componentName: 'MailingList',
-    //         analyticsIdentifier: 'email'
-    //     })
-    // }
+    onInputFocus = () => {
+        sendEvent({
+            category: 'event',
+            action: 'focus',
+            label: 'MailingList email'
+        })
+    }
 
-    // onButtonClick = e => {
-    //     logEvent({
-    //         e,
-    //         componentName: 'MailingList',
-    //         analyticsIdentifier: 'submit'
-    //     })
-    // }
+    onButtonClick = () => {
+        sendEvent({
+            category: 'event',
+            action: 'click',
+            label: 'MailingList submit'
+        })
+    }
 
     render() {
         const {
@@ -97,7 +99,7 @@ class MailingList extends Component {
                             placeholder: 'Email address',
                             autoComplete: 'off',
                             maxLength: 254,
-                            // onFocus: this.onInputFocus,
+                            onFocus: this.onInputFocus,
                             onChange: this.onChange
                         }}
                     />
@@ -129,8 +131,8 @@ class MailingList extends Component {
                             ),
                             type: 'submit',
                             value: 'Sign up!',
-                            disabled: !isValidEmail
-                            // onClick: this.onButtonClick
+                            disabled: !isValidEmail,
+                            onClick: this.onButtonClick
                         }}
                     />
                 </div>

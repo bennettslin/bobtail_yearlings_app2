@@ -8,22 +8,33 @@ import Content from './components/Content'
 import Footer from './components/Footer'
 import Wrapper from './components/Wrapper'
 
+import sendEvent from './utils/analytics'
+
 import './scss/style.scss'
 
-const App = () => (
-    <Root>
-        <Suspense {...{ fallback: Fallback() }}>
-            <Wrapper>
-                <Header />
-                <Content>
-                    <Router>
-                        <Routes {...{ path: '*' }} />
-                    </Router>
-                </Content>
-                <Footer />
-            </Wrapper>
-        </Suspense>
-    </Root>
-)
+const App = () => {
+
+    sendEvent({
+        category: 'lifecycle',
+        action: 'mount',
+        label: 'App'
+    })
+
+    return (
+        <Root>
+            <Suspense {...{ fallback: Fallback() }}>
+                <Wrapper>
+                    <Header />
+                    <Content>
+                        <Router>
+                            <Routes {...{ path: '*' }} />
+                        </Router>
+                    </Content>
+                    <Footer />
+                </Wrapper>
+            </Suspense>
+        </Root>
+    )
+}
 
 export default App
