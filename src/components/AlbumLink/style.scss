@@ -1,13 +1,47 @@
+@import '../../scss/borders.scss';
+@import '../../scss/colours.scss';
+@import '../../scss/responsive.scss';
+@import '../../scss/shadows.scss';
+
 .AlbumLink {
     position: relative;
+
+    border-radius: $borderRadius__medium;
+    overflow: hidden;
 }
 
 .AlbumLink__image {
     width: 100%;
+    height: 100%;
 }
 
-.AlbumLink__text {
+.AlbumLink__caption {
     position: absolute;
+    top: 0;
     right: 0;
-    bottom: 0;
+    padding: $margin__wide;
+    
+    background-color: $colour__neutral__opaque;
+    border-bottom-left-radius: $borderRadius__wide;
+
+    text-align: right;
+    text-shadow: $textShadow__dark;
+}
+
+.AlbumLink__newWebcomic {
+    color: $colour__text__light;
+    font-size: 0.9em;
+
+    @media (min-width: $width__page) {
+        font-size: 1.2em;
+    }
+}
+
+.AlbumLink__yearlingsBobtail {
+    color: $colour__primary__light;
+    font-size: 1.5em;
+
+    @media (min-width: $width__page) {
+        font-size: 2em;
+    }
 }

@@ -12,7 +12,7 @@ import './scss/style.scss'
 
 const App = () => (
     <Root>
-        <Suspense {...{ fallback: Fallback() }} >
+        <Suspense {...{ fallback: Fallback() }}>
             <Wrapper>
                 <Header />
                 <Content>

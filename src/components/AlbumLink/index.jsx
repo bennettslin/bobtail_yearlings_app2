@@ -4,7 +4,7 @@ import cx from 'classnames'
 import Anchor from '../../components/Anchor'
 import Image from '../../components/Image'
 
-import example from '../../assets/images/example.jpg'
+import albumLink from '../../assets/images/albumLink.png'
 
 import './style.scss'
 
@@ -23,18 +23,35 @@ const Home = () => (
                 className: cx(
                     'AlbumLink__image'
                 ),
-                src: example
+                src: albumLink
             }}
         />
         <div
             {...{
                 className: cx(
-                    'AlbumLink__text',
-                    'Rancho'
+                    'AlbumLink__caption'
                 )
             }}
         >
-            Our new audio webcomic!
+            <div
+                {...{
+                    className: cx(
+                        'AlbumLink__newWebcomic'
+                    )
+                }}
+            >
+                our new audio webcomic
+            </div>
+            <div
+                {...{
+                    className: cx(
+                        'AlbumLink__yearlingsBobtail',
+                        'Rancho'
+                    )
+                }}
+            >
+                <em>{`Yearling's Bobtail`}</em>
+            </div>
         </div>
     </Anchor>
 )
