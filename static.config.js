@@ -1,26 +1,9 @@
-/* eslint-disable react/prop-types */
-import React from 'react'
 import path from 'path'
 
+import Document from './src/Document'
+
 export default {
-    Document: ({
-        Html,
-        Head,
-        Body,
-        children
-    }) => (
-        <Html lang="en-US">
-            <Head>
-                <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133481555-3"></script>
-                <meta charSet="UTF-8" />
-                <meta name="viewport" content="width=device-width, initial-scale=1" />
-                <title>Bobtail Yearlings</title>
-            </Head>
-            <Body>
-                {children}
-            </Body>
-        </Html>
-    ),
+    Document,
     plugins: [
         [
             require.resolve('react-static-plugin-source-filesystem'),
