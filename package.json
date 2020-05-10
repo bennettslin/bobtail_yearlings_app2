@@ -4,7 +4,7 @@
   "scripts": {
     "start": "react-static start",
     "build": "react-static build",
-    "stage": "react-static build --staging",
+    "stage": "react-static build --staging && npm run serve",
     "analyze": "react-static build --analyze",
     "serve": "serve dist -p 3000",
     "deploy": "aws s3 sync dist/ s3://bobtailyearlings",

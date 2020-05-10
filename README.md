@@ -8,14 +8,13 @@ Local server.
 npm run start
 ```
 
-Local deployment.
+Stage for local deployment.
 
 ```
 npm run stage
-npm run serve
 ```
 
-Asset sizes.
+Check asset sizes.
 
 ```
 npm run analyze

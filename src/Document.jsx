@@ -1,6 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
+import { GA_ACCOUNT } from './constants/analytics'
+
 import './scss/style.scss'
 
 const Document = ({
@@ -13,7 +15,9 @@ const Document = ({
         <Head>
             <script
                 async
-                src="https://www.googletagmanager.com/gtag/js?id=UA-133481555-3"
+                {...{
+                    src: `https://www.googletagmanager.com/gtag/js?id=${GA_ACCOUNT}`
+                }}
             />
             <meta
                 charSet="UTF-8"
