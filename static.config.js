@@ -14,6 +14,7 @@ export default {
                 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133481555-3"></script>
                 <meta charSet="UTF-8" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
+                <title>Bobtail Yearlings</title>
             </Head>
             <Body>
                 {children}
