@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import cx from 'classnames'
 
 import Anchor from '../../components/Anchor'
@@ -8,52 +8,62 @@ import albumLink from '../../assets/images/albumLink.png'
 
 import './style.scss'
 
-const Home = () => (
-    <Anchor
-        {...{
-            className: cx(
-                'AlbumLink',
-                'responsive__pageChild'
-            ),
-            href: 'https://www.yearlingsbobtail.com'
-        }}
-    >
-        <Image
+const Home = () => {
+
+    // Only show the entire component when the image asset is loaded.
+    const [isShown, setIsShown] = useState(false)
+
+    return (
+        <Anchor
             {...{
                 className: cx(
-                    'AlbumLink__image'
+                    'AlbumLink',
+                    isShown && 'AlbumLink__shown',
+                    'responsive__pageChild'
                 ),
-                src: albumLink
-            }}
-        />
-        <div
-            {...{
-                className: cx(
-                    'AlbumLink__caption'
-                )
+                href: 'https://www.yearlingsbobtail.com'
             }}
         >
+            <Image
+                {...{
+                    className: cx(
+                        'AlbumLink__image'
+                    ),
+                    src: albumLink,
+                    onLoad: () => {
+                        setIsShown(true)
+                    }
+                }}
+            />
             <div
                 {...{
                     className: cx(
-                        'AlbumLink__newWebcomic'
+                        'AlbumLink__caption'
                     )
                 }}
             >
-                our new audio webcomic
+                <div
+                    {...{
+                        className: cx(
+                            'AlbumLink__newWebcomic'
+                        )
+                    }}
+                >
+                    our new audio webcomic
+                </div>
+                <div
+                    {...{
+                        className: cx(
+                            'AlbumLink__yearlingsBobtail',
+                            'Rancho'
+                        )
+                    }}
+                >
+                    <em>{`Yearling's Bobtail`}</em>
+                </div>
             </div>
-            <div
-                {...{
-                    className: cx(
-                        'AlbumLink__yearlingsBobtail',
-                        'Rancho'
-                    )
-                }}
-            >
-                <em>{`Yearling's Bobtail`}</em>
-            </div>
-        </div>
-    </Anchor>
-)
+        </Anchor>
+    )
+}
 
 export default Home

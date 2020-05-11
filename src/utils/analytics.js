@@ -1,6 +1,7 @@
 /* eslint-disable no-inner-declarations */
 import { GA_ACCOUNT } from '../constants/analytics'
 
+// Skip on the server side.
 if (typeof window !== 'undefined') {
 
     let intervalId

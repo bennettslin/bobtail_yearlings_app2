@@ -6,7 +6,9 @@ import './style.scss'
 
 const Image = ({
     className,
-    src
+    src,
+    onLoad
+
 }) => (
     <img
         {...{
@@ -14,14 +16,16 @@ const Image = ({
                 'Image',
                 className
             ),
-            src
+            src,
+            onLoad
         }}
     />
 )
 
 Image.propTypes = {
     className: PropTypes.string.isRequired,
-    src: PropTypes.string.isRequired
+    src: PropTypes.string.isRequired,
+    onLoad: PropTypes.func.isRequired
 }
 
 export default Image

@@ -1,22 +1,32 @@
 $height__footer: 48px;
 
 $width__page: 768px;
-$width__child__wide: 640px;
+$width__pageChild: 640px;
 
-$height__child__narrow: 240px;
-$width__child__narrow: $height__child__narrow * 1.5;
+$height__headerChild: 240px;
+$width__headerChild: $height__headerChild * 1.5;
 
-$height__child__narrow__mobile: 160px;
-$width__child__narrow__mobile: $height__child__narrow__mobile * 1.5;
+$height__headerChild__mobile: 160px;
+$width__headerChild__mobile: $height__headerChild__mobile * 1.5;
 
 $margin__narrow: 8px;
 $margin__wide: 24px;
 
 .responsive__header {
+    height: $height__headerChild__mobile + $margin__narrow * 2;
     padding: $margin__narrow 0;
 
     @media (min-width: $width__page) {
+        height: $height__headerChild + $margin__wide * 2;
         padding: $margin__wide 0;
+    }
+}
+
+.responsive__headerChild {
+    width: $width__headerChild__mobile;
+
+    @media (min-width: $width__page) {
+        width: $width__headerChild;
     }
 }
 
@@ -33,15 +43,7 @@ $margin__wide: 24px;
     margin: $margin__narrow $margin__narrow 0;
 
     @media (min-width: $width__page) {
-        width: $width__child__wide - $margin__wide * 2;
+        width: $width__pageChild - $margin__wide * 2;
         margin: $margin__wide $margin__wide 0;
-    }
-}
-
-.responsive__headerChild {
-    width: $width__child__narrow__mobile;
-
-    @media (min-width: $width__page) {
-        width: $width__child__narrow;
     }
 }
