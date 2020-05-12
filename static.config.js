@@ -19,7 +19,6 @@ export default {
             'react-static-plugin-favicons',
             {
                 inputFile: path.resolve('./src/assets/images/bobtailYearlings.png'),
-                outputDir: 'dist/static',
                 configuration: {
                     icons: {
                         // Need to list all favicons.
