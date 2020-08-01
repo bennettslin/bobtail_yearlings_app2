@@ -9,12 +9,7 @@
     border-radius: $borderRadius__medium;
     overflow: hidden;
 
-    opacity: 0;
     transition: opacity 0.2s;
-}
-
-.AlbumLink__shown {
-    opacity: 1;
 }
 
 .AlbumLink__image {
