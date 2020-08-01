@@ -1,8 +1,6 @@
-import React, { Component } from 'react'
+import React, { useState } from 'react'
 import cx from 'classnames'
 import * as EmailValidator from 'email-validator'
-
-import sendEvent from '../../utils/analytics'
 
 import {
     EMAIL_ACTION,
@@ -13,132 +11,118 @@ import {
 
 import './style.scss'
 
-class MailingList extends Component {
+const MailingList = () => {
+    const
+        [isValidEmail, setIsValidEmail] = useState(false),
+        [emailValue, setEmailValue] = useState('')
 
-    constructor(props) {
-        super(props)
-        this.state = {
-            isValidEmail: false,
-            emailValue: ''
-        }
+    const onFocus = e => {
+        logEvent({
+            e,
+            componentName: 'MailingList',
+            analyticsIdentifier: 'email'
+        })
     }
 
-    onChange = ({ target: { value } }) => {
+    const onClick = e => {
+        logEvent({
+            e,
+            componentName: 'MailingList',
+            analyticsIdentifier: 'submit'
+        })
+    }
+
+    const onChange = ({ target: { value } }) => {
         const emailValue = value.replace(' ', '')
 
-        this.setState({
-            isValidEmail: EmailValidator.validate(emailValue),
-            emailValue
-        })
+        setIsValidEmail(EmailValidator.validate(emailValue))
+        setEmailValue(emailValue)
     }
 
-    onInputFocus = () => {
-        sendEvent({
-            category: 'event',
-            action: 'focus',
-            label: 'MailingList email'
-        })
-    }
-
-    onButtonClick = () => {
-        sendEvent({
-            category: 'event',
-            action: 'click',
-            label: 'MailingList submit'
-        })
-    }
-
-    render() {
-        const {
-            isValidEmail,
-            emailValue
-        } = this.state
-
-        return (
-            <form
-                noValidate
+    return (
+        <form
+            noValidate
+            {...{
+                className: cx(
+                    'MailingList',
+                    'responsive__pageChild'
+                ),
+                action: EMAIL_ACTION,
+                method: 'post',
+                target: '_blank'
+            }}
+        >
+            <label
                 {...{
                     className: cx(
-                        'MailingList',
-                        'responsive__pageChild'
-                    ),
-                    action: EMAIL_ACTION,
-                    method: 'post',
-                    target: '_blank'
+                        'MailingList__label',
+                        'Rancho'
+                    )
                 }}
             >
-                <label
+                Mailing List
+            </label>
+            <div
+                {...{
+                    className: cx(
+                        'MailingList__inputs'
+                    )
+                }}
+            >
+                <input
+                    required
                     {...{
                         className: cx(
-                            'MailingList__label',
-                            'Rancho'
-                        )
+                            'MailingList__emailField',
+                            'MailingList__input',
+                            'PtSansNarrow'
+                        ),
+                        id: EMAIL_ID,
+                        name: EMAIL_NAME,
+                        type: 'text',
+                        value: emailValue,
+                        placeholder: 'Email address',
+                        autoComplete: 'off',
+                        maxLength: 254,
+                        onFocus,
+                        onChange
                     }}
-                >
-                    Mailing List
-                </label>
+                />
+                {/* Honeypot field to prevent bot signups. */}
                 <div
                     {...{
-                        className: cx(
-                            'MailingList__inputs'
-                        )
+                        style: {
+                            position: 'absolute',
+                            left: '-5000px'
+                        },
+                        'aria-hidden': true
                     }}
                 >
                     <input
-                        required
                         {...{
-                            className: cx(
-                                'MailingList__emailField',
-                                'MailingList__input',
-                                'PtSansNarrow'
-                            ),
-                            id: EMAIL_ID,
-                            name: EMAIL_NAME,
+                            name: EMAIL_DUMMY_NAME,
                             type: 'text',
-                            value: emailValue,
-                            placeholder: 'Email address',
-                            autoComplete: 'off',
-                            maxLength: 254,
-                            onFocus: this.onInputFocus,
-                            onChange: this.onChange
-                        }}
-                    />
-                    {/* Honeypot field to prevent bot signups. */}
-                    <div
-                        {...{
-                            style: {
-                                position: 'absolute',
-                                left: '-5000px'
-                            },
-                            'aria-hidden': true
-                        }}
-                    >
-                        <input
-                            {...{
-                                name: EMAIL_DUMMY_NAME,
-                                type: 'text',
-                                defaultValue: '',
-                                tabIndex: -1
-                            }}
-                        />
-                    </div>
-                    <input
-                        {...{
-                            className: cx(
-                                'MailingList__submitButton',
-                                'MailingList__input',
-                                'PtSansNarrow'
-                            ),
-                            type: 'submit',
-                            value: 'Sign up!',
-                            disabled: !isValidEmail,
-                            onClick: this.onButtonClick
+                            defaultValue: '',
+                            tabIndex: -1
                         }}
                     />
                 </div>
-            </form>
-        )
-    }
+                <input
+                    {...{
+                        className: cx(
+                            'MailingList__submitButton',
+                            'MailingList__input',
+                            'PtSansNarrow'
+                        ),
+                        type: 'submit',
+                        value: 'Sign up!',
+                        disabled: !isValidEmail,
+                        onClick
+                    }}
+                />
+            </div>
+        </form>
+    )
 }
 
 export default MailingList

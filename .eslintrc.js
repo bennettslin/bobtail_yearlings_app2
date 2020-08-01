@@ -21,7 +21,11 @@ module.exports = {
     ],
     "globals": {
         "BUILD_DATE_TIME": true,
-        "ga": true
+        "ga": true,
+        "logError": true,
+        "logEvent": true,
+        "logMount": true,
+        "logServe": true
     },
     "parser": 'babel-eslint',
     "parserOptions": {

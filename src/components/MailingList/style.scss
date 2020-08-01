@@ -30,6 +30,10 @@ $marginTop__mailingList: 4px;
     @media (min-width: $width__page) {
         font-size: 1.6em;
     }
+
+    &:focus {
+        outline: none;
+    }
 }
 
 .MailingList__emailField {
