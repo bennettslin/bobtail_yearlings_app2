@@ -20,7 +20,7 @@ module.exports = {
         'plugin:react/recommended'
     ],
     "globals": {
-        "dataLayer": true,
+        "BUILD_DATE_TIME": true,
         "ga": true
     },
     "parser": 'babel-eslint',
@@ -38,7 +38,7 @@ module.exports = {
     "settings": {
         'import/resolver': {
             node: {
-                extensions: ['.js', '.jsx']
+                extensions: ['.js', '.jsx', '.scss', '.svg']
             }
         },
         "react": {
@@ -245,7 +245,7 @@ module.exports = {
         "no-with": 'error',
         "object-curly-newline": [
             'error', {
-                "minProperties": 3,
+                "minProperties": 6,
                 "consistent": true
             }
         ],
@@ -275,6 +275,7 @@ module.exports = {
         "prefer-spread": 'error',
         "prefer-template": 'off',
         "quote-props": 'off',
+        "quotes": ['error', 'single', { allowTemplateLiterals: true }],
         "radix": [
             'error',
             'as-needed'

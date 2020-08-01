@@ -1,6 +1,5 @@
-artifacts/
-dist/
-node_modules/
-tmp/
-
 .DS_Store
+.cache/
+node_modules/
+public/
+npm-debug.log
