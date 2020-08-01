@@ -2,22 +2,18 @@
 
 ## Development
 
-Local server.
+Run runtime build on local.
 
 ```
 npm run start
 ```
 
-Stage for local deployment.
+## Staging
+
+Run compiled build on local.
 
 ```
 npm run stage
-```
-
-Check asset sizes.
-
-```
-npm run analyze
 ```
 
 ## Release

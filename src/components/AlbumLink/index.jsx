@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import cx from 'classnames'
 
 import Anchor from '../../components/Anchor'
-import Image from '../../components/Image'
+import Image from '../../modules/Image'
 
 import albumLink from '../../assets/images/albumLink.png'
 

@@ -1,7 +1,7 @@
 import React from 'react'
 import cx from 'classnames'
 
-import Page from '../../components/Page'
+import Page from '../../containers/Page'
 import AlbumLink from '../../components/AlbumLink'
 import MailingList from '../../components/MailingList'
 

@@ -2,8 +2,6 @@ import React from 'react'
 import cx from 'classnames'
 import PropTypes from 'prop-types'
 
-import './style.scss'
-
 const Image = ({
     className,
     src,
