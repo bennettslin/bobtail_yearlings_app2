@@ -11,7 +11,7 @@
     "stage": "npm run build && npm run serve",
     "empty": "aws s3 rm s3://bobtailyearlings --recursive",
     "deploy": "aws s3 sync public/ s3://bobtailyearlings",
-    "release": "npm run build && npm run empty && npm run deploy",
+    "release": "npm run clean && npm run build && npm run empty && npm run deploy",
     "lint": "eslint --ext js,jsx app",
     "lint:fix": "eslint --ext js,jsx --fix app"
   },
