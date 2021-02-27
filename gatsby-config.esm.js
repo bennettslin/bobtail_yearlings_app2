@@ -3,8 +3,9 @@ import { GA_ACCOUNT } from './src/constants/analytics'
 export default {
     plugins: [
         `gatsby-plugin-postcss`,
-        `gatsby-plugin-sass`,
+        `gatsby-plugin-react-helmet`,
         `gatsby-plugin-remove-trailing-slashes`,
+        `gatsby-plugin-sass`,
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
