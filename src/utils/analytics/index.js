@@ -40,7 +40,9 @@ export const setAsyncGaCustomDimensions = async () => {
     isAsyncPromiseComplete = true
 
     logServe(
-        `Public IP address is ${ip}.`,
+        IS_PRODUCTION ?
+            `Asynchronous promises complete for custom dimensions.` :
+            `Public IP address is ${ip}.`,
         {
             action: 'ip',
             label: ip,
@@ -94,7 +96,15 @@ export const sendToGa = ({
 export const logGa = () => {
     if (isGaUndefined()) {
         logServe('GA did not initialise.')
+
     } else {
-        logServe(`GA initialised with property id ${GA_ACCOUNT}.`)
+        logServe(
+            IS_PRODUCTION ?
+                'GA initialised.' :
+                `GA initialised with id ${GA_ACCOUNT}.`,
+            {
+                action: 'ga',
+            }
+        )
     }
 }

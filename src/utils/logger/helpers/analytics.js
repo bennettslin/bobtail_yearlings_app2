@@ -24,23 +24,25 @@ export const sendToGaFromLog = ({
         value,
     })
 
-    let categoryStyle
+    if (!IS_PRODUCTION) {
+        let categoryStyle
 
-    switch (gaStatus) {
-        case 'failure':
-            categoryStyle = ANALYTICS__FAILURE
-            break
-        case 'pending':
-            categoryStyle = ANALYTICS__PENDING
-            break
-        case 'success':
-            categoryStyle = ANALYTICS__SUCCESS
-            break
+        switch (gaStatus) {
+            case 'failure':
+                categoryStyle = ANALYTICS__FAILURE
+                break
+            case 'pending':
+                categoryStyle = ANALYTICS__PENDING
+                break
+            case 'success':
+                categoryStyle = ANALYTICS__SUCCESS
+                break
+        }
+
+        /**
+         * Log analytics parameters to make data analysis easier. Only show
+         * with verbose logging.
+         */
+        console.debug(`%c${`category: ${category}\naction: ${action}${typeof label !== 'undefined' ? `\nlabel: ${label}` : ''}${Number.isFinite(value) ? `\nvalue: ${value}` : ''}`}`, getStyleForCategory({ category: categoryStyle }))
     }
-
-    /**
-     * Log analytics parameters to make data analysis easier. Only show
-     * with verbose logging.
-     */
-    console.debug(`%c${`category: ${category}\naction: ${action}${typeof label !== 'undefined' ? `\nlabel: ${label}` : ''}${Number.isFinite(value) ? `\nvalue: ${value}` : ''}`}`, getStyleForCategory({ category: categoryStyle }))
 }

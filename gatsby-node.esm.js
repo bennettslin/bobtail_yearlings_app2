@@ -1,4 +1,8 @@
 import webpack from 'webpack'
+import {
+    getIsProductionBuild,
+    getIsRuntimeBuild,
+} from './src/utils/node'
 
 export const onCreateWebpackConfig = ({ actions }) => {
 
@@ -10,6 +14,8 @@ export const onCreateWebpackConfig = ({ actions }) => {
             // Define global constant at compile time.
             new webpack.DefinePlugin({
                 BUILD_DATE_TIME: buildDateTime,
+                IS_RUNTIME: getIsRuntimeBuild(),
+                IS_PRODUCTION: getIsProductionBuild(),
             }),
         ],
         resolve: {

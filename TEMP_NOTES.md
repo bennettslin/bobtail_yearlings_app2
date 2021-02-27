@@ -1,2 +1,2 @@
-* Create candidate and delivery in Amazon
-* Copy environment variable patterns in YB
+* Consolidate custom dimensions
+* Favicons for each Bobtail Yearlings environment

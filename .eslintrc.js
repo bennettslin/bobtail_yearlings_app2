@@ -21,10 +21,13 @@ module.exports = {
     ],
     "globals": {
         "BUILD_DATE_TIME": true,
+        'IS_RUNTIME': true,
+        'IS_PRODUCTION': true,
         "ga": true,
         "logError": true,
         "logEvent": true,
-        "logServe": true
+        "logServe": true,
+        "process": true
     },
     "parser": 'babel-eslint',
     "parserOptions": {
