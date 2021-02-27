@@ -15,7 +15,7 @@ const AlbumLink = () => (
                 'AlbumLink',
                 'responsive__pageChild'
             ),
-            href: 'https://www.yearlingsbobtail.com'
+            href: 'https://www.yearlingsbobtail.com',
         }}
     >
         <Image
@@ -23,21 +23,21 @@ const AlbumLink = () => (
                 className: cx(
                     'AlbumLink__image'
                 ),
-                src: albumLink
+                src: albumLink,
             }}
         />
         <div
             {...{
                 className: cx(
                     'AlbumLink__caption'
-                )
+                ),
             }}
         >
             <div
                 {...{
                     className: cx(
                         'AlbumLink__newWebcomic'
-                    )
+                    ),
                 }}
             >
                 our new audio webcomic
@@ -47,7 +47,7 @@ const AlbumLink = () => (
                     className: cx(
                         'AlbumLink__yearlingsBobtail',
                         'Rancho'
-                    )
+                    ),
                 }}
             >
                 <em>{`Yearling's Bobtail`}</em>

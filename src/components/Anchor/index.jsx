@@ -8,7 +8,7 @@ const Anchor = ({
     className,
     href,
     onClick,
-    children
+    children,
 }) => (
     <a
         {...{
@@ -18,7 +18,7 @@ const Anchor = ({
             ),
             href,
             target: '_blank',
-            onClick
+            onClick,
         }}
     >
         {children}
@@ -29,7 +29,7 @@ Anchor.propTypes = {
     className: PropTypes.string,
     href: PropTypes.string.isRequired,
     onClick: PropTypes.func,
-    children: PropTypes.node.isRequired
+    children: PropTypes.node.isRequired,
 }
 
 export default Anchor

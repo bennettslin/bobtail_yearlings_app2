@@ -16,8 +16,8 @@ export default {
                 background_color: '#fff',
                 theme_color: '#fff',
                 display: 'standalone',
-                icon: 'src/assets/favicon/bobtailYearlings.png'
-            }
+                icon: 'src/assets/favicon/bobtailYearlings.png',
+            },
         },
         {
             resolve: `gatsby-plugin-web-font-loader`,
@@ -25,16 +25,16 @@ export default {
                 google: {
                     families: [
                         'Rancho',
-                        'PT Sans Narrow'
-                    ]
-                }
-            }
+                        'PT Sans Narrow',
+                    ],
+                },
+            },
         },
         {
             resolve: `gatsby-plugin-google-analytics`,
             options: {
-                trackingId: GA_ACCOUNT
-            }
-        }
-    ]
+                trackingId: GA_ACCOUNT,
+            },
+        },
+    ],
 }

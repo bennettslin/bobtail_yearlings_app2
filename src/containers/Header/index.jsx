@@ -11,7 +11,7 @@ const Header = () => (
             className: cx(
                 'Header',
                 'responsive__header'
-            )
+            ),
         }}
     >
         <Logo />

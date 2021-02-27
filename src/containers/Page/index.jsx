@@ -6,7 +6,7 @@ import './style.scss'
 
 const Page = ({
     className,
-    children
+    children,
 }) => (
     <div
         {...{
@@ -14,7 +14,7 @@ const Page = ({
                 'Page',
                 'responsive__page',
                 className
-            )
+            ),
         }}
     >
         {children}
@@ -23,7 +23,7 @@ const Page = ({
 
 Page.propTypes = {
     className: PropTypes.string.isRequired,
-    children: PropTypes.node.isRequired
+    children: PropTypes.node.isRequired,
 }
 
 export default Page

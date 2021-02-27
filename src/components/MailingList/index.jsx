@@ -6,7 +6,7 @@ import {
     EMAIL_ACTION,
     EMAIL_NAME,
     EMAIL_DUMMY_NAME,
-    EMAIL_ID
+    EMAIL_ID,
 } from '../../constants/website'
 
 import './style.scss'
@@ -20,7 +20,7 @@ const MailingList = () => {
         logEvent({
             e,
             componentName: 'MailingList',
-            analyticsIdentifier: 'email'
+            analyticsIdentifier: 'email',
         })
     }
 
@@ -28,7 +28,7 @@ const MailingList = () => {
         logEvent({
             e,
             componentName: 'MailingList',
-            analyticsIdentifier: 'submit'
+            analyticsIdentifier: 'submit',
         })
     }
 
@@ -49,7 +49,7 @@ const MailingList = () => {
                 ),
                 action: EMAIL_ACTION,
                 method: 'post',
-                target: '_blank'
+                target: '_blank',
             }}
         >
             <label
@@ -57,7 +57,7 @@ const MailingList = () => {
                     className: cx(
                         'MailingList__label',
                         'Rancho'
-                    )
+                    ),
                 }}
             >
                 Mailing List
@@ -66,7 +66,7 @@ const MailingList = () => {
                 {...{
                     className: cx(
                         'MailingList__inputs'
-                    )
+                    ),
                 }}
             >
                 <input
@@ -85,7 +85,7 @@ const MailingList = () => {
                         autoComplete: 'off',
                         maxLength: 254,
                         onFocus,
-                        onChange
+                        onChange,
                     }}
                 />
                 {/* Honeypot field to prevent bot signups. */}
@@ -93,9 +93,9 @@ const MailingList = () => {
                     {...{
                         style: {
                             position: 'absolute',
-                            left: '-5000px'
+                            left: '-5000px',
                         },
-                        'aria-hidden': true
+                        'aria-hidden': true,
                     }}
                 >
                     <input
@@ -103,7 +103,7 @@ const MailingList = () => {
                             name: EMAIL_DUMMY_NAME,
                             type: 'text',
                             defaultValue: '',
-                            tabIndex: -1
+                            tabIndex: -1,
                         }}
                     />
                 </div>
@@ -117,7 +117,7 @@ const MailingList = () => {
                         type: 'submit',
                         value: 'Sign up!',
                         disabled: !isValidEmail,
-                        onClick
+                        onClick,
                     }}
                 />
             </div>

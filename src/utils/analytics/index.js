@@ -1,26 +1,83 @@
 import { GA_ACCOUNT } from '../../constants/analytics'
+import { getDateTimeForGa } from '../build'
+import { getPublicIp } from '../ip'
+import {
+    BROWSER_NAME, BROWSER_VERSION, ENGINE_NAME, ENGINE_VERSION, OS_NAME, OS_VERSION, PLATFORM_TYPE, PLATFORM_VENDOR,
+} from '../device'
+
+/**
+ * NOTE: This is kind of a quick workaround for now, to delay the initial GA
+ * calls until the async custom dimensions are ready. I may want to make this
+ * logic more robust in the future.
+ */
+let isAsyncPromiseComplete = false
 
 const isGaUndefined = () => (
     typeof ga === 'undefined'
 )
 
-export const getInitialGaLog = () => {
+export const setGaCustomDimensions = () => {
     if (isGaUndefined()) {
-        return 'GA did not initialise.'
-    } else {
-        return `GA initialised with property id ${GA_ACCOUNT}.`
+        return
     }
+    ga('set', 'dimension1', getDateTimeForGa(BUILD_DATE_TIME))
+    ga('set', 'dimension4', BROWSER_NAME)
+    ga('set', 'dimension5', BROWSER_VERSION)
+    ga('set', 'dimension6', ENGINE_NAME)
+    ga('set', 'dimension7', ENGINE_VERSION)
+    ga('set', 'dimension8', OS_NAME)
+    ga('set', 'dimension9', OS_VERSION)
+    ga('set', 'dimension10', PLATFORM_TYPE)
+    ga('set', 'dimension11', PLATFORM_VENDOR)
+}
+
+export const setAsyncGaCustomDimensions = async () => {
+    if (isGaUndefined()) {
+        return
+    }
+    const ip = await getPublicIp()
+    ga('set', 'dimension12', ip)
+    isAsyncPromiseComplete = true
+
+    logServe(
+        `Public IP address is ${ip}.`,
+        {
+            action: 'ip',
+            label: ip,
+        }
+    )
 }
 
 export const sendToGa = ({
-    category = 'category',
-    action = 'action',
+    category,
+    action,
     label,
-    value
+    value,
+    count = 0,
 
 }) => {
     if (isGaUndefined()) {
-        return false
+        return 'failure'
+    }
+
+    /**
+     * If after five seconds the promise hasn't completed, just go ahead and
+     * send the GA event without the async custom dimensions.
+     */
+    if (!isAsyncPromiseComplete && count < 50) {
+        setTimeout(
+            () => {
+                sendToGa({
+                    category,
+                    action,
+                    label,
+                    value,
+                    count: count + 1,
+                })
+            }, 100
+        )
+
+        return 'pending'
     }
 
     ga('send', {
@@ -28,8 +85,16 @@ export const sendToGa = ({
         eventCategory: category,
         eventAction: action,
         ...label && { eventLabel: label },
-        ...value && { eventValue: value }
+        ...value && { eventValue: value },
     })
 
-    return true
+    return 'success'
+}
+
+export const logGa = () => {
+    if (isGaUndefined()) {
+        logServe('GA did not initialise.')
+    } else {
+        logServe(`GA initialised with property id ${GA_ACCOUNT}.`)
+    }
 }

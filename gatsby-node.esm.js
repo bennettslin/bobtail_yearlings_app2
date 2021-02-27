@@ -1,19 +1,20 @@
 import webpack from 'webpack'
-import format from 'date-fns/format'
 
 export const onCreateWebpackConfig = ({ actions }) => {
+
+    // Get primitive value of current date and time.
+    const buildDateTime = new Date().valueOf()
+
     actions.setWebpackConfig({
         plugins: [
             // Define global constant at compile time.
             new webpack.DefinePlugin({
-                BUILD_DATE_TIME: JSON.stringify(
-                    `${format(new Date(), 'MMMM d, yyyy, h:mmaaaaa')}m`
-                )
-            })
+                BUILD_DATE_TIME: buildDateTime,
+            }),
         ],
         resolve: {
             // Import from files without specifying extensions.
-            extensions: ['.js', '.jsx', '.scss', '.svg']
-        }
+            extensions: ['.js', '.jsx', '.scss', '.svg'],
+        },
     })
 }

@@ -9,7 +9,7 @@ const NotFound = () => (
             className: cx(
                 'NotFound',
                 'Rancho'
-            )
+            ),
         }}
     >
         Page Not Found

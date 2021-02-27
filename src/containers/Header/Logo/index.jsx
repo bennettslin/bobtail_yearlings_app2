@@ -12,12 +12,12 @@ const Logo = () => (
             className: cx(
                 'Logo',
                 'responsive__headerChild'
-            )
+            ),
         }}
     >
         <Svg
             {...{
-                src: logo
+                src: logo,
             }}
         />
     </div>

@@ -8,7 +8,7 @@ const Footer = () => (
         {...{
             className: cx(
                 'Footer'
-            )
+            ),
         }}
     >
         {`© ${new Date().getFullYear()} Dogies Almondine Records`}

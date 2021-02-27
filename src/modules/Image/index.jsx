@@ -5,7 +5,7 @@ import PropTypes from 'prop-types'
 const Image = ({
     className,
     src,
-    onLoad
+    onLoad = () => {},
 
 }) => (
     <img
@@ -15,7 +15,7 @@ const Image = ({
                 className
             ),
             src,
-            onLoad
+            onLoad,
         }}
     />
 )
@@ -23,7 +23,7 @@ const Image = ({
 Image.propTypes = {
     className: PropTypes.string.isRequired,
     src: PropTypes.string.isRequired,
-    onLoad: PropTypes.func.isRequired
+    onLoad: PropTypes.func,
 }
 
 export default Image

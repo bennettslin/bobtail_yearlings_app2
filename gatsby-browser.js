@@ -1,20 +1,21 @@
-import React from 'react'
-import Content from './src/containers/Content'
-import Footer from './src/containers/Footer'
-import Header from './src/containers/Header'
-import Wrapper from './src/containers/Wrapper'
+import {
+    logGa,
+    setAsyncGaCustomDimensions,
+    setGaCustomDimensions,
+} from './src/utils/analytics'
+import { logBuild } from './src/utils/build'
+import { logDevice } from './src/utils/device'
+import { globaliseLogs } from './src/utils/global'
 
 // Import these here just to make them available.
-import './src/utils/logger'
 import './src/scss/style'
 
-// eslint-disable-next-line react/prop-types
-export const wrapRootElement = ({ element }) => (
-    <Wrapper>
-        <Header />
-        <Content>
-            {element}
-        </Content>
-        <Footer />
-    </Wrapper>
-)
+globaliseLogs()
+setGaCustomDimensions()
+setAsyncGaCustomDimensions()
+
+logBuild()
+logDevice()
+logGa()
+
+export { wrapRootElement } from './src/utils/gatsby'

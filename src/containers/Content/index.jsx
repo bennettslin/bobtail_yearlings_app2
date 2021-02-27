@@ -9,7 +9,7 @@ const Content = ({ children }) => (
         {...{
             className: cx(
                 'Content'
-            )
+            ),
         }}
     >
         {children}
@@ -17,7 +17,7 @@ const Content = ({ children }) => (
 )
 
 Content.propTypes = {
-    children: PropTypes.node.isRequired
+    children: PropTypes.node.isRequired,
 }
 
 export default Content

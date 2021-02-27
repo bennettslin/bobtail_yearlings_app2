@@ -12,7 +12,7 @@ const Home = () => (
         {...{
             className: cx(
                 'Home'
-            )
+            ),
         }}
     >
         <AlbumLink />
