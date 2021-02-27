@@ -24,7 +24,6 @@ module.exports = {
         "ga": true,
         "logError": true,
         "logEvent": true,
-        "logMount": true,
         "logServe": true
     },
     "parser": 'babel-eslint',

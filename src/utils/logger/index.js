@@ -3,7 +3,6 @@ import { getTimeDifference } from './helpers/time'
 
 import {
     EVENT,
-    MOUNT,
     SERVE,
     ERROR,
     getStyleForCategory,
@@ -47,28 +46,12 @@ const _log = ({
     })
 }
 
-export const logEvent = ({
-    componentName,
-    e: { type },
-    analyticsIdentifier,
-}) => {
+export const logEvent = (componentName, label) => {
     _log({
-        log: `Event "${type}" from ${componentName}.`,
+        log: `Event "${label || 'click'}" from ${componentName}.`,
         category: EVENT,
-        ...Boolean(analyticsIdentifier) && {
-            action: type,
-            label: `${componentName} ${analyticsIdentifier}`,
-        },
-    })
-}
-export const logMount = (componentName) => {
-    _log({
-        log: `${componentName} mounted.`,
-        styleCategory: MOUNT,
-        category: 'lifecycle',
-        action: MOUNT,
-        label: componentName,
-        useTimeForValue: true,
+        action: componentName,
+        label,
     })
 }
 export const logServe = (log, props) => {
@@ -79,12 +62,10 @@ export const logServe = (log, props) => {
         ...props,
     })
 }
-export const logError = ({
-    log,
-    ...props
-}) => {
+export const logError = (log, props) => {
     _log({
         log,
+        level: 'error',
         category: ERROR,
         ...props,
     })

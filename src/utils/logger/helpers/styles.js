@@ -3,7 +3,6 @@ export const ANALYTICS__PENDING = 'analyticsPending'
 export const ANALYTICS__SUCCESS = 'analyticsSuccess'
 export const ERROR = 'error'
 export const EVENT = 'event'
-export const MOUNT = 'mount'
 export const SERVE = 'serve'
 
 const BASE_STYLES = {
@@ -55,10 +54,6 @@ const LOG_STYLES = {
     [EVENT]: {
         color: '#8ad',
         fontSize: '0.8em',
-    },
-    [MOUNT]: {
-        color: '#66b',
-        fontSize: '1.1em',
     },
     [SERVE]: {
         fontSize: '1.1em',
