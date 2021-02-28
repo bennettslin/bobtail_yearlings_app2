@@ -1,7 +1,7 @@
 export const getIsRuntimeBuild = () => (
-    process.env.BY_ENV === 'runtime'
+    process.env.BUILD === 'runtime'
 )
 
 export const getIsProductionBuild = () => (
-    process.env.BY_ENV === 'production'
+    process.env.BUILD === 'production'
 )

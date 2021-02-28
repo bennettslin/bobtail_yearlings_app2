@@ -2,10 +2,12 @@ import { GA_ACCOUNT } from './src/constants/analytics'
 
 export default {
     plugins: [
-        `gatsby-plugin-postcss`,
-        `gatsby-plugin-react-helmet`,
-        `gatsby-plugin-remove-trailing-slashes`,
-        `gatsby-plugin-sass`,
+        {
+            resolve: `gatsby-plugin-google-analytics`,
+            options: {
+                trackingId: GA_ACCOUNT,
+            },
+        },
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
@@ -20,6 +22,10 @@ export default {
                 icon: 'src/assets/favicon/bobtailYearlings.png',
             },
         },
+        `gatsby-plugin-postcss`,
+        `gatsby-plugin-react-helmet`,
+        `gatsby-plugin-remove-trailing-slashes`,
+        `gatsby-plugin-sass`,
         {
             resolve: `gatsby-plugin-web-font-loader`,
             options: {
@@ -29,12 +35,6 @@ export default {
                         'PT Sans Narrow',
                     ],
                 },
-            },
-        },
-        {
-            resolve: `gatsby-plugin-google-analytics`,
-            options: {
-                trackingId: GA_ACCOUNT,
             },
         },
     ],
