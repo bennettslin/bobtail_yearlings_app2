@@ -1,1 +1,0 @@
-* Favicons for each Bobtail Yearlings environment

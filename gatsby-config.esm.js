@@ -1,4 +1,5 @@
 import { GA_ACCOUNT } from './src/constants/analytics'
+import { getFaviconFileName } from './src/utils/node'
 
 export default {
     plugins: [
@@ -15,11 +16,10 @@ export default {
                 short_name: `Bobtail Yearlings`,
                 description: 'Website for the band Bobtail Yearlings',
                 start_url: '/',
-                // TODO: With access to Illustrator again.
-                background_color: '#fff',
-                theme_color: '#fff',
+                background_color: '#e6e6ad',
+                theme_color: '#b38e6b',
                 display: 'standalone',
-                icon: 'src/assets/favicon/bobtailYearlings.png',
+                icon: `src/assets/favicon/${getFaviconFileName()}.png`,
             },
         },
         `gatsby-plugin-postcss`,
