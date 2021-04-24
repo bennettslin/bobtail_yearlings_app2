@@ -2,7 +2,7 @@ import webpack from 'webpack'
 import {
     getIsProductionBuild,
     getIsRuntimeBuild,
-} from './src/utils/node'
+} from './src/utils/server'
 
 export const onCreateWebpackConfig = ({ actions }) => {
 

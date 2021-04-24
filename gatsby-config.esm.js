@@ -1,5 +1,8 @@
 import { GA_ACCOUNT } from './src/constants/analytics'
-import { getFaviconFileName } from './src/utils/node'
+import {
+    getFaviconFileName,
+    getS3BucketName,
+} from './src/utils/server'
 
 export default {
     plugins: [
@@ -26,6 +29,12 @@ export default {
         `gatsby-plugin-react-helmet`,
         `gatsby-plugin-remove-trailing-slashes`,
         `gatsby-plugin-sass`,
+        {
+            resolve: `gatsby-plugin-s3`,
+            options: {
+                bucketName: getS3BucketName(),
+            },
+        },
         {
             resolve: `gatsby-plugin-web-font-loader`,
             options: {

@@ -7,7 +7,7 @@ export const getIsProductionBuild = () => (
 )
 
 export const getFaviconFileName = () => {
-    switch (process.env.FAVICON) {
+    switch (process.env.DESTINATION) {
         case 'local':
             return 'bobtailYearlings_local'
         case 'candidate':
@@ -16,5 +16,16 @@ export const getFaviconFileName = () => {
             return 'bobtailYearlings_delivery'
         default:
             return 'bobtailYearlings'
+    }
+}
+
+export const getS3BucketName = () => {
+    switch (process.env.DESTINATION) {
+        case 'candidate':
+            return 'bobtailyearlings--candidate'
+        case 'delivery':
+            return 'bobtailyearlings--delivery'
+        default:
+            return 'bobtailyearlings--production'
     }
 }
