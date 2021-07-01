@@ -24,12 +24,12 @@ Hi xxx, my name is Bennett and I'm in a rock band called Bobtail Yearlings.
 We have a project called Yearling's Bobtail that's one part double album, one part audio webcomic. An example song:
 https://www.yearlingsbobtail.com/2-willy-the-cocoa
 
-And we promise to help rock music win a Pulitzer prize! Which we explain in this project overview:
+And we promise to help rock music win a Pulitzer prize! It's stated in the project overview:
 https://www.yearlingsbobtail.com/promo/onesheet
 
-If you find our project intriguing, may I ask you to help spread the word about our Pulitzer promise? It could be a quick tweet, or a favorable mention to anyone who might want to work with us. This is a rather complex project to get off the ground on our own, so we're hoping
+If you find our project intriguing, I'm hoping to ask if you can help spread the word about our Pulitzer promise, perhaps in a tweet? Or if you know someone who might be interested in working with us in any way, we'd also appreciate a favorable mention! This is a very complex project to get off the ground on our own, after all.
 
-Of course, an album review or interview would also be appreciated. Thanks so much for your time!
+I'm always happy to talk. Thanks so much for your time!
 
 Best,
 Bennett
