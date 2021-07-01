@@ -17,24 +17,19 @@ https://www.yearlingsbobtail.com/promo
 # Email template
 (Always send from the Dogies Almondine email account)
 
-Hi xxx, I'm in a rock band called Bobtail Yearlings.
+Hi xxx, my name is Bennett and I'm in a rock band called Bobtail Yearlings.
 
-(One or two sentences to mention and compliment their work.)
+(One or two lines to mention and compliment their work. Then tie their work or their interests to my project in the next line or two.)
 
-(Tie their interests and their work to the next lines.)
-
-I'm looking to release a project called Yearling's Bobtail that's one part double album, one part audio webcomic. An example song:
+We have a project called Yearling's Bobtail that's one part double album, one part audio webcomic. An example song:
 https://www.yearlingsbobtail.com/2-willy-the-cocoa
 
-I also promise to help rock music win a Pulitzer prize! I mention this in the project overview:
+And we promise to help rock music win a Pulitzer prize! Which we explain in this project overview:
 https://www.yearlingsbobtail.com/promo/onesheet
 
-If you find this project promising, may I ask you to spread the word about my Pulitzer promise? It could be just a quick tweet, or else a favorable mention to anyone who might be interested in working with us. (Do briefly mention that it needs help from others, but be positive about it.) Of course, an album review or interview would also be appreciated!
+If you find our project intriguing, may I ask you to help spread the word about our Pulitzer promise? It could be a quick tweet, or a favorable mention to anyone who might want to work with us. This is a rather complex project to get off the ground on our own, so we're hoping
 
-Thanks so much for your time.
+Of course, an album review or interview would also be appreciated. Thanks so much for your time!
 
 Best,
 Bennett
-
-# Scraps
-The reason I ask is because I made the "mistake" of creating a project that's far too complex to get off the ground without help from others. And the indie labels and music press aren't set up to recognize this as a valid problem. But it's a catch-22, because any artist who faces this problem will always lack the exposure to bring attention to it!
