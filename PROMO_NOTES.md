@@ -21,15 +21,15 @@ Hi xxx, my name is Bennett and I'm in a rock band called Bobtail Yearlings.
 
 (One or two lines to mention and compliment their work. Then tie their work or their interests to my project in the next line or two.)
 
-We have a project called Yearling's Bobtail that's one part double album, one part audio webcomic. An example song:
+We have a project called Yearling's Bobtail that's one part double album, one part audio webcomic. Here's a song:
 https://www.yearlingsbobtail.com/2-willy-the-cocoa
 
-And we promise to help rock music win a Pulitzer prize! It's stated in the project overview:
+And we promise to help rock music win the Pulitzer Prize! This is explained in our bio and project overview:
 https://www.yearlingsbobtail.com/promo/onesheet
 
-If you find our project intriguing, I'm hoping to ask if you can help spread the word about our Pulitzer promise, perhaps in a tweet? Or if you know someone who might be interested in working with us in any way, we'd also appreciate a favorable mention! This is a very complex project to get off the ground on our own, after all.
+If you're intrigued by our project, would you be willing to spread the word about our Pulitzer promise? It could be a simple tweet, or a recommendation to someone who might want to work with us. This is a rather complex project to get off the ground on our own, so any help is appreciated!
 
-I'm always happy to talk. Thanks so much for your time!
+And if you're curious to learn more, I'd love to answer any questions. Thanks for your time!
 
 Best,
 Bennett
