@@ -29,7 +29,7 @@ https://www.yearlingsbobtail.com/promo/onesheet
 
 If you're intrigued by our project, would you be willing to spread the word about our Pulitzer promise? It could be a simple tweet, or a recommendation to someone who might want to work with us. This is a rather complex project to get off the ground on our own, so any help is appreciated!
 
-And if you're curious to learn more, I'd love to answer any questions. Thanks for your time!
+If you have any questions, I'd love to answer them. Thanks so much for your time!
 
 Best,
 Bennett
