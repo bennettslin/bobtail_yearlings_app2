@@ -1,6 +1,9 @@
 # Band name
 Bobtail Yearlings
 
+# Official release date
+June 18, 2021
+
 # Social links
 https://www.bobtailyearlings.com (band website)
 https://www.yearlingsbobtail.com (album website)
