@@ -3,6 +3,9 @@
 
 .ButtonAnimatable {
     filter: $dropShadow;
+    position: relative;
+    height: auto;
+    width: auto;
 
     .Button:hover
     & {

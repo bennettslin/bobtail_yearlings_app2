@@ -69,25 +69,4 @@ $marginTop__mailingList: 4px;
 
 .MailingList__submitButton {
     height: $height__mailingList + $marginTop__mailingList;
-
-    border: 1px solid transparent;
-    background-color: transparent;
-    
-    color: $colour__link__dark;
-    
-    &:not(:disabled) {
-        cursor: pointer;
-    }
-
-    &:hover {
-        color: $colour__link__medium;
-    }
-
-    &:active {
-        color: $colour__link__light;
-    }
-
-    &:disabled {
-        color: $colour__neutral__light;
-    }
 }

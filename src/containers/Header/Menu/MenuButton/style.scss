@@ -1,0 +1,9 @@
+@import '../../../../scss/constants/responsive';
+
+.MenuButton {
+    font-size: 2.5em;
+
+    &:not(:last-child) {
+        margin-right: $margin__wide;
+    }
+}

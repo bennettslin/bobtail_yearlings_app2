@@ -1,0 +1,30 @@
+@import '../constants/colours';
+
+body {
+    margin: 0;
+    background-color: $colour__background;
+}
+
+button, input[type=submit] {
+	background: none;
+	border: none;
+	padding: 0;
+
+    color: $colour__link__dark;
+
+    &:not(:disabled) {
+        cursor: pointer;
+    }
+
+    &:hover {
+        color: $colour__link__medium;
+    }
+
+    &:active {
+        color: $colour__link__light;
+    }
+
+    &:disabled {
+        color: $colour__neutral__light;
+    }
+}

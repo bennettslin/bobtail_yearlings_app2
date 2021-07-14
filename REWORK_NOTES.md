@@ -1,11 +1,7 @@
 # Rework notes
 
-# TODO
-* Make menu buttons
-    * No event handler for now
+* Create pages
     * Band
-    * Essays
     * Shows
+    * Essays
     * Contact
-* Make social media buttons
-    * No event handler for now

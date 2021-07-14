@@ -1,7 +1,7 @@
 import React from 'react'
 import cx from 'classnames'
 import MailingList from '../../../components/MailingList'
-import SocialButtons from '../../../components/SocialButtons'
+import SocialMediaButtons from '../../../components/SocialMediaButtons'
 import './style'
 
 const Footer = () => (
@@ -13,7 +13,7 @@ const Footer = () => (
         }}
     >
         <MailingList />
-        <SocialButtons />
+        <SocialMediaButtons />
     </div>
 )
 

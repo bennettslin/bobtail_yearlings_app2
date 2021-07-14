@@ -1,8 +1,8 @@
 import React from 'react'
-import cx from 'classnames'
 import PropTypes from 'prop-types'
-import './style'
+import cx from 'classnames'
 import ButtonAnimatable from './Animatable'
+import './style'
 
 const Button = ({
     className,

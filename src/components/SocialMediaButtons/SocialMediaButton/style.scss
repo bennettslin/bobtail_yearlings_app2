@@ -1,0 +1,8 @@
+@import '../../../scss/constants/responsive';
+
+.SocialMediaButton {
+    svg {
+        height: $length__icon;
+        width: $length__icon;
+    }
+}

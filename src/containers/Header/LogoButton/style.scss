@@ -1,11 +1,13 @@
 @import '../../../scss/constants/responsive';
 
 .LogoButton {
-    height: $height__headerChild;
-    width: $height__headerChild * 1.5;
-
     .primaryDark { fill: hsl(30, 22%, 45%); }
     .primaryLight { fill: hsl(30, 30%, 57%); }
     .secondaryDark { fill: hsl(225, 20%, 35%); }
     .sclera { fill: hsl(225, 20%, 90%); }
+
+    svg {
+        height: $height__headerChild;
+        width: $height__headerChild * 1.5;
+    }
 }

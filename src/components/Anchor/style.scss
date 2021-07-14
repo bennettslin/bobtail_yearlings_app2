@@ -1,0 +1,10 @@
+@import '../../scss/constants/shadows';
+@import '../../scss/constants/transition';
+
+.Anchor {
+    filter: $dropShadow;
+
+    &:hover {
+        filter: $dropShadow__lightHover;
+    }
+}
