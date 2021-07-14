@@ -1,18 +1,18 @@
 import React from 'react'
 import cx from 'classnames'
 import Page from '../../containers/Page'
-import AlbumLink from '../../components/AlbumLink'
+import Heading from '../../components/Heading'
 
-const Home = () => (
+const Essays = () => (
     <Page
         {...{
             className: cx(
-                'Home'
+                'Essays'
             ),
         }}
     >
-        <AlbumLink />
+        <Heading>Essays</Heading>
     </Page>
 )
 
-export default Home
+export default Essays

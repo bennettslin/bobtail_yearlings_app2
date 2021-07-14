@@ -1,18 +1,18 @@
 import React from 'react'
 import cx from 'classnames'
 import Page from '../../containers/Page'
-import AlbumLink from '../../components/AlbumLink'
+import Heading from '../../components/Heading'
 
-const Home = () => (
+const Contact = () => (
     <Page
         {...{
             className: cx(
-                'Home'
+                'Contact'
             ),
         }}
     >
-        <AlbumLink />
+        <Heading>Contact</Heading>
     </Page>
 )
 
-export default Home
+export default Contact
