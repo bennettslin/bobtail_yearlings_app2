@@ -2,33 +2,29 @@ import React from 'react'
 import cx from 'classnames'
 import PropTypes from 'prop-types'
 import './style'
+import ButtonAnimatable from './Animatable'
 
-const Anchor = ({
+const Button = ({
     className,
-    href,
-    onClick,
     children,
 }) => (
-    <a
+    <button
         {...{
             className: cx(
-                'Anchor',
+                'Button',
                 className
             ),
-            href,
-            target: '_blank',
-            onClick,
         }}
     >
-        {children}
-    </a>
+        <ButtonAnimatable>
+            {children}
+        </ButtonAnimatable>
+    </button>
 )
 
-Anchor.propTypes = {
+Button.propTypes = {
     className: PropTypes.string,
-    href: PropTypes.string.isRequired,
-    onClick: PropTypes.func,
     children: PropTypes.node.isRequired,
 }
 
-export default Anchor
+export default Button

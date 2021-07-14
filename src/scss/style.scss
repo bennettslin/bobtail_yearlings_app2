@@ -1,8 +1,16 @@
+@import './classes/animation';
 @import './classes/font';
-@import './classes/responsive';
 @import './constants/colours';
 
 body {
     margin: 0;
     background-color: $colour__background;
+}
+
+button {
+	background: none;
+	border: none;
+	color: inherit;
+	cursor: pointer;
+	padding: 0;
 }

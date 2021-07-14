@@ -3,15 +3,13 @@ import PropTypes from 'prop-types'
 import cx from 'classnames'
 import './style'
 
-const Page = ({
-    className,
+const ButtonAnimatable = ({
     children,
 }) => (
     <div
         {...{
             className: cx(
-                'Page',
-                className
+                'ButtonAnimatable',
             ),
         }}
     >
@@ -19,9 +17,8 @@ const Page = ({
     </div>
 )
 
-Page.propTypes = {
-    className: PropTypes.string.isRequired,
-    children: PropTypes.node.isRequired,
+ButtonAnimatable.propTypes = {
+    children: PropTypes.any,
 }
 
-export default Page
+export default ButtonAnimatable

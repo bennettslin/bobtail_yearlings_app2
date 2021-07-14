@@ -1,7 +1,11 @@
 @import '../../scss/constants/responsive';
 
 .Header {
+    height: $height__headerChild;
+    
+    padding: $margin__narrow;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     background-color: #fdd;
 }

@@ -1,12 +1,9 @@
 import React from 'react'
 import cx from 'classnames'
-
 import Anchor from '../../components/Anchor'
 import Image from '../../modules/Image'
-
 import albumLink from '../../assets/images/albumLink.png'
-
-import './style.scss'
+import './style'
 
 const AlbumLink = () => (
     <Anchor

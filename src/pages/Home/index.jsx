@@ -2,7 +2,7 @@ import React from 'react'
 import cx from 'classnames'
 import Page from '../../containers/Page'
 import AlbumLink from '../../components/AlbumLink'
-import './style.scss'
+import './style'
 
 const Home = () => (
     <Page

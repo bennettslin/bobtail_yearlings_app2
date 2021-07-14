@@ -1,17 +1,17 @@
 import React from 'react'
 import cx from 'classnames'
-import Logo from './Logo'
-import './style.scss'
+import Logo from './LogoButton'
+import './style'
 
 const Header = () => (
     <div
         {...{
             className: cx(
                 'Header',
-                'responsive__header'
             ),
         }}
     >
+        <Logo />
         <Logo />
     </div>
 )

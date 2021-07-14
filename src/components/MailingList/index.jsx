@@ -1,15 +1,13 @@
 import React, { useState } from 'react'
 import cx from 'classnames'
 import * as EmailValidator from 'email-validator'
-
 import {
     EMAIL_ACTION,
     EMAIL_NAME,
     EMAIL_DUMMY_NAME,
     EMAIL_ID,
 } from '../../constants/website'
-
-import './style.scss'
+import './style'
 
 const MailingList = () => {
     const

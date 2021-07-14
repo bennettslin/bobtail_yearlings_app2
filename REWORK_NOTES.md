@@ -1,13 +1,12 @@
 # Rework notes
 
-* Menu
-    * Band logo on left
-        * Clicking brings back home
-    * Menu buttons on right
-        * Band
-        * Essays
-        * Shows
-        * Contact
-* Footer
-    * Mailing list on left
-    * Social buttons on right
+# TODO
+* Make mailing list nice on responsive
+* Make menu buttons
+    * No event handler for now
+    * Band
+    * Essays
+    * Shows
+    * Contact
+* Make social media buttons
+    * No event handler for now
