@@ -2,9 +2,11 @@
 
 .Footer {
     height: $height__footer;
+    padding: 0 $margin__wide;
 
     display: flex;
     justify-content: space-between;
+    align-items: center;
 
     background-color: #fdf;
 }

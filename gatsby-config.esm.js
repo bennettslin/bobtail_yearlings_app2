@@ -35,16 +35,5 @@ export default {
                 bucketName: getS3BucketName(),
             },
         },
-        {
-            resolve: `gatsby-plugin-web-font-loader`,
-            options: {
-                google: {
-                    families: [
-                        'Rancho',
-                        'PT Sans Narrow',
-                    ],
-                },
-            },
-        },
     ],
 }

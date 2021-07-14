@@ -1,7 +1,6 @@
 # Rework notes
 
 # TODO
-* Make mailing list nice on responsive
 * Make menu buttons
     * No event handler for now
     * Band
