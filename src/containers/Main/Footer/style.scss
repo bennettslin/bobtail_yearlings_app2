@@ -1,0 +1,10 @@
+@import '../../../scss/constants/responsive';
+
+.Footer {
+    height: $height__footer;
+
+    display: flex;
+    justify-content: space-between;
+
+    background-color: #fdf;
+}

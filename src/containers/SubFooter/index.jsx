@@ -1,13 +1,12 @@
 import React from 'react'
 import cx from 'classnames'
-
 import './style.scss'
 
-const Footer = () => (
+const SubFooter = () => (
     <div
         {...{
             className: cx(
-                'Footer'
+                'SubFooter'
             ),
         }}
     >
@@ -15,4 +14,4 @@ const Footer = () => (
     </div>
 )
 
-export default Footer
+export default SubFooter

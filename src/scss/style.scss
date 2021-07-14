@@ -1,11 +1,8 @@
+@import './classes/font';
+@import './classes/responsive';
+@import './constants/colours';
+
 body {
     margin: 0;
-}
-
-.PtSansNarrow {
-    font-family: PT Sans Narrow, Arial;
-}
-
-.Rancho {
-    font-family: Rancho, Georgia;
+    background-color: $colour__background;
 }

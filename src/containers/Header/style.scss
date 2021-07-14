@@ -1,6 +1,7 @@
-@import '../../scss/responsive';
+@import '../../scss/constants/responsive';
 
 .Header {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    background-color: #fdd;
 }

@@ -13,7 +13,6 @@ const AlbumLink = () => (
         {...{
             className: cx(
                 'AlbumLink',
-                'responsive__pageChild'
             ),
             href: 'https://www.yearlingsbobtail.com',
         }}

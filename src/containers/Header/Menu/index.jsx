@@ -2,17 +2,17 @@ import React from 'react'
 import cx from 'classnames'
 import './style.scss'
 
-const NotFound = () => (
+const Menu = () => (
     <div
         {...{
             className: cx(
-                'NotFound',
-                'Rancho'
+                'Menu',
+                'responsive__headerChild'
             ),
         }}
     >
-        Page Not Found
+
     </div>
 )
 
-export default NotFound
+export default Menu

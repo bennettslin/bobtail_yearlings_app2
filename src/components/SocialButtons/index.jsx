@@ -11,21 +11,21 @@ import {
 
 import './style.scss'
 
-const MailingList = () => {
+const SocialButtons = () => {
     const
         [isValidEmail, setIsValidEmail] = useState(false),
         [emailValue, setEmailValue] = useState('')
 
     const onFocus = () => {
         logEvent(
-            'MailingList',
+            'SocialButtons',
             'email'
         )
     }
 
     const onClick = () => {
         logEvent(
-            'MailingList',
+            'SocialButtons',
             'submit'
         )
     }
@@ -42,7 +42,7 @@ const MailingList = () => {
             noValidate
             {...{
                 className: cx(
-                    'MailingList',
+                    'SocialButtons',
                 ),
                 action: EMAIL_ACTION,
                 method: 'post',
@@ -52,7 +52,7 @@ const MailingList = () => {
             <label
                 {...{
                     className: cx(
-                        'MailingList__label',
+                        'SocialButtons__label',
                         'Rancho'
                     ),
                 }}
@@ -62,7 +62,7 @@ const MailingList = () => {
             <div
                 {...{
                     className: cx(
-                        'MailingList__inputs'
+                        'SocialButtons__inputs'
                     ),
                 }}
             >
@@ -70,8 +70,8 @@ const MailingList = () => {
                     required
                     {...{
                         className: cx(
-                            'MailingList__emailField',
-                            'MailingList__input',
+                            'SocialButtons__emailField',
+                            'SocialButtons__input',
                             'PtSansNarrow'
                         ),
                         id: EMAIL_ID,
@@ -107,8 +107,8 @@ const MailingList = () => {
                 <input
                     {...{
                         className: cx(
-                            'MailingList__submitButton',
-                            'MailingList__input',
+                            'SocialButtons__submitButton',
+                            'SocialButtons__input',
                             'PtSansNarrow'
                         ),
                         type: 'submit',
@@ -122,4 +122,4 @@ const MailingList = () => {
     )
 }
 
-export default MailingList
+export default SocialButtons
