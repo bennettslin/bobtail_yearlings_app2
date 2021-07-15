@@ -1,10 +1,16 @@
 @import '../../scss/constants/responsive';
 
 .Header {
-    height: $height__headerChild;
+    height: $height__header__mobile;
     padding: $margin__narrow $margin__wide;
+
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    // background-color: #fdd;
+
+    @media (min-width: $width__breakpoint) {
+        height: $height__header;
+        flex-direction: row;
+    }
 }

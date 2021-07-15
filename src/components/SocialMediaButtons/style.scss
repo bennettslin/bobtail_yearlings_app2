@@ -1,4 +1,8 @@
+@import '../../scss/constants/responsive.scss';
+
 .SocialMediaButtons {
+    padding: $margin__narrow 0;
+
     display: flex;
     justify-content: center;
     align-items: center;

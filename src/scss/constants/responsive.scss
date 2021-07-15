@@ -1,15 +1,15 @@
+$width__breakpoint: 900px;
 $width__page: 1200px;
-$width__pageChild: 900px;
 
-$height__headerChild: 96px;
-$width__headerChild: $height__headerChild * 1.5;
+$height__header__mobile: 144px;
+$height__header: 96px;
 
-$height__headerChild__mobile: 80px;
-$width__headerChild__mobile: $height__headerChild__mobile * 1.5;
-
+$height__footer__mobile: 132px;
 $height__footer: 96px;
+
 $height__subFooter: 48px;
 
+$length__icon__mobile: 32px;
 $length__icon: 44px;
 
 $margin__narrow: 8px;

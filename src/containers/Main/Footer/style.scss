@@ -1,12 +1,16 @@
 @import '../../../scss/constants/responsive';
 
 .Footer {
-    height: $height__footer;
+    height: $height__footer__mobile;
     padding: 0 $margin__wide;
 
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
     align-items: center;
 
-    // background-color: #fdf;
+    @media (min-width: $width__breakpoint) {
+        height: $height__footer;
+        flex-direction: row;
+    }
 }

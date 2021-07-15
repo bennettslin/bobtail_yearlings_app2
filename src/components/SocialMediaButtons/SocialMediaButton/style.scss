@@ -2,7 +2,14 @@
 
 .SocialMediaButton {
     svg {
-        height: $length__icon;
-        width: $length__icon;
+        height: $length__icon__mobile;
+        width: $length__icon__mobile;
+    }
+
+    @media (min-width: $width__breakpoint) {
+        svg {
+            height: $length__icon;
+            width: $length__icon;
+        }    
     }
 }
