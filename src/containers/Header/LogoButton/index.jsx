@@ -1,7 +1,7 @@
 import React from 'react'
 import cx from 'classnames'
 import Button from '../../../components/Button'
-import Svg from '../../../modules/Svg'
+import Svg from '../../../components/Svg'
 import logo from '../../../assets/svgs/logo.svg'
 import { getPathForPage, HOME_PAGE } from '../../../constants/pages'
 import './style'
