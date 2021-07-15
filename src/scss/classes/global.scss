@@ -5,11 +5,17 @@ body {
     background-color: $colour__background;
 }
 
+a {
+    text-decoration: none;
+}
+
 button, input[type=submit] {
 	background: none;
 	border: none;
 	padding: 0;
+}
 
+a, button, input[type=submit] {
     color: $colour__link__dark;
 
     &:not(:disabled) {

@@ -4,13 +4,14 @@ import cx from 'classnames'
 import Button from '../../../../components/Button'
 import './style'
 
-const MenuButton = ({ children }) => (
+const MenuButton = ({ to, children }) => (
     <Button
         {...{
             className: cx(
                 'MenuButton',
                 'Rancho',
             ),
+            to,
         }}
     >
         {children}
@@ -18,6 +19,7 @@ const MenuButton = ({ children }) => (
 )
 
 MenuButton.propTypes = {
+    to: PropTypes.string.isRequired,
     children: PropTypes.string.isRequired,
 }
 

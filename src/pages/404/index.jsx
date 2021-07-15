@@ -1,9 +1,10 @@
 import React from 'react'
 import cx from 'classnames'
+import Page from '../../containers/Page'
 import Heading from '../../components/Heading'
 
 const NotFound = () => (
-    <div
+    <Page
         {...{
             className: cx(
                 'NotFound',
@@ -11,7 +12,7 @@ const NotFound = () => (
         }}
     >
         <Heading>Page Not Found</Heading>
-    </div>
+    </Page>
 )
 
 export default NotFound

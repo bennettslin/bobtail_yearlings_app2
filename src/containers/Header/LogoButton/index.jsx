@@ -3,6 +3,7 @@ import cx from 'classnames'
 import Button from '../../../components/Button'
 import Svg from '../../../modules/Svg'
 import logo from '../../../assets/svgs/logo.svg'
+import { getPathForPage, HOME_PAGE } from '../../../constants/pages'
 import './style'
 
 const LogoButton = () => (
@@ -11,6 +12,7 @@ const LogoButton = () => (
             className: cx(
                 'LogoButton',
             ),
+            to: getPathForPage(HOME_PAGE),
         }}
     >
         <Svg

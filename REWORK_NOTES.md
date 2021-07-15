@@ -8,6 +8,4 @@
     * Tooltip for social media button
         * Needs Redux store?
 
-* Not Found page doesn't have header or footer
-
 * Flesh out each page
