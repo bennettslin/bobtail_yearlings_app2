@@ -4,16 +4,26 @@ import cx from 'classnames'
 import SocialMediaButton from '../'
 import Svg from '../../../../modules/Svg'
 import twitter from '../../../../assets/svgs/twitter.svg'
+import { openSocialMediaPopup } from '../helper'
+import { TWITTER_ID } from '../../../../constants/socialMedia'
 import './style'
 
-// eslint-disable-next-line no-unused-vars
-const TwitterButton = ({ id }) => {
+const TwitterButton = ({ page }) => {
+
+    const handleButtonClick = () => {
+        openSocialMediaPopup({
+            page,
+            brandId: TWITTER_ID,
+        })
+    }
+
     return (
         <SocialMediaButton
             {...{
                 className: cx(
                     'TwitterButton',
                 ),
+                handleButtonClick,
             }}
         >
             <Svg
@@ -26,7 +36,7 @@ const TwitterButton = ({ id }) => {
 }
 
 TwitterButton.propTypes = {
-    id: PropTypes.string.isRequired,
+    page: PropTypes.string.isRequired,
 }
 
 export default TwitterButton

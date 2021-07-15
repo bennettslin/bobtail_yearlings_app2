@@ -4,10 +4,11 @@ import cx from 'classnames'
 import FacebookButton from './SocialMediaButton/FacebookButton'
 import TwitterButton from './SocialMediaButton/TwitterButton'
 import CopyUrlButton from './SocialMediaButton/CopyUrlButton'
+import { HOME_PAGE } from '../../constants/pages'
 import './style'
 
 const SocialMediaButtons = ({
-    id,
+    page = HOME_PAGE,
     className,
 }) => (
     <div
@@ -18,14 +19,14 @@ const SocialMediaButtons = ({
             ),
         }}
     >
-        <FacebookButton {...{ id }} />
-        <TwitterButton {...{ id }} />
-        <CopyUrlButton {...{ id }} />
+        <FacebookButton {...{ page }} />
+        <TwitterButton {...{ page }} />
+        <CopyUrlButton {...{ page }} />
     </div>
 )
 
 SocialMediaButtons.propTypes = {
-    id: PropTypes.string.isRequired,
+    page: PropTypes.string,
     className: PropTypes.string,
 }
 

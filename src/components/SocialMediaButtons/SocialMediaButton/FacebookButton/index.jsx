@@ -4,16 +4,26 @@ import cx from 'classnames'
 import SocialMediaButton from '../'
 import Svg from '../../../../modules/Svg'
 import facebook from '../../../../assets/svgs/facebook.svg'
+import { openSocialMediaPopup } from '../helper'
+import { FACEBOOK_ID } from '../../../../constants/socialMedia'
 import './style'
 
-// eslint-disable-next-line no-unused-vars
-const FacebookButton = ({ id }) => {
+const FacebookButton = ({ page }) => {
+
+    const handleButtonClick = () => {
+        openSocialMediaPopup({
+            page,
+            brandId: FACEBOOK_ID,
+        })
+    }
+
     return (
         <SocialMediaButton
             {...{
                 className: cx(
                     'FacebookButton',
                 ),
+                handleButtonClick,
             }}
         >
             <Svg
@@ -26,7 +36,7 @@ const FacebookButton = ({ id }) => {
 }
 
 FacebookButton.propTypes = {
-    id: PropTypes.string.isRequired,
+    page: PropTypes.string.isRequired,
 }
 
 export default FacebookButton
