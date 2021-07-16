@@ -1,16 +1,10 @@
 import React from 'react'
-import cx from 'classnames'
 import Page from '../../containers/Page'
 import Heading from '../../components/Heading'
+import { NOT_FOUND_PAGE } from '../../constants/pages'
 
 const NotFound = () => (
-    <Page
-        {...{
-            className: cx(
-                'NotFound',
-            ),
-        }}
-    >
+    <Page {...{ page: NOT_FOUND_PAGE }}>
         <Heading>Page Not Found</Heading>
     </Page>
 )

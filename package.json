@@ -38,9 +38,11 @@
     "react-dom": "^16.12.0",
     "react-helmet": "^6.1.0",
     "react-inlinesvg": "^1.2.0",
+    "react-redux": "^7.2.4",
     "react-router": "^5.1.2",
     "react-router-dom": "^5.1.2",
-    "react-tooltip": "^4.2.21"
+    "react-tooltip": "^4.2.21",
+    "redux": "^4.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
@@ -77,6 +79,7 @@
     "gatsby-plugin-sass": "^2.3.2",
     "jsdom": "^16.2.0",
     "node-sass": "^4.14.1",
+    "redux-devtools-extension": "^2.13.9",
     "webpack": "^4.41.6"
   }
 }

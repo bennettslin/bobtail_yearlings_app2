@@ -3,6 +3,7 @@ import encodeUrl from 'encodeurl'
 const BOBTAIL_YEARLINGS_DOMAIN = `https://www.bobtailyearlings.com`
 
 export const HOME_PAGE = 'home'
+export const NOT_FOUND_PAGE = '404'
 export const BAND_PAGE = 'band'
 export const SHOWS_PAGE = 'shows'
 export const ESSAYS_PAGE = 'essays'

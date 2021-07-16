@@ -1,20 +1,22 @@
 import React, { useEffect, useRef, useState } from 'react'
-import PropTypes from 'prop-types'
 import cx from 'classnames'
+import { useSelector } from 'react-redux'
 import ReactTooltip from 'react-tooltip'
 import SocialMediaButton from '../'
 import Svg from '../../../Svg'
 import copyUrl from '../../../../assets/svgs/copyUrl'
 import copyUrlCopied from '../../../../assets/svgs/copyUrlCopied'
+import { mapSelectedPage } from '../../../../redux/page/selector'
 import { getEncodedUrl } from '../../../../constants/pages'
 import './style'
 
 const TOOLTIP_TEXT = 'link copied!'
 
-const CopyUrlButton = ({ page }) => {
+const CopyUrlButton = () => {
     const
         buttonRef = useRef(),
         copiedUrlRef = useRef(),
+        selectedPage = useSelector(mapSelectedPage),
         [isCopied, setIsCopied] = useState(false),
         [copyTimeoutId, setCopyTimeoutId] = useState(-1)
 
@@ -27,7 +29,7 @@ const CopyUrlButton = ({ page }) => {
     }
 
     const handleButtonClick = () => {
-        navigator.clipboard.writeText(getEncodedUrl(page))
+        navigator.clipboard.writeText(getEncodedUrl(selectedPage))
 
         clearTimeout(copyTimeoutId)
         setIsCopied(true)
@@ -55,7 +57,7 @@ const CopyUrlButton = ({ page }) => {
                     'CopyUrlButton',
                 ),
                 ...isCopied && {
-                    tooltipId: page,
+                    tooltipId: selectedPage,
                     tooltipText: TOOLTIP_TEXT,
                 },
                 handleButtonClick,
@@ -69,10 +71,6 @@ const CopyUrlButton = ({ page }) => {
             />
         </SocialMediaButton>
     )
-}
-
-CopyUrlButton.propTypes = {
-    page: PropTypes.string.isRequired,
 }
 
 export default CopyUrlButton

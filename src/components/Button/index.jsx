@@ -1,14 +1,17 @@
 import React, { forwardRef } from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
+import { useDispatch } from 'react-redux'
 import { Link } from 'gatsby'
 import ButtonAnimatable from './Animatable'
 import Tooltip from './Tooltip'
+import { updateSelectedPage } from '../../redux/page/action'
+import { getPathForPage } from '../../constants/pages'
 import './style'
 
 const Button = forwardRef(({
     className,
-    to,
+    pageLink,
     tooltipId,
     tooltipText,
     isTooltipSuccess,
@@ -17,10 +20,15 @@ const Button = forwardRef(({
     children,
 }, ref) => {
     const
-        Tag = to ? Link : 'button',
+        dispatch = useDispatch(),
+        Tag = pageLink ? Link : 'button',
         isTooltipEnabled = Boolean(tooltipId)
 
     const onClick = e => {
+        if (pageLink) {
+            dispatch(updateSelectedPage(pageLink))
+        }
+
         handleButtonClick(e)
     }
 
@@ -32,7 +40,7 @@ const Button = forwardRef(({
                     'Button',
                     className
                 ),
-                to,
+                to: getPathForPage(pageLink),
                 onClick,
                 ...isTooltipEnabled && {
                     'data-for': tooltipId,
@@ -58,7 +66,7 @@ const Button = forwardRef(({
 
 Button.propTypes = {
     className: PropTypes.string,
-    to: PropTypes.string,
+    pageLink: PropTypes.string,
     tooltipId: PropTypes.string,
     tooltipText: PropTypes.string,
     isTooltipShown: PropTypes.bool,

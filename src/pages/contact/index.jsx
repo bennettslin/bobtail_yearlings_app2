@@ -1,16 +1,10 @@
 import React from 'react'
-import cx from 'classnames'
 import Page from '../../containers/Page'
 import Heading from '../../components/Heading'
+import { CONTACT_PAGE } from '../../constants/pages'
 
 const Contact = () => (
-    <Page
-        {...{
-            className: cx(
-                'Contact'
-            ),
-        }}
-    >
+    <Page {...{ page: CONTACT_PAGE }}>
         <Heading>Contact</Heading>
     </Page>
 )

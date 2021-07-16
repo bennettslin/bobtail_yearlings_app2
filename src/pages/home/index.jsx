@@ -1,16 +1,10 @@
 import React from 'react'
-import cx from 'classnames'
 import Page from '../../containers/Page'
 import AlbumLink from '../../components/AlbumLink'
+import { HOME_PAGE } from '../../constants/pages'
 
 const Home = () => (
-    <Page
-        {...{
-            className: cx(
-                'Home'
-            ),
-        }}
-    >
+    <Page {...{ page: HOME_PAGE }}>
         <AlbumLink />
     </Page>
 )

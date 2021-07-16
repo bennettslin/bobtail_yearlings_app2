@@ -1,16 +1,10 @@
 import React from 'react'
-import cx from 'classnames'
 import Page from '../../containers/Page'
 import Heading from '../../components/Heading'
+import { SHOWS_PAGE } from '../../constants/pages'
 
 const Shows = () => (
-    <Page
-        {...{
-            className: cx(
-                'Shows'
-            ),
-        }}
-    >
+    <Page {...{ page: SHOWS_PAGE }}>
         <Heading>Shows</Heading>
     </Page>
 )

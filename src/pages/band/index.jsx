@@ -1,16 +1,10 @@
 import React from 'react'
-import cx from 'classnames'
 import Page from '../../containers/Page'
 import Heading from '../../components/Heading'
+import { BAND_PAGE } from '../../constants/pages'
 
 const Band = () => (
-    <Page
-        {...{
-            className: cx(
-                'Band'
-            ),
-        }}
-    >
+    <Page {...{ page: BAND_PAGE }}>
         <Heading>Band</Heading>
     </Page>
 )

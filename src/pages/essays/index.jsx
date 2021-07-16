@@ -1,18 +1,11 @@
 import React from 'react'
-import cx from 'classnames'
 import Page from '../../containers/Page'
 import Heading from '../../components/Heading'
+import { ESSAYS_PAGE } from '../../constants/pages'
 
 const Essays = () => (
-    <Page
-        {...{
-            className: cx(
-                'Essays'
-            ),
-        }}
-    >
+    <Page {...{ page: ESSAYS_PAGE }}>
         <Heading>Essays</Heading>
     </Page>
 )
-
 export default Essays

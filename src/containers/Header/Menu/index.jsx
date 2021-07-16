@@ -5,7 +5,6 @@ import {
     BAND_PAGE,
     CONTACT_PAGE,
     ESSAYS_PAGE,
-    getPathForPage,
     SHOWS_PAGE,
 } from '../../../constants/pages'
 import './style'
@@ -18,16 +17,16 @@ const Menu = () => (
             ),
         }}
     >
-        <MenuButton {...{ to: getPathForPage(BAND_PAGE) }}>
+        <MenuButton {...{ pageLink: BAND_PAGE }}>
             Band
         </MenuButton>
-        <MenuButton {...{ to: getPathForPage(SHOWS_PAGE) }}>
+        <MenuButton {...{ pageLink: SHOWS_PAGE }}>
             Shows
         </MenuButton>
-        <MenuButton {...{ to: getPathForPage(ESSAYS_PAGE) }}>
+        <MenuButton {...{ pageLink: ESSAYS_PAGE }}>
             Essays
         </MenuButton>
-        <MenuButton {...{ to: getPathForPage(CONTACT_PAGE) }}>
+        <MenuButton {...{ pageLink: CONTACT_PAGE }}>
             Contact
         </MenuButton>
     </div>

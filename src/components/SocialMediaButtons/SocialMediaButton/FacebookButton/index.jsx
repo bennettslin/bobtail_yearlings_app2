@@ -1,18 +1,20 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import cx from 'classnames'
+import { useSelector } from 'react-redux'
 import SocialMediaButton from '../'
 import Svg from '../../../Svg'
 import facebook from '../../../../assets/svgs/facebook.svg'
+import { mapSelectedPage } from '../../../../redux/page/selector'
 import { openSocialMediaPopup } from '../helper'
 import { FACEBOOK_ID } from '../../../../constants/socialMedia'
 import './style'
 
-const FacebookButton = ({ page }) => {
+const FacebookButton = () => {
+    const selectedPage = useSelector(mapSelectedPage)
 
     const handleButtonClick = () => {
         openSocialMediaPopup({
-            page,
+            page: selectedPage,
             brandId: FACEBOOK_ID,
         })
     }
@@ -33,10 +35,6 @@ const FacebookButton = ({ page }) => {
             />
         </SocialMediaButton>
     )
-}
-
-FacebookButton.propTypes = {
-    page: PropTypes.string.isRequired,
 }
 
 export default FacebookButton

@@ -1,18 +1,20 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import cx from 'classnames'
+import { useSelector } from 'react-redux'
 import SocialMediaButton from '../'
 import Svg from '../../../Svg'
 import twitter from '../../../../assets/svgs/twitter.svg'
+import { mapSelectedPage } from '../../../../redux/page/selector'
 import { openSocialMediaPopup } from '../helper'
 import { TWITTER_ID } from '../../../../constants/socialMedia'
 import './style'
 
-const TwitterButton = ({ page }) => {
+const TwitterButton = () => {
+    const selectedPage = useSelector(mapSelectedPage)
 
     const handleButtonClick = () => {
         openSocialMediaPopup({
-            page,
+            page: selectedPage,
             brandId: TWITTER_ID,
         })
     }
@@ -33,10 +35,6 @@ const TwitterButton = ({ page }) => {
             />
         </SocialMediaButton>
     )
-}
-
-TwitterButton.propTypes = {
-    page: PropTypes.string.isRequired,
 }
 
 export default TwitterButton
