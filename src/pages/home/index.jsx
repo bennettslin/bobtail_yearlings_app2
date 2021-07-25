@@ -4,7 +4,7 @@ import AlbumLink from '../../components/AlbumLink'
 import { HOME_PAGE } from '../../constants/pages'
 
 const Home = () => (
-    <Page {...{ page: HOME_PAGE }}>
+    <Page isWide {...{ page: HOME_PAGE }}>
         <AlbumLink />
     </Page>
 )

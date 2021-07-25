@@ -25,6 +25,7 @@ const TwitterButton = () => {
                 className: cx(
                     'TwitterButton',
                 ),
+                id: TWITTER_ID,
                 handleButtonClick,
             }}
         >

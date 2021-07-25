@@ -12,6 +12,7 @@ const LogoButton = () => (
             className: cx(
                 'LogoButton',
             ),
+            gaLabel: 'LogoButton',
             pageLink: HOME_PAGE,
         }}
     >

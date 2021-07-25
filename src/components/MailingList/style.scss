@@ -14,7 +14,7 @@ $marginTop__mailingList: 4px;
     color: $colour__primary__dark;
     font-size: 1.4em;
 
-    @media (min-width: $width__breakpoint) {
+    @media (min-width: $width__page__narrow) {
         font-size: 2.1em;
     }
 }

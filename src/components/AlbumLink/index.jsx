@@ -11,6 +11,7 @@ const AlbumLink = () => (
             className: cx(
                 'AlbumLink',
             ),
+            gaLabel: 'AlbumLink',
             href: 'https://www.yearlingsbobtail.com',
         }}
     >

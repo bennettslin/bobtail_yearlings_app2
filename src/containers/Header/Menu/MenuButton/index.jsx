@@ -11,6 +11,7 @@ const MenuButton = ({ pageLink, children }) => (
                 'MenuButton',
                 'Rancho',
             ),
+            gaLabel: `MenuButton: ${pageLink}`,
             pageLink,
         }}
     >

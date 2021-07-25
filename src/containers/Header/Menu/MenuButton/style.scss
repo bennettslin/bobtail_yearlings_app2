@@ -7,7 +7,7 @@
         margin-right: $margin__wide;
     }
 
-    @media (min-width: $width__breakpoint) {
+    @media (min-width: $width__page__narrow) {
         font-size: 2.4em;
     }
 }

@@ -9,7 +9,7 @@
     justify-content: space-between;
     align-items: center;
 
-    @media (min-width: $width__breakpoint) {
+    @media (min-width: $width__page__narrow) {
         height: $height__header;
         flex-direction: row;
     }

@@ -11,6 +11,7 @@ import './style'
 
 const Button = forwardRef(({
     className,
+    gaLabel,
     pageLink,
     tooltipId,
     tooltipText,
@@ -18,6 +19,7 @@ const Button = forwardRef(({
     handleButtonClick = () => {},
     handleTooltipHide = () => {},
     children,
+
 }, ref) => {
     const
         dispatch = useDispatch(),
@@ -27,6 +29,13 @@ const Button = forwardRef(({
     const onClick = e => {
         if (pageLink) {
             dispatch(updateSelectedPage(pageLink))
+        }
+
+        if (gaLabel) {
+            logEvent(
+                'Button',
+                gaLabel,
+            )
         }
 
         handleButtonClick(e)
@@ -66,6 +75,7 @@ const Button = forwardRef(({
 
 Button.propTypes = {
     className: PropTypes.string,
+    gaLabel: PropTypes.string.isRequired,
     pageLink: PropTypes.string,
     tooltipId: PropTypes.string,
     tooltipText: PropTypes.string,

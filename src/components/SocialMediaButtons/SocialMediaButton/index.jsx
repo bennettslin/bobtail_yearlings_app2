@@ -6,6 +6,7 @@ import './style'
 
 const SocialMediaButton = forwardRef(({
     className,
+    id,
     children,
     ...rest
 }, ref) => {
@@ -17,6 +18,7 @@ const SocialMediaButton = forwardRef(({
                     'SocialMediaButton',
                     className,
                 ),
+                gaLabel: `SocialMediaButton: ${id}`,
                 ...rest,
             }}
         >
@@ -27,6 +29,7 @@ const SocialMediaButton = forwardRef(({
 
 SocialMediaButton.propTypes = {
     className: PropTypes.string,
+    id: PropTypes.string.isRequired,
     handleButtonClick: PropTypes.func,
     children: PropTypes.node.isRequired,
 }

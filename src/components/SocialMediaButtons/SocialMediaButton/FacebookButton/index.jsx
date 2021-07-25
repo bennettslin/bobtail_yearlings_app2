@@ -25,6 +25,7 @@ const FacebookButton = () => {
                 className: cx(
                     'FacebookButton',
                 ),
+                id: FACEBOOK_ID,
                 handleButtonClick,
             }}
         >

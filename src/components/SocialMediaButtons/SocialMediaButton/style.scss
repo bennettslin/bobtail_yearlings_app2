@@ -6,7 +6,7 @@
         width: $length__icon__mobile;
     }
 
-    @media (min-width: $width__breakpoint) {
+    @media (min-width: $width__page__narrow) {
         svg {
             height: $length__icon;
             width: $length__icon;

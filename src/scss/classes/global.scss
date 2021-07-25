@@ -1,8 +1,11 @@
 @import '../constants/colours';
 
 body {
-    margin: 0;
     background-color: $colour__background__subFooter;
+}
+
+body, p {
+    margin: 0;
 }
 
 a {
