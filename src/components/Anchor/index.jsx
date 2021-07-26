@@ -1,45 +1,51 @@
 import React from 'react'
 import cx from 'classnames'
 import PropTypes from 'prop-types'
+import { Link } from 'gatsby'
 import './style'
 
 const Anchor = ({
     className,
     gaLabel,
     href,
+    to,
     children,
 
 }) => {
+    const Tag = to ? Link : 'a'
+
     const onClick = () => {
-        if (gaLabel) {
+        if (gaLabel || to) {
             logEvent(
                 'Anchor',
-                gaLabel,
+                gaLabel || to,
             )
         }
     }
 
     return (
-        <a
+        <Tag
             {...{
                 className: cx(
                     'Anchor',
                     className
                 ),
                 href,
+                to,
                 target: '_blank',
                 onClick,
             }}
         >
             {children}
-        </a>
+        </Tag>
     )
 }
 
 Anchor.propTypes = {
     className: PropTypes.string,
-    gaLabel: PropTypes.string.isRequired,
-    href: PropTypes.string.isRequired,
+    gaLabel: PropTypes.string,
+    href: PropTypes.string,
+    to: PropTypes.string,
     onClick: PropTypes.func,
     children: PropTypes.node.isRequired,
 }

@@ -49,8 +49,10 @@ const Button = forwardRef(({
                     'Button',
                     className
                 ),
-                to: getPathForPage(pageLink),
                 onClick,
+                ...pageLink && {
+                    to: getPathForPage(pageLink),
+                },
                 ...isTooltipEnabled && {
                     'data-for': tooltipId,
                     'data-tip': tooltipText,

@@ -9,7 +9,11 @@
     border-radius: $borderRadius__medium;
     overflow: hidden;
 
-    transition: opacity 0.2s;
+    filter: $dropShadow;
+
+    &:hover {
+        filter: $dropShadow__lightHover;
+    }
 }
 
 .AlbumLink__image {

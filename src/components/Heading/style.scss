@@ -1,10 +1,15 @@
 @import '../../scss/constants/colours';
-
-h1 {
-    margin: 0;
-    font-size: 3em;
-}
+@import '../../scss/constants/responsive';
 
 .Heading {
     color: $colour__primary__dark;
+    margin-bottom: $margin__wide;
+}
+
+h1.Heading__fontSize {
+    font-size: 3em;
+}
+
+h5.Heading__fontSize {
+    font-size: 1.5em;
 }

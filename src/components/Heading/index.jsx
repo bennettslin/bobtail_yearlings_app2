@@ -4,6 +4,7 @@ import PropTypes from 'prop-types'
 import './style'
 
 const Heading = ({
+    isBodyHeading,
     level = 1,
     children,
 }) => {
@@ -14,6 +15,7 @@ const Heading = ({
             {...{
                 className: cx(
                     'Heading',
+                    !isBodyHeading && 'Heading__fontSize',
                     'Rancho',
                 ),
             }}
@@ -24,6 +26,7 @@ const Heading = ({
 }
 
 Heading.propTypes = {
+    isBodyHeading: PropTypes.bool,
     level: PropTypes.oneOf([1, 2, 3, 4, 5, 6]),
     children: PropTypes.node.isRequired,
 }

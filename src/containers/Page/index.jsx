@@ -1,8 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
-import './style'
 import Helmet from '../../components/Helmet'
+import './style'
 
 const Page = ({
     isWide,
