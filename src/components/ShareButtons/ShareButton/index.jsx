@@ -9,23 +9,22 @@ const ShareButton = forwardRef(({
     id,
     children,
     ...rest
-}, ref) => {
-    return (
-        <Button
-            {...{
-                ref,
-                className: cx(
-                    'ShareButton',
-                    className,
-                ),
-                gaLabel: `ShareButton: ${id}`,
-                ...rest,
-            }}
-        >
-            {children}
-        </Button>
-    )
-})
+
+}, ref) => (
+    <Button
+        {...{
+            ref,
+            className: cx(
+                'ShareButton',
+                className,
+            ),
+            gaLabel: `ShareButton: ${id}`,
+            ...rest,
+        }}
+    >
+        {children}
+    </Button>
+))
 
 ShareButton.propTypes = {
     className: PropTypes.string,

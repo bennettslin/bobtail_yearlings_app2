@@ -2,23 +2,32 @@ import React from 'react'
 import cx from 'classnames'
 import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
+import { useDispatch } from 'react-redux'
+import { updateSelectedPage } from '../../redux/page/action'
+import { getPathForPage } from '../../constants/pages'
 import './style'
 
 const Anchor = ({
     className,
     gaLabel,
     href,
-    to,
+    pageLink,
     children,
 
 }) => {
-    const Tag = to ? Link : 'a'
+    const
+        dispatch = useDispatch(),
+        Tag = pageLink ? Link : 'a'
 
     const onClick = () => {
-        if (gaLabel || to) {
+        if (pageLink) {
+            dispatch(updateSelectedPage(pageLink))
+        }
+
+        if (gaLabel || pageLink) {
             logEvent(
                 'Anchor',
-                gaLabel || to,
+                gaLabel || pageLink,
             )
         }
     }
@@ -31,7 +40,7 @@ const Anchor = ({
                     className
                 ),
                 href,
-                to,
+                to: getPathForPage(pageLink),
                 target: '_blank',
                 onClick,
             }}
@@ -45,7 +54,7 @@ Anchor.propTypes = {
     className: PropTypes.string,
     gaLabel: PropTypes.string,
     href: PropTypes.string,
-    to: PropTypes.string,
+    pageLink: PropTypes.string,
     onClick: PropTypes.func,
     children: PropTypes.node.isRequired,
 }

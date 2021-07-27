@@ -2,14 +2,14 @@
 
 .ShareButton {
     svg {
-        height: $length__icon__mobile;
-        width: $length__icon__mobile;
+        height: $length__icon__small;
+        width: $length__icon__small;
     }
 
     @media (min-width: $width__page__narrow) {
         svg {
-            height: $length__icon;
-            width: $length__icon;
+            height: $length__icon__medium;
+            width: $length__icon__medium;
         }    
     }
 }

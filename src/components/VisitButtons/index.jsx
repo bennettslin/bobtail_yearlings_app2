@@ -16,9 +16,7 @@ const VisitButtons = ({
             ),
         }}
     >
-        <label>
-            Visit us:
-        </label>
+        <label>Visit us:</label>
         <FacebookButton />
         <TwitterButton />
     </div>

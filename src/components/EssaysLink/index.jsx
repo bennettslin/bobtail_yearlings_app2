@@ -1,10 +1,7 @@
 import React from 'react'
 import Paragraph from '../Paragraph'
 import Anchor from '../Anchor'
-import {
-    ESSAYS_PAGE,
-    getPathForPage,
-} from '../../constants/pages'
+import { ESSAYS_PAGE } from '../../constants/pages'
 import './style'
 
 const EssaysLink = () => (
@@ -15,7 +12,7 @@ const EssaysLink = () => (
     >
         <Anchor
             {...{
-                to: getPathForPage(ESSAYS_PAGE),
+                pageLink: ESSAYS_PAGE,
                 gaLabel: `EssaysLink: ${ESSAYS_PAGE}`,
             }}
         >

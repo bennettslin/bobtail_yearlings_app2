@@ -4,6 +4,15 @@
     padding: $margin__narrow 0;
 
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.ShareButtons__buttons {
+    margin-top: $margin__narrow;
+
+    display: flex;
     justify-content: center;
     align-items: center;
 }

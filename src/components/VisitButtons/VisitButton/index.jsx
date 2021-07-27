@@ -9,23 +9,22 @@ const VisitButton = forwardRef(({
     id,
     children,
     ...rest
-}, ref) => {
-    return (
-        <Button
-            {...{
-                ref,
-                className: cx(
-                    'VisitButton',
-                    className,
-                ),
-                gaLabel: `VisitButton: ${id}`,
-                ...rest,
-            }}
-        >
-            {children}
-        </Button>
-    )
-})
+
+}, ref) => (
+    <Button
+        {...{
+            ref,
+            className: cx(
+                'VisitButton',
+                className,
+            ),
+            gaLabel: `VisitButton: ${id}`,
+            ...rest,
+        }}
+    >
+        {children}
+    </Button>
+))
 
 VisitButton.propTypes = {
     className: PropTypes.string,
