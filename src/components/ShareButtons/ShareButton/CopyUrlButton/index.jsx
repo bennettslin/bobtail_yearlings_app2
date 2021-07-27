@@ -2,14 +2,13 @@ import React, { useEffect, useRef, useState } from 'react'
 import cx from 'classnames'
 import { useSelector } from 'react-redux'
 import ReactTooltip from 'react-tooltip'
-import SocialMediaButton from '../'
+import ShareButton from '..'
 import Svg from '../../../Svg'
 import copyUrl from '../../../../assets/svgs/copyUrl'
 import copyUrlCopied from '../../../../assets/svgs/copyUrlCopied'
 import { mapSelectedPage } from '../../../../redux/page/selector'
 import { getEncodedUrl } from '../../../../constants/pages'
 import { COPY_URL_ID } from '../../../../constants/socialMedia'
-import './style'
 
 const TOOLTIP_TEXT = 'link copied!'
 
@@ -50,7 +49,7 @@ const CopyUrlButton = () => {
     }, [isCopied])
 
     return (
-        <SocialMediaButton
+        <ShareButton
             isTooltipSuccess
             {...{
                 ref: buttonRef,
@@ -71,7 +70,7 @@ const CopyUrlButton = () => {
                     src: isCopied ? copyUrlCopied : copyUrl,
                 }}
             />
-        </SocialMediaButton>
+        </ShareButton>
     )
 }
 

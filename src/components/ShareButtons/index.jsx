@@ -1,18 +1,18 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
-import FacebookButton from './SocialMediaButton/FacebookButton'
-import TwitterButton from './SocialMediaButton/TwitterButton'
-import CopyUrlButton from './SocialMediaButton/CopyUrlButton'
+import FacebookButton from './ShareButton/FacebookButton'
+import TwitterButton from './ShareButton/TwitterButton'
+import CopyUrlButton from './ShareButton/CopyUrlButton'
 import './style'
 
-const SocialMediaButtons = ({
+const ShareButtons = ({
     className,
 }) => (
     <div
         {...{
             className: cx(
-                'SocialMediaButtons',
+                'ShareButtons',
                 className,
             ),
         }}
@@ -23,8 +23,8 @@ const SocialMediaButtons = ({
     </div>
 )
 
-SocialMediaButtons.propTypes = {
+ShareButtons.propTypes = {
     className: PropTypes.string,
 }
 
-export default SocialMediaButtons
+export default ShareButtons

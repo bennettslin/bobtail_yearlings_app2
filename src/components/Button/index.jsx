@@ -13,6 +13,7 @@ const Button = forwardRef(({
     className,
     gaLabel,
     pageLink,
+    href,
     tooltipId,
     tooltipText,
     isTooltipSuccess,
@@ -23,7 +24,6 @@ const Button = forwardRef(({
 }, ref) => {
     const
         dispatch = useDispatch(),
-        Tag = pageLink ? Link : 'button',
         isTooltipEnabled = Boolean(tooltipId)
 
     const onClick = e => {
@@ -41,6 +41,14 @@ const Button = forwardRef(({
         handleButtonClick(e)
     }
 
+    let Tag = 'button'
+
+    if (href) {
+        Tag = 'a'
+    } else if (pageLink) {
+        Tag = Link
+    }
+
     return (
         <Tag
             {...{
@@ -52,6 +60,10 @@ const Button = forwardRef(({
                 onClick,
                 ...pageLink && {
                     to: getPathForPage(pageLink),
+                },
+                ...href && {
+                    href,
+                    target: '_blank',
                 },
                 ...isTooltipEnabled && {
                     'data-for': tooltipId,
@@ -79,6 +91,7 @@ Button.propTypes = {
     className: PropTypes.string,
     gaLabel: PropTypes.string.isRequired,
     pageLink: PropTypes.string,
+    href: PropTypes.string,
     tooltipId: PropTypes.string,
     tooltipText: PropTypes.string,
     isTooltipShown: PropTypes.bool,

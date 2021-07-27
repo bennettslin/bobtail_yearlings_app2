@@ -1,41 +1,40 @@
 import React from 'react'
 import cx from 'classnames'
 import { useSelector } from 'react-redux'
-import SocialMediaButton from '../'
+import ShareButton from '..'
 import Svg from '../../../Svg'
-import twitter from '../../../../assets/svgs/twitter.svg'
+import facebook from '../../../../assets/svgs/facebook.svg'
 import { mapSelectedPage } from '../../../../redux/page/selector'
 import { openSocialMediaPopup } from '../helper'
-import { TWITTER_ID } from '../../../../constants/socialMedia'
-import './style'
+import { FACEBOOK_ID } from '../../../../constants/socialMedia'
 
-const TwitterButton = () => {
+const FacebookButton = () => {
     const selectedPage = useSelector(mapSelectedPage)
 
     const handleButtonClick = () => {
         openSocialMediaPopup({
             page: selectedPage,
-            brandId: TWITTER_ID,
+            brandId: FACEBOOK_ID,
         })
     }
 
     return (
-        <SocialMediaButton
+        <ShareButton
             {...{
                 className: cx(
-                    'TwitterButton',
+                    'FacebookButton',
                 ),
-                id: TWITTER_ID,
+                id: FACEBOOK_ID,
                 handleButtonClick,
             }}
         >
             <Svg
                 {...{
-                    src: twitter,
+                    src: facebook,
                 }}
             />
-        </SocialMediaButton>
+        </ShareButton>
     )
 }
 
-export default TwitterButton
+export default FacebookButton

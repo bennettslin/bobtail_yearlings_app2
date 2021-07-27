@@ -4,7 +4,7 @@ import cx from 'classnames'
 import Button from '../../Button'
 import './style'
 
-const SocialMediaButton = forwardRef(({
+const ShareButton = forwardRef(({
     className,
     id,
     children,
@@ -15,10 +15,10 @@ const SocialMediaButton = forwardRef(({
             {...{
                 ref,
                 className: cx(
-                    'SocialMediaButton',
+                    'ShareButton',
                     className,
                 ),
-                gaLabel: `SocialMediaButton: ${id}`,
+                gaLabel: `ShareButton: ${id}`,
                 ...rest,
             }}
         >
@@ -27,11 +27,11 @@ const SocialMediaButton = forwardRef(({
     )
 })
 
-SocialMediaButton.propTypes = {
+ShareButton.propTypes = {
     className: PropTypes.string,
     id: PropTypes.string.isRequired,
     handleButtonClick: PropTypes.func,
     children: PropTypes.node.isRequired,
 }
 
-export default SocialMediaButton
+export default ShareButton
