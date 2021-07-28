@@ -2,12 +2,12 @@ import React from 'react'
 import Page from '../../../containers/Page'
 import Markdown from '../../../containers/Markdown'
 import Heading from '../../../components/Heading'
-import content from '../../../content/essays/2021/7-past-links'
+import content from '../../../content/essays/2021/7-old-links'
 
-const PastLinks = () => (
+const OldLinks = () => (
     <Page>
-        <Heading>Past links</Heading>
+        <Heading>Old links</Heading>
         <Markdown isEssayPage>{content}</Markdown>
     </Page>
 )
-export default PastLinks
+export default OldLinks

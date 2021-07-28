@@ -37,3 +37,8 @@ a, button, input[type=submit] {
         color: $colour__neutral__light;
     }
 }
+
+em, i {
+    position: relative;
+    left: -0.05em;
+}

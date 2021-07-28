@@ -4,6 +4,7 @@ import cx from 'classnames'
 import ReactMarkdown from 'react-markdown'
 import Body from '../Page/Body'
 import Anchor from '../../components/Anchor'
+import Heading from '../../components/Heading'
 import Paragraph from '../../components/Paragraph'
 import EssaysLink from '../../components/EssaysLink'
 import ShareButtons from '../../components/ShareButtons'
@@ -22,6 +23,12 @@ const Markdown = ({
                     ),
                     components: {
                         a: Anchor,
+                        h3: ({ children }) => (
+                            <Heading {...{ level: 3 }}>{children}</Heading>
+                        ),
+                        h5: ({ children }) => (
+                            <Heading {...{ level: 5 }}>{children}</Heading>
+                        ),
                         p: Paragraph,
                     },
                 }}

@@ -39,9 +39,13 @@ const Anchor = ({
                     'Anchor',
                     className
                 ),
-                href,
-                to: getPathForPage(pageLink),
-                target: '_blank',
+                ...href && {
+                    href,
+                    target: '_blank',
+                },
+                ...pageLink && {
+                    to: getPathForPage(pageLink),
+                },
                 onClick,
             }}
         >

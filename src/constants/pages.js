@@ -1,6 +1,6 @@
 import encodeUrl from 'encodeurl'
 
-const BOBTAIL_YEARLINGS_DOMAIN = `https://www.bobtailyearlings.com`
+export const BOBTAIL_YEARLINGS_DOMAIN = `https://www.bobtailyearlings.com`
 
 export const HOME_PAGE = 'home'
 export const NOT_FOUND_PAGE = '404'

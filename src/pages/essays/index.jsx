@@ -8,9 +8,9 @@ const Essays = () => (
     <Page>
         <Heading>Essays</Heading>
         <Body isParentBody>
-            <Heading isBodyHeading {...{ level: 5 }}>2021</Heading>
-            <Anchor {...{ pageLink: 'essays/2021/7-past-links' }}>
-                Past links
+            <Heading isBodyHeading {...{ level: 3 }}>2021</Heading>
+            <Anchor {...{ pageLink: 'essays/2021/7-old-links' }}>
+                Old links
             </Anchor>
         </Body>
     </Page>
