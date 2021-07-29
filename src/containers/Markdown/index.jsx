@@ -6,12 +6,9 @@ import Body from '../Page/Body'
 import Anchor from '../../components/Anchor'
 import Heading from '../../components/Heading'
 import Paragraph from '../../components/Paragraph'
-import EssaysLink from '../../components/EssaysLink'
-import ShareButtons from '../../components/ShareButtons'
 import './style'
 
 const Markdown = ({
-    isEssayPage,
     children,
 }) => (
     <>
@@ -35,18 +32,11 @@ const Markdown = ({
             >
                 {children}
             </ReactMarkdown>
-            {isEssayPage && (
-                <EssaysLink />
-            )}
         </Body>
-        {isEssayPage && (
-            <ShareButtons />
-        )}
     </>
 )
 
 Markdown.propTypes = {
-    isEssayPage: PropTypes.bool,
     children: PropTypes.string.isRequired,
 }
 

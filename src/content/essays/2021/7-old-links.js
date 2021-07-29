@@ -26,7 +26,7 @@ The work that became my Master's thesis. I came up with a new theory for composi
 
 ### Music theory papers
 
-Papers written for class assignments. I don't necessarily vouch for their quality.
+Papers written for class assignments. I don't vouch for their quality.
 
 ##### University of Washington
 

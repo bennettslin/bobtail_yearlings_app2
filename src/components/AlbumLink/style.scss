@@ -6,6 +6,9 @@
 .AlbumLink {
     position: relative;
 
+    // Eyeballed. Keep small enough not to push footer off screen.
+    width: 75%;
+
     border-radius: $borderRadius__medium;
     overflow: hidden;
 
