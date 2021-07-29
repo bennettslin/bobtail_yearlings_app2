@@ -7,7 +7,7 @@ import Anchor from '../../components/Anchor'
 const Essays = () => (
     <Page>
         <Heading>Essays</Heading>
-        <Body isParentBody>
+        <Body>
             <Heading isBodyHeading {...{ level: 3 }}>2021</Heading>
             <Anchor {...{ pageLink: 'essays/2021/7-old-links' }}>
                 Old links
