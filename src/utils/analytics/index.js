@@ -1,65 +1,27 @@
 import { getDateTimeForGa } from '../build'
-import { getHashedIp } from '../ip'
-import { getTimeDifference } from '../logger/helpers/time'
 import { GA_ACCOUNT } from '../../constants/analytics'
 import {
     BROWSER_NAME, BROWSER_VERSION, ENGINE_NAME, ENGINE_VERSION, OS_NAME, OS_VERSION, PLATFORM_TYPE, PLATFORM_VENDOR,
 } from '../device'
 
-/**
- * NOTE: This is kind of a quick workaround for now, to delay the initial GA
- * calls until the async custom dimensions are ready. I may want to make this
- * logic more robust in the future.
- */
-let isAsyncPromiseComplete = false
-
 const isGaUndefined = () => (
     typeof ga === 'undefined'
 )
-
-const setAsyncCustomDimensions = async () => {
-    const
-        asyncStartTime = Date.now(),
-        hashedIp = await getHashedIp()
-
-    ga('set', 'dimension1', hashedIp)
-    isAsyncPromiseComplete = true
-
-    const timeDifference = getTimeDifference(asyncStartTime)
-
-    logServe(
-        IS_PRODUCTION ?
-            `Async custom dimensions fetched in ${timeDifference}s.` :
-            `User hash ${hashedIp} fetched in ${timeDifference}s.`,
-        {
-            action: 'ip',
-            label: hashedIp,
-            value: timeDifference * 1000,
-        },
-    )
-}
 
 export const setCustomDimensions = () => {
     if (isGaUndefined()) {
         return
     }
 
-    /**
-     * Ensure proper order of custom dimensions. The ones set asynchronously
-     * just have placeholders for now.
-     */
-    ga('set', 'dimension1', 0)
-    ga('set', 'dimension2', getDateTimeForGa(BUILD_DATE_TIME))
-    ga('set', 'dimension3', BROWSER_NAME)
-    ga('set', 'dimension4', BROWSER_VERSION)
-    ga('set', 'dimension5', ENGINE_NAME)
-    ga('set', 'dimension6', ENGINE_VERSION)
-    ga('set', 'dimension7', OS_NAME)
-    ga('set', 'dimension8', OS_VERSION)
-    ga('set', 'dimension9', PLATFORM_TYPE)
-    ga('set', 'dimension10', PLATFORM_VENDOR)
-
-    setAsyncCustomDimensions()
+    ga('set', 'dimension1', getDateTimeForGa(BUILD_DATE_TIME))
+    ga('set', 'dimension2', BROWSER_NAME)
+    ga('set', 'dimension3', BROWSER_VERSION)
+    ga('set', 'dimension4', ENGINE_NAME)
+    ga('set', 'dimension5', ENGINE_VERSION)
+    ga('set', 'dimension6', OS_NAME)
+    ga('set', 'dimension7', OS_VERSION)
+    ga('set', 'dimension8', PLATFORM_TYPE)
+    ga('set', 'dimension9', PLATFORM_VENDOR)
 }
 
 export const sendToGa = ({
@@ -67,31 +29,10 @@ export const sendToGa = ({
     action,
     label,
     value,
-    count = 0,
 
 }) => {
     if (isGaUndefined()) {
         return 'failure'
-    }
-
-    /**
-     * If after five seconds the promise hasn't completed, just go ahead and
-     * send the GA event without the async custom dimensions.
-     */
-    if (!isAsyncPromiseComplete && count < 50) {
-        setTimeout(
-            () => {
-                sendToGa({
-                    category,
-                    action,
-                    label,
-                    value,
-                    count: count + 1,
-                })
-            }, 100
-        )
-
-        return 'pending'
     }
 
     ga('send', {
