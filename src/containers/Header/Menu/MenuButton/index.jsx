@@ -9,7 +9,7 @@ const MenuButton = ({ pageLink, children }) => (
         {...{
             className: cx(
                 'MenuButton',
-                'Rancho',
+                'Ribeye',
             ),
             gaLabel: `MenuButton: ${pageLink}`,
             pageLink,

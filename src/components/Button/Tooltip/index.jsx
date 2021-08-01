@@ -13,7 +13,7 @@ const Tooltip = ({
         {...{
             className: cx(
                 'ReactTooltip',
-                'PtSansNarrow',
+                'JosefinSans',
                 'dropShadow',
             ),
             id: tooltipId,

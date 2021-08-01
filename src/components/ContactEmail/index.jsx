@@ -9,7 +9,7 @@ const ContactEmail = () => (
         {...{
             className: cx(
                 'ContactEmail',
-                'Rancho',
+                'Ribeye',
             ),
         }}
     >
