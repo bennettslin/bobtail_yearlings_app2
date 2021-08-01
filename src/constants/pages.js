@@ -1,5 +1,3 @@
-import encodeUrl from 'encodeurl'
-
 export const BOBTAIL_YEARLINGS_DOMAIN = `https://www.bobtailyearlings.com`
 
 export const HOME_PAGE = 'home'
@@ -14,12 +12,15 @@ export const getPathForPage = page => (
     page === HOME_PAGE ? '/' : `/${page}`
 )
 
-export const getEncodedUrl = page => {
+export const getUrlForPage = page => {
     const
         pagePath = getPathForPage(page),
         // Include ending forward slash because Twitter warns about redirects.
         finalSlash = page === HOME_PAGE ? '' : '/'
-    return (
-        encodeUrl(`${BOBTAIL_YEARLINGS_DOMAIN}${pagePath}${finalSlash}`)
-    )
+
+    return `${BOBTAIL_YEARLINGS_DOMAIN}${pagePath}${finalSlash}`
 }
+
+export const getUrlForFile = filePath => (
+    `${BOBTAIL_YEARLINGS_DOMAIN}${getPathForPage(filePath)}`
+)

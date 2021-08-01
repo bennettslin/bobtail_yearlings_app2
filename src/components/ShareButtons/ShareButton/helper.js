@@ -1,4 +1,4 @@
-import { getEncodedUrl } from '../../../constants/pages'
+import { getUrlForPage } from '../../../constants/pages'
 import {
     FACEBOOK_ID,
     TWITTER_ID,
@@ -35,7 +35,7 @@ export const openSocialMediaPopup = ({
 
 }) => {
     window.open(
-        getSocialMediaUrl(brandId, getEncodedUrl(page)),
+        getSocialMediaUrl(brandId, getUrlForPage(page)),
         'bobtailYearlings_socialMedia',
         getWindowFeatures({
             ...BASE_WINDOW_FEATURES,

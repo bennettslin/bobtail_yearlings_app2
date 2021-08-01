@@ -7,7 +7,7 @@ import Svg from '../../../Svg'
 import copyUrl from '../../../../assets/svgs/copyUrl'
 import copyUrlCopied from '../../../../assets/svgs/copyUrlCopied'
 import { mapSelectedPage } from '../../../../redux/page/selector'
-import { getEncodedUrl } from '../../../../constants/pages'
+import { getUrlForPage } from '../../../../constants/pages'
 import { COPY_URL_ID } from '../../../../constants/socialMedia'
 
 const TOOLTIP_TEXT = 'link copied!'
@@ -29,7 +29,7 @@ const CopyUrlButton = () => {
     }
 
     const handleButtonClick = () => {
-        navigator.clipboard.writeText(getEncodedUrl(selectedPage))
+        navigator.clipboard.writeText(getUrlForPage(selectedPage))
 
         clearTimeout(copyTimeoutId)
         setIsCopied(true)

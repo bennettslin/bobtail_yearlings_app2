@@ -1,5 +1,9 @@
-import { getEncodedUrl, HOME_PAGE } from '../../constants/pages'
 import { getTruncatedText } from '../../utils/format'
+import {
+    getUrlForPage,
+    getUrlForFile,
+    HOME_PAGE,
+} from '../../constants/pages'
 
 const capitalise = str => (
     str[0].toUpperCase() + str.substring(1)
@@ -27,14 +31,14 @@ const getFacebookConfig = ({
     description,
     title,
 }) => ({
-    'og:url': getEncodedUrl(page),
+    'og:url': getUrlForPage(page),
     'og:type': 'website',
     'og:title': getMetaTitle({
         page,
         title,
     }),
     'og:description': getMetaDescription(description),
-    'og:image': getEncodedUrl(`share/image/facebook_image/promo.jpg`),
+    'og:image': getUrlForFile(`share/image/facebook_image/promo.jpg`),
 })
 
 const getTwitterConfig = ({
@@ -50,7 +54,7 @@ const getTwitterConfig = ({
     }),
     'twitter:description': getMetaDescription(description),
     'twitter:image':
-        getEncodedUrl(`share/image/twitter_thumbnail/promo.jpg`),
+        getUrlForFile(`share/image/twitter_thumbnail/promo.jpg`),
 })
 
 const spreadHelmetConfig = ({ config, nameKey }) => (
