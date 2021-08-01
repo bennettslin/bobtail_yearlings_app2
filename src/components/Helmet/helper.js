@@ -1,34 +1,54 @@
 import { getEncodedUrl, HOME_PAGE } from '../../constants/pages'
+import { getTruncatedText } from '../../utils/format'
 
 const capitalise = str => (
     str[0].toUpperCase() + str.substring(1)
 )
 
-export const getMetaTitle = page => (
-    `${page === HOME_PAGE ? '' : `${capitalise(page)} | `}Bobtail Yearlings`
+export const getMetaTitle = ({
+    page,
+    title,
+}) => (
+    `${page === HOME_PAGE ? '' : `${title || capitalise(page)} | `}Bobtail Yearlings`
 )
 
-export const getMetaDescription = () => (
-    'Website for the band Bobtail Yearlings.'
+export const getMetaDescription = description => (
+    description ?
+        getTruncatedText(description) :
+        'Website for the band Bobtail Yearlings.'
 )
 
-const getDefaultConfig = () => ({
-    'description': getMetaDescription(),
+const getDefaultConfig = description => ({
+    'description': getMetaDescription(description),
 })
 
-const getFacebookConfig = page => ({
+const getFacebookConfig = ({
+    page,
+    description,
+    title,
+}) => ({
     'og:url': getEncodedUrl(page),
     'og:type': 'website',
-    'og:title': getMetaTitle(page),
-    'og:description': getMetaDescription(),
+    'og:title': getMetaTitle({
+        page,
+        title,
+    }),
+    'og:description': getMetaDescription(description),
     'og:image': getEncodedUrl(`share/image/facebook_image/promo.jpg`),
 })
 
-const getTwitterConfig = page => ({
+const getTwitterConfig = ({
+    page,
+    description,
+    title,
+}) => ({
     'twitter:card': 'summary',
     'twitter:site': '@BobtailYearling',
-    'twitter:title': getMetaTitle(page),
-    'twitter:description': getMetaDescription(),
+    'twitter:title': getMetaTitle({
+        page,
+        title,
+    }),
+    'twitter:description': getMetaDescription(description),
     'twitter:image':
         getEncodedUrl(`share/image/twitter_thumbnail/promo.jpg`),
 })
@@ -40,16 +60,28 @@ const spreadHelmetConfig = ({ config, nameKey }) => (
     }))
 )
 
-export const getMetaTags = page => ([
+export const getMetaTags = ({
+    page,
+    description,
+    title,
+}) => ([
     ...spreadHelmetConfig({
         config: {
-            ...getDefaultConfig(),
-            ...getTwitterConfig(page),
+            ...getDefaultConfig(description),
+            ...getTwitterConfig({
+                page,
+                description,
+                title,
+            }),
         },
         nameKey: 'name',
     }),
     ...spreadHelmetConfig({
-        config: getFacebookConfig(page),
+        config: getFacebookConfig({
+            page,
+            description,
+            title,
+        }),
         nameKey: 'property',
     }),
 ])
