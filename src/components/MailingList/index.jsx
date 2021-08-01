@@ -51,7 +51,7 @@ const MailingList = () => {
                 {...{
                     className: cx(
                         'MailingList__label',
-                        'Ribeye'
+                        'Birra'
                     ),
                 }}
             >
