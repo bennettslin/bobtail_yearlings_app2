@@ -5,27 +5,27 @@
 @import './svgs/style';
 
 @font-face {
-    font-family: Josefin Sans;
-    src: url('../assets/fonts/JosefinSans/JosefinSans-Light.ttf');
+    font-family: Bitter;
+    src: url('../assets/fonts/Bitter/Bitter-Regular.ttf');
 }
 
 @font-face {
-    font-family: Josefin Sans;
-    src: url('../assets/fonts/JosefinSans/JosefinSans-SemiBold.ttf');
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: Josefin Sans;
-    src: url('../assets/fonts/JosefinSans/JosefinSans-LightItalic.ttf');
+    font-family: Bitter;
+    src: url('../assets/fonts/Bitter/Bitter-RegularItalic.ttf');
     font-style: italic;
 }
 
 @font-face {
-    font-family: Josefin Sans;
-    src: url('../assets/fonts/JosefinSans/JosefinSans-SemiBoldItalic.ttf');
+    font-family: Bitter;
+    src: url('../assets/fonts/Bitter/Bitter-Bold.ttf');
     font-weight: bold;
+}
+
+@font-face {
+    font-family: Bitter;
+    src: url('../assets/fonts/Bitter/Bitter-BoldItalic.ttf');
     font-style: italic;
+    font-weight: bold;
 }
 
 @font-face {

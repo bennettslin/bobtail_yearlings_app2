@@ -4,7 +4,7 @@ import Anchor from '../../components/Anchor'
 import Image from '../Image'
 import albumLink from '../../assets/images/albumLink.png'
 import './style'
-import { replaceStraightWithSmartQuotes } from '../../utils/format'
+import { replaceStraightWithSmartQuotes } from '../../utils/format/smartQuote'
 
 const AlbumLink = () => (
     <Anchor
