@@ -44,8 +44,6 @@ $marginTop__mailingList: 4px;
     padding-top: $marginTop__mailingList;
     padding-left: $marginTop__mailingList * 2;
 
-    color: $colour__text__dark;
-
     &::placeholder {
         color: $colour__neutral__light;
     }

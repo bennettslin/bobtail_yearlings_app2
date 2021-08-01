@@ -5,14 +5,27 @@
 @import './svgs/style';
 
 @font-face {
-    font-family: PT Sans Narrow;
-    src: url('../assets/fonts/pt_sans/PTN57F.ttf');
+    font-family: Josefin Sans;
+    src: url('../assets/fonts/JosefinSans/JosefinSans-Light.ttf');
 }
 
 @font-face {
-    font-family: PT Sans Narrow;
-    src: url('../assets/fonts/pt_sans/PTN77F.ttf');
+    font-family: Josefin Sans;
+    src: url('../assets/fonts/JosefinSans/JosefinSans-SemiBold.ttf');
     font-weight: bold;
+}
+
+@font-face {
+    font-family: Josefin Sans;
+    src: url('../assets/fonts/JosefinSans/JosefinSans-LightItalic.ttf');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Josefin Sans;
+    src: url('../assets/fonts/JosefinSans/JosefinSans-SemiBoldItalic.ttf');
+    font-weight: bold;
+    font-style: italic;
 }
 
 @font-face {
