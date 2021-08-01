@@ -1,9 +1,10 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
+import Heading from '../../../components/Heading'
 import './style'
 
-const Body = ({ children }) => (
+const Body = ({ title, children }) => (
     <div
         {...{
             className: cx(
@@ -11,11 +12,15 @@ const Body = ({ children }) => (
             ),
         }}
     >
+        {title && (
+            <Heading isBodyHeading>{title}</Heading>
+        )}
         {children}
     </div>
 )
 
 Body.propTypes = {
+    title: PropTypes.string,
     children: PropTypes.node.isRequired,
 }
 

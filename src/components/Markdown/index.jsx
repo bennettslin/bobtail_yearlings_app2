@@ -18,6 +18,9 @@ const Markdown = ({
             ),
             components: {
                 a: Anchor,
+                h1: ({ children }) => (
+                    <Heading>{children}</Heading>
+                ),
                 h3: ({ children }) => (
                     <Heading {...{ level: 3 }}>{children}</Heading>
                 ),

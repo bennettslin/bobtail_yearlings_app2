@@ -7,15 +7,17 @@ import Heading from '../../../components/Heading'
 import { getMonthName } from './helper'
 
 const EssayBody = ({
-    month,
+    title,
     year,
+    month,
+    day,
     children,
 }) => (
     <>
-        <Body>
-            {month && year && (
+        <Body {...{ title }}>
+            {year && month && day && (
                 <Heading {...{ level: 5 }}>
-                    {`${getMonthName(month)} ${year}`}
+                    {`${day} ${getMonthName(month)} ${year}`}
                 </Heading>
             )}
             <Markdown>
@@ -27,8 +29,10 @@ const EssayBody = ({
 )
 
 EssayBody.propTypes = {
-    month: PropTypes.number,
+    title: PropTypes.string,
     year: PropTypes.number,
+    month: PropTypes.number,
+    day: PropTypes.number,
     children: PropTypes.string.isRequired,
 }
 

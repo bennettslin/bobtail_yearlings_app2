@@ -5,7 +5,7 @@ import './style'
 const CONTACT_EMAIL = 'info@bobtailyearlings.com'
 
 const ContactEmail = () => (
-    <span
+    <div
         {...{
             className: cx(
                 'ContactEmail',
@@ -23,7 +23,7 @@ const ContactEmail = () => (
                 {character}
             </Fragment>
         ))}
-    </span>
+    </div>
 )
 
 export default ContactEmail

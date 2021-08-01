@@ -1,13 +1,11 @@
 import React from 'react'
 import Page from '../../containers/Page'
 import Body from '../../containers/Page/Body'
-import Heading from '../../components/Heading'
 import Essays2021 from './2021'
 
 const Essays = () => (
     <Page>
-        <Heading>Essays</Heading>
-        <Body>
+        <Body {...{ title: 'Essays' }}>
             <Essays2021 />
         </Body>
     </Page>

@@ -15,7 +15,7 @@ const Heading = ({
             {...{
                 className: cx(
                     'Heading',
-                    !isBodyHeading && 'Heading__fontSize',
+                    isBodyHeading && 'Heading__bodyHeading',
                     'Birra',
                 ),
             }}
