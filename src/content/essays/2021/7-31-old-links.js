@@ -5,7 +5,7 @@ const getPdfLink = page => (
 )
 
 export default `
-This isn't an essay but rather a collection of old links. After my initial attempts to gain exposure for *Yearling's Bobtail* failed, I went back to school to study music for the first time. The band website was basically defunct so I treated it like a personal one, and occasionally I'd link to my school work. Some of these links ended up ranking pretty high in search results, which made me proud. At the time, it was the most validation I'd ever received from the world for my music-related contributions.
+This isn't an essay but rather a collection of old links. After my initial attempts to gain exposure for *Yearling's Bobtail* failed, I went back to school to study music for the first time. The band website was basically defunct so I treated it like a personal one, and occasionally I'd link to my school work. Some of these links ended up ranking pretty high in search results, which made me proud. At the time, it was the most validation I'd ever received from the world at large for my music-related efforts.
 
 I'm currently revamping the band website, but I'd like to keep my search rankings! So here are those old links for all posterity.
 
