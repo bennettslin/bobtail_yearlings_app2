@@ -5,13 +5,13 @@ const getPdfLink = page => (
 )
 
 export default `
-This isn't an essay but rather a collection of old links. After my initial attempts to gain exposure for *Yearling's Bobtail* failed, I went back to school to study music for the first time. The band website was basically defunct so I treated it like a personal one, and occasionally I'd link to my school work. Some of these links ended up ranking pretty high in search results, which made me proud. At the time, it was the most validation I'd ever received from the world at large for my music-related efforts.
+This isn't an essay but rather a collection of old links. After my initial attempts to gain exposure for *Yearling's Bobtail* failed, I went back to school to study music formally. Since the band website was more or less defunct during this time, I treated it like a personal one and occasionally posted links to my school work. Some of these links ended up ranking pretty high in search results, which made me proud. It was the most validation the world had ever given me for my music-related efforts.
 
-I'm currently revamping the band website, but I'd like to keep my search rankings! So here are those old links for all posterity.
+I'm currently revamping the band website, but I'd like to keep my search rankings! So here are those old links for posterity.
 
 ### General writings
 
-Still stinging from the rejection of my "*Ulysses* of Rock Albums," I had many observations to make about indie rock's dysfunctions. I can't say whether these arguments ever held up. I did try my best to stay gracious, assuming at the time that I was on my way to becoming a professor.
+Still stinging from the rejection of my "*Ulysses* of Rock Albums," I had many observations to make about indie rock's dysfunctions. I can't say whether these arguments ever held up. But I did try my best to stay gracious, assuming at the time that I was on my way to becoming a professor.
 
 [Personal blog](http://bennettsamuellin.blogspot.com) (2011 to 2013)${'  '}
 

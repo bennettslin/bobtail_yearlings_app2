@@ -70,7 +70,7 @@ const MailingList = () => {
                         className: cx(
                             'MailingList__emailField',
                             'MailingList__input',
-                            'Bitter'
+                            'Rubik'
                         ),
                         id: EMAIL_ID,
                         name: EMAIL_NAME,
@@ -107,7 +107,7 @@ const MailingList = () => {
                         className: cx(
                             'MailingList__submitButton',
                             'MailingList__input',
-                            'Bitter'
+                            'Rubik'
                         ),
                         type: 'submit',
                         value: 'Sign up!',
