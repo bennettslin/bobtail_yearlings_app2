@@ -13,7 +13,7 @@ const Tooltip = ({
         {...{
             className: cx(
                 'ReactTooltip',
-                'Rubik',
+                'Asap',
                 'dropShadow',
             ),
             id: tooltipId,
