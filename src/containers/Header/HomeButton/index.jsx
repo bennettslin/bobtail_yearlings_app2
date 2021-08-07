@@ -1,19 +1,17 @@
 import React from 'react'
-// import cx from 'classnames'
-// import Button from '../../../components/Button'
-import MenuButton from '../Menu/MenuButton'
+import cx from 'classnames'
+import HeaderButton from '../HeaderButton'
 import Svg from '../../../components/Svg'
 import bobtailYearlings from '../../../assets/svgs/bobtailYearlings.svg'
 import { HOME_PAGE } from '../../../constants/pages'
 import './style'
 
-const LogoButton = () => (
-    <MenuButton
+const HomeButton = () => (
+    <HeaderButton
         {...{
-            // className: cx(
-            //     'LogoButton',
-            // ),
-            // gaLabel: 'LogoButton',
+            className: cx(
+                'HomeButton',
+            ),
             pageLink: HOME_PAGE,
         }}
     >
@@ -22,7 +20,7 @@ const LogoButton = () => (
                 src: bobtailYearlings,
             }}
         />
-    </MenuButton>
+    </HeaderButton>
 )
 
-export default LogoButton
+export default HomeButton

@@ -1,6 +1,6 @@
 import React from 'react'
 import cx from 'classnames'
-import MenuButton from './MenuButton'
+import HeaderButton from '../HeaderButton'
 import {
     BAND_PAGE,
     CONTACT_PAGE,
@@ -17,18 +17,18 @@ const Menu = () => (
             ),
         }}
     >
-        <MenuButton {...{ pageLink: BAND_PAGE }}>
+        <HeaderButton {...{ pageLink: BAND_PAGE }}>
             Band
-        </MenuButton>
-        {/* <MenuButton {...{ pageLink: SHOWS_PAGE }}>
+        </HeaderButton>
+        {/* <HeaderButton {...{ pageLink: SHOWS_PAGE }}>
             Shows
-        </MenuButton> */}
-        <MenuButton {...{ pageLink: ESSAYS_PAGE }}>
+        </HeaderButton> */}
+        <HeaderButton {...{ pageLink: ESSAYS_PAGE }}>
             Essays
-        </MenuButton>
-        <MenuButton {...{ pageLink: CONTACT_PAGE }}>
+        </HeaderButton>
+        <HeaderButton {...{ pageLink: CONTACT_PAGE }}>
             Contact
-        </MenuButton>
+        </HeaderButton>
     </div>
 )
 
