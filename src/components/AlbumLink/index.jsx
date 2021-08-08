@@ -12,7 +12,7 @@ const AlbumLink = () => (
             className: cx(
                 'AlbumLink',
             ),
-            gaLabel: 'AlbumLink',
+            analyticsLabel: 'AlbumLink',
             href: 'https://www.yearlingsbobtail.com',
         }}
     >

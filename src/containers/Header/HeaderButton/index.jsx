@@ -17,7 +17,7 @@ const HeaderButton = ({ className, pageLink, children }) => {
                     'Birra',
                     className,
                 ),
-                gaLabel: `HeaderButton: ${pageLink}`,
+                analyticsLabel: `HeaderButton__${pageLink}`,
                 pageLink,
                 isSelected: isSelectedPage,
             }}
@@ -30,7 +30,7 @@ const HeaderButton = ({ className, pageLink, children }) => {
 HeaderButton.propTypes = {
     className: PropTypes.string,
     pageLink: PropTypes.string.isRequired,
-    children: PropTypes.string.isRequired,
+    children: PropTypes.node.isRequired,
 }
 
 export default HeaderButton

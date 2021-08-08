@@ -18,7 +18,7 @@ const VisitButton = forwardRef(({
                 'VisitButton',
                 className,
             ),
-            gaLabel: `VisitButton: ${id}`,
+            analyticsLabel: `VisitButton__${id}`,
             ...rest,
         }}
     >
