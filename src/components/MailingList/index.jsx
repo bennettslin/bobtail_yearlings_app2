@@ -17,14 +17,14 @@ const MailingList = () => {
     const onFocus = () => {
         logEvent(
             'MailingList',
-            'email'
+            'email',
         )
     }
 
     const onClick = () => {
         logEvent(
             'MailingList',
-            'submit'
+            'submit',
         )
     }
 
@@ -51,7 +51,7 @@ const MailingList = () => {
                 {...{
                     className: cx(
                         'MailingList__label',
-                        'Birra'
+                        'Birra',
                     ),
                 }}
             >
@@ -60,7 +60,7 @@ const MailingList = () => {
             <div
                 {...{
                     className: cx(
-                        'MailingList__inputs'
+                        'MailingList__inputs',
                     ),
                 }}
             >
@@ -70,7 +70,7 @@ const MailingList = () => {
                         className: cx(
                             'MailingList__emailField',
                             'MailingList__input',
-                            'Asap'
+                            'Asap',
                         ),
                         id: EMAIL_ID,
                         name: EMAIL_NAME,
@@ -107,7 +107,7 @@ const MailingList = () => {
                         className: cx(
                             'MailingList__submitButton',
                             'MailingList__input',
-                            'Asap'
+                            'Asap',
                         ),
                         type: 'submit',
                         value: 'Sign up!',

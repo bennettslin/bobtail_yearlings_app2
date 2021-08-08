@@ -19,7 +19,7 @@ const AlbumLink = () => (
         <Image
             {...{
                 className: cx(
-                    'AlbumLink__image'
+                    'AlbumLink__image',
                 ),
                 src: albumLink,
             }}
@@ -27,14 +27,14 @@ const AlbumLink = () => (
         <div
             {...{
                 className: cx(
-                    'AlbumLink__caption'
+                    'AlbumLink__caption',
                 ),
             }}
         >
             <div
                 {...{
                     className: cx(
-                        'AlbumLink__newWebcomic'
+                        'AlbumLink__newWebcomic',
                     ),
                 }}
             >
@@ -44,7 +44,7 @@ const AlbumLink = () => (
                 {...{
                     className: cx(
                         'AlbumLink__yearlingsBobtail',
-                        'Birra'
+                        'Birra',
                     ),
                 }}
             >

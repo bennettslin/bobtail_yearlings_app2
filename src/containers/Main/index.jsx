@@ -9,7 +9,7 @@ const Main = ({ children }) => (
     <div
         {...{
             className: cx(
-                'Main'
+                'Main',
             ),
         }}
     >

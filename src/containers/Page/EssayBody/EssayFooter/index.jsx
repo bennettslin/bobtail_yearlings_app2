@@ -8,7 +8,7 @@ const EssayFooter = () => (
     <div
         {...{
             className: cx(
-                'EssayFooter'
+                'EssayFooter',
             ),
         }}
     >

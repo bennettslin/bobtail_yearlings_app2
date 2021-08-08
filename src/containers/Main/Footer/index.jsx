@@ -8,7 +8,7 @@ const Footer = () => (
     <div
         {...{
             className: cx(
-                'Footer'
+                'Footer',
             ),
         }}
     >
