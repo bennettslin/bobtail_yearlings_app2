@@ -5,7 +5,6 @@ import {
     BAND_PAGE,
     CONTACT_PAGE,
     ESSAYS_PAGE,
-    // SHOWS_PAGE,
 } from '../../../constants/pages'
 import './style'
 
@@ -20,9 +19,6 @@ const Menu = () => (
         <HeaderButton {...{ pageLink: BAND_PAGE }}>
             Band
         </HeaderButton>
-        {/* <HeaderButton {...{ pageLink: SHOWS_PAGE }}>
-            Shows
-        </HeaderButton> */}
         <HeaderButton {...{ pageLink: ESSAYS_PAGE }}>
             Essays
         </HeaderButton>

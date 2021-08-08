@@ -1,25 +1,26 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
-import Header from '../Header'
-import Main from '../Main'
+import Wrapper from '../Wrapper'
+import SubFooter from '../SubFooter'
 import './style'
 
-const Wrapper = ({ children }) => (
+const App = ({ children }) => (
     <div
         {...{
             className: cx(
-                'Wrapper',
+                'App',
+                'Asap'
             ),
         }}
     >
-        <Header />
-        <Main>{children}</Main>
+        <Wrapper>{children}</Wrapper>
+        <SubFooter />
     </div>
 )
 
-Wrapper.propTypes = {
+App.propTypes = {
     children: PropTypes.node.isRequired,
 }
 
-export default Wrapper
+export default App
