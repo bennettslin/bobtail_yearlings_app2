@@ -2,14 +2,6 @@ export default `
 **Bennett Lin** (he/him)${'  '}
 lead vocal, rhythm guitar
 
-**pending**${'  '}
-lead guitar
-
-**pending**${'  '}
-bass
-
-**pending**${'  '}
+**Tai Taitano** (he/him)${'  '}
 drums
-
-Interested in joining the Bobtail Yearlings? Please get in touch!
 `
