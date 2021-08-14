@@ -15,6 +15,18 @@ a {
 
 input[type=submit] {
     cursor: pointer;
+
+    &[disabled] {
+        color: $colour__neutral__light;
+        cursor: default;
+    }
+}
+
+a, button {
+    &[disabled] {
+        color: $colour__primary__dark;
+        cursor: default;
+    }
 }
 
 button, input[type=submit] {
@@ -33,14 +45,9 @@ a, button, input[type=submit] {
     &:not([disabled]):active {
         color: $colour__link__light;
     }
-
-    &[disabled] {
-        color: $colour__primary__dark;
-        cursor: default;
-    }
 }
 
 em, i {
     position: relative;
-    left: -0.05em;
+    left: -0.05em; // Eyeballed.
 }
