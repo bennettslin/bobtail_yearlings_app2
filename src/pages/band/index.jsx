@@ -5,7 +5,7 @@ import content from '../../content/band'
 
 const Band = () => (
     <Page>
-        <MarkdownBody showContactEmail {...{ title: 'Band' }}>
+        <MarkdownBody {...{ title: 'Band' }}>
             {content}
         </MarkdownBody>
     </Page>
