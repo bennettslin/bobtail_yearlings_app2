@@ -1,3 +1,4 @@
+export const title = `Band members`
 export default `
 **Bennett Lin** (he/him)${'  '}
 lead vocal, rhythm guitar
