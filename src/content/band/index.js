@@ -1,10 +1,10 @@
 export const title = `Band members`
 export default `
 **Bennett Lin** (he/him)${'  '}
-lead vocal, rhythm guitar
+lead vocal, guitar
 
 **Chris Kouldukis** (he/him)${'  '}
-backing vocal, lead guitar
+backing vocal, bass
 
 **Tai Taitano** (he/him)${'  '}
 drums
