@@ -51,7 +51,7 @@ const MailingList = () => {
                 {...{
                     className: cx(
                         'MailingList__label',
-                        'Birra',
+                        'font__heading',
                     ),
                 }}
             >
@@ -70,7 +70,7 @@ const MailingList = () => {
                         className: cx(
                             'MailingList__emailField',
                             'MailingList__input',
-                            'Asap',
+                            'font__text',
                         ),
                         id: EMAIL_ID,
                         name: EMAIL_NAME,
@@ -107,7 +107,7 @@ const MailingList = () => {
                         className: cx(
                             'MailingList__submitButton',
                             'MailingList__input',
-                            'Asap',
+                            'font__text',
                         ),
                         type: 'submit',
                         value: 'Sign up!',

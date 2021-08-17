@@ -44,7 +44,7 @@ const AlbumLink = () => (
                 {...{
                     className: cx(
                         'AlbumLink__yearlingsBobtail',
-                        'Birra',
+                        'font__heading',
                     ),
                 }}
             >
