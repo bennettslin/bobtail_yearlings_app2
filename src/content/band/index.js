@@ -4,7 +4,7 @@ export default `
 lead vocal, guitar
 
 **Chris Kouldukis** (he/him)${'  '}
-backing vocal, bass
+backing vocal, guitar
 
 **Tai Taitano** (he/him)${'  '}
 drums
