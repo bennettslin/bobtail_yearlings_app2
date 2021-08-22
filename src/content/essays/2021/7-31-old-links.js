@@ -44,5 +44,5 @@ Papers written for class assignments. I don't vouch for their quality.
 
 Confused about the lack of attention that *Yearling's Bobtail* was getting from the indie labels and music press, I wrote a songwriting book that distills my personal technique for composing melodies into a lesson plan, and I sent it out as a follow-up. I now know this is the kind of stunt that gets you taken even less seriously by indie rock, not more.
 
-[*Bobtail Method*](${getPdfLink('Bobtail_Method')}) (2008)
+[*Bobtail Method*](https://www.bobtailmethod.com) (2008)
 `
