@@ -1,10 +1,10 @@
 export const title = `Music is getting worse`
 export default `
-Is music getting worse? Put me in the camp of those who would say so. To be sure, I only make this claim about rock, not hip hop or pop. But few would argue that hip hop and pop are getting better. So if rock is worse, then on average all music is worse.
+Is music getting worse? Put me in the camp of those who would say so. To be sure, I only believe this about rock, not hip hop or pop. But few would argue that hip hop and pop are getting better. So if rock is worse, then on average all music is worse.
 
 I'm also not claiming that no good rock music is being made today. But if we rank the decades, it can't be a seven-way tie. One of them has to sit at the bottom, and it's hard to imagine it being any decade other than the one we just left.
 
-When I go online to see what others think about the current state of music, those who defend it tend to use the same set of arguments. So I thought I'd provide a rebuttal to each of their arguments here.
+When I go online to see what others think about the current state of music, those who defend it tend to use the same arguments. So I thought I'd provide a rebuttal to each one of them here.
 
 **There are more artists doing more things than ever before.**
 
@@ -58,7 +58,7 @@ By thinking in systems, we can expect indie music to be worse. The indies themse
 
 **What kind of person would rather say that today's music is worse?**
 
-I can't speak for anyone else. But why do I say it? Because I want things to get better. It's like saying the climate has gotten worse. You can't fix global warming until you acknowledge that.
+I don't speak for everyone, but I suspect I speak for quite a few. Why do I say it? Because I want things to get better. It's like saying the climate has gotten worse. You can't fix global warming until you acknowledge that.
 
 And once you do, no one reads it as an indictment of today's youth. But talk about musical climate change, and suddenly it's the youth who take offense. So let me clear this up. When I say music is getting worse, it's an indictment of the previous generations. Not the next ones.
 
