@@ -22,7 +22,7 @@ The same rule applies to entire decades as well. Whatever dreck the 60s came up 
 
 But this was also true in the past. Beyond Nirvana and all the other famous bands that everyone today knows about, there were so many amazing but less popular bands if you cared to look. Yo La Tengo, Slint, the Promise Ring… to name a few.
 
-Yet few kids today get into these obscure bands from the past. Why would they? They'd rather listen to their own— and also Nirvana. So why would kids tomorrow bother with today's obscure bands? They'll have plenty of their own as well— plus Nirvana.
+Yet few kids today get into obscure bands from the past. Why would they? They'd rather listen to their own— plus Nirvana. So why would kids tomorrow bother with today's obscure bands? They'll be far too busy getting into their own as well— plus Nirvana.
 
 **Every generation has its naysayers.**
 
@@ -46,15 +46,13 @@ With that said, have you ever heard anyone talk about being a steward of the roc
 
 **Judging music by its timbral variety is a bunch of crock.**
 
-Okay, I agree with modern music's defenders on this one. There's some research out there showing that loudness has gone up over time, while variety in timbre and tone has gone down. But to say this proves that music has gotten worse is shallow and weak.
+Okay, I agree with the defenders on this one. Yes, research based on analyzing thousands of popular songs over the years has shown that tonal and timbral variety has gone down over time. But by what supreme authority does this actually mean today's music is worse?
 
-The best analytical arguments don't involve big data. They involve systems thinking. Inefficient systems lead to worse results, and the indie system is inefficient by design.
+The way to make objective arguments isn't through data analysis. It's by thinking in systems. For many who defend today's music, indie artists are its saving grace. Yet inefficient systems lead to worse results, and the indie system is inefficient by design.
 
-The indie labels require unknown artists to build up a following on their own. This is inefficient, because insiders with far greater leverage could advocate for these artists and achieve far better results.
+Before signing an unknown artist, the indie labels need to see them build a following on their own. This is inefficient, because the labels could stump for these artists and get better results for less effort. Now they're stuck with the unenviable job of promoting artists who've spent more time chasing a following than developing a craft.
 
-That's why no other field or genre that cares about quality has this requirement.
-
-By thinking in systems, we can expect indie music to be worse. And yet for those who defend today's music, the indie stuff is typically its saving grace.
+This is why no field or genre that cares about quality does things the indie way. Systems thinking alone should tell you the results will be worse.
 
 **We would know about today's music.**
 
