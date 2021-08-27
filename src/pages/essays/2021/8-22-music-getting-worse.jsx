@@ -1,9 +1,9 @@
 import React from 'react'
 import Page from '../../../containers/Page'
 import EssayBody from '../../../containers/Page/EssayBody'
-import content, { title } from '../../../content/essays/2021/8-22-music-worse'
+import content, { title } from '../../../content/essays/2021/8-22-music-getting-worse'
 
-const MusicWorse = () => (
+const MusicGettingWorse = () => (
     <Page {...{ content, title }}>
         <EssayBody
             {...{
@@ -17,4 +17,4 @@ const MusicWorse = () => (
         </EssayBody>
     </Page>
 )
-export default MusicWorse
+export default MusicGettingWorse
