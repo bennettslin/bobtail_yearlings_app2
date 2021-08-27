@@ -1,8 +1,10 @@
 export const title = `Yes, music is getting worse`
 export default `
-Is music getting worse? Put me in the camp of those who would say so. To be sure, I only believe this about rock, not hip hop or pop. But few would argue that hip hop and pop are getting better. So if rock is worse, then on average all music is worse.
+Is music getting worse? Put me in the camp of those who say yes. To be sure, I only say this about rock, not hip hop or pop. But few would argue that hip hop and pop are getting better. So if rock is worse, then on average all music is worse.
 
 I'm also not claiming that no good rock music is being made today. But if we rank the decades, it can't be a seven-way tie. One of them has to sit at the bottom, and it's hard to imagine it being any decade other than the one we just left.
+
+(Definitive list.)
 
 When I go online to see what others think about the current state of music, those who defend it tend to use the same set of arguments. So I thought I'd provide a rebuttal to each one of them here.
 
@@ -22,9 +24,9 @@ The same rule applies to entire decades as well. Whatever dreck the 60s came up 
 
 (elaborate about famous artists of the past)
 
-But this was also true in the past. Clearly the only choice wasn't just Nirvana and other famous bands that kids know about today. There were so many amazing but less popular bands if you cared to look. Yo La Tengo, Slint, Cap'n Jazz, the Promise Ring… to name a few.
+But this was also true in the past. Clearly there wasn't just Nirvana and all the other famous bands that everyone knows about today. There were so many amazing but less popular bands if you cared to look. Yo La Tengo, Slint, Cap'n Jazz, the Promise Ring… to name a few.
 
-Yet few kids today get into these obscure bands from the past. Why would they? They'd rather listen to their own— along with Nirvana. So why would kids tomorrow bother with today's obscure bands? They can just listen to their own as well— plus Nirvana.
+Yet few young people today get into these obscure bands from the past. Why would they? They'd rather listen to their own— along with Nirvana. So why would young people tomorrow bother with today's obscure bands? They can just listen to their own as well— along with Nirvana.
 
 **Every generation has its naysayers.**
 
@@ -46,19 +48,22 @@ You also have to assume they're hard to sustain once that fortune runs out. Beca
 
 With that said, have you ever heard anyone talk about being a steward of the rock and roll renaissance?
 
-**Judging music by its timbral variety is a bunch of crock.**
+**Measuring music by its timbral variety is a bunch of crock.**
 
 Okay, I agree with the defenders on this one. Yes, research based on analyzing thousands of popular songs over the years has shown that tonal and timbral variety has gone down over time. But by what supreme authority does this actually mean today's music is worse?
 
-The way to make objective arguments isn't through data analysis. It's with systems thinking. For example, inefficient systems lead to worse results. And the indie system is inefficient by design.
+(Does this make sense?)
 
-Before signing unknown artists, the indie labels need to see them build a following on their own. This is inefficient, because the labels could stump for these artists and get better results for less effort. Now they're stuck trying to promote artists who've logged more time chasing a following than developing a craft.
+Because music is hopelessly subjective, the best way to make an objective argument isn't through data analysis. It's with systems thinking. For example, inefficient systems lead to worse results, right? Well, the indie system is inefficient by design.
 
-(Still don't like this paragraph.)
+Before signing unknown artists, the indie labels need to see them build a following on their own. This is inefficient, because the labels have far more leverage. They could stump for these artists and get much better results for the same effort. Now they're stuck trying to promote artists who've logged more time chasing a following than developing a craft.
 
-By thinking in systems, we can expect indie music to be worse. That's why no other genre that cares about quality does things the indie way. Yet for many who defend today's music, the indies are its saving grace!
+By thinking in systems, we can expect indie music to be worse. Yet for many who defend today's music, the indies are its one saving grace!
 
 **Each generation can only be judged by what was possible in its own time.**
+
+The basis of this argument is that the low-hanging fruit has been plucked. And so the present generation hasn't dropped the ball. What modern band couldn't create a *Never Mind the Bollocks* and change the world, if that were still an option?
+
 
 (Explain rationale of argument, punk example. Achille's heel if this argument is that it assumes that if something revolutionary came on, we would know about it.)
 
