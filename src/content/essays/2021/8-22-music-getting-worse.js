@@ -52,18 +52,17 @@ With that said, have you ever heard anyone talk about being a steward of the roc
 
 Okay, I agree with the defenders on this one. Yes, research based on analyzing thousands of popular songs over the years has shown that tonal and timbral variety has gone down over time. But by what supreme authority does this actually mean today's music is worse?
 
-(Does this make sense?)
+(Redo.)
 
-Because music is hopelessly subjective, the best way to make an objective argument isn't through data analysis. It's with systems thinking. For example, inefficient systems lead to worse results, right? Well, the indie system is inefficient by design.
+Music is hopelessly subjective. You can't make objective arguments using data analysis. You need systems thinking instead. For example, inefficient systems lead to worse results, right? Well, the indie system is inefficient by design.
 
 Before signing unknown artists, the indie labels need to see them build a following on their own. This is inefficient, because the labels have far more leverage. They could stump for these artists and get much better results for the same effort. Now they're stuck trying to promote artists who've logged more time chasing a following than developing a craft.
 
-By thinking in systems, we can expect indie music to be worse. Yet for many who defend today's music, the indies are its one saving grace!
+By thinking in systems, we can expect indie music to be worse. And yet for many who defend today's music, the indies are its saving grace.
 
 **Each generation can only be judged by what was possible in its own time.**
 
-The basis of this argument is that the low-hanging fruit has been plucked. And so the present generation hasn't dropped the ball. What modern band couldn't create a *Never Mind the Bollocks* and change the world, if that were still an option?
-
+The argument here is that the low-hanging fruit has been plucked. No album as raw as *Never Mind the Bollocks* can ever again change the world. So it's not that the present generation dropped the ball. It's that the standards for starting a revolution are much higher.
 
 (Explain rationale of argument, punk example. Achille's heel if this argument is that it assumes that if something revolutionary came on, we would know about it.)
 
