@@ -28,6 +28,10 @@ But this was also true in the past. Clearly there wasn't just Nirvana and all th
 
 Yet few young people today get into these obscure bands from the past. Why would they? They'd rather listen to their own— along with Nirvana. So why would young people tomorrow bother with today's obscure bands? They can just listen to their own as well— along with Nirvana.
 
+**Bands intimate**
+
+(TODO)
+
 **Every generation has its naysayers.**
 
 Sure, there will always be grumpy old cranks who think the music of their own time was the best. But when your naysayers are young, you have a problem.
@@ -75,6 +79,8 @@ The argument here is that the low-hanging fruit has been plucked. No album as ra
 The indies themselves don't claim to be better.
 
 In their heyday, the major labels took big risks to discover bands no one knew about, like Radiohead. By contrast, the indies make safe bets on local bands with an established following. They've never promised to do anything else, even after the majors imploded.
+
+(Put this first.)
 
 **What kind of person would rather say that today's music is worse?**
 
