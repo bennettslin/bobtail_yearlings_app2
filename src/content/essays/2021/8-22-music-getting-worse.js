@@ -4,9 +4,20 @@ Is music getting worse? Put me in the camp of those who say yes. To be sure, I o
 
 I'm also not claiming that no good rock music is being made today. But if we rank the decades, it can't be a seven-way tie. One of them has to sit at the bottom, and it's hard to imagine it being any decade other than the one we just left.
 
-(Definitive list.)
-
 When I go online to see what others think about the current state of music, those who defend it tend to use the same set of arguments. So I thought I'd provide a rebuttal to each one of them here.
+
+**What kind of sad person would rather say that music is getting worse?**
+
+(Rephrase.)
+
+This one isn't stated directly, just implied. Since music is so subjective, it's really just your state of mind that chooses to see it as getting worse.
+
+Now, I can't speak for everyone. But this isn't the case for me. Why do *I* say today's music is worse? Because I want it to get better. It's like saying the earth's climate has gotten worse. You can't fix global warming unless you acknowledge that.
+
+And when you do, no one assumes you're pointing the finger of blame at today's youth. But talk about musical climate change, and suddenly it's the youth who take offense. So let me clear this up. When I say music is getting worse, it's an indictment of my generation. Not theirs.
+
+(Big fish, )
+I want to fix this precisely because it was my generation that broke it.
 
 **There are more artists doing more things than ever before.**
 
@@ -30,7 +41,7 @@ Yet few young people today get into these obscure bands from the past. Why would
 
 **Bands intimate**
 
-(TODO)
+(TODO) (Bands good to future fans?)
 
 **Every generation has its naysayers.**
 
@@ -56,13 +67,13 @@ With that said, have you ever heard anyone talk about being a steward of the roc
 
 Okay, I agree with the defenders on this one. Yes, research based on analyzing thousands of popular songs over the years has shown that tonal and timbral variety has gone down over time. But by what supreme authority does this actually mean today's music is worse?
 
-(Redo.)
+Music is hopelessly subjective. You can't make objective arguments using data analysis. You need systems thinking instead. For example, few would dispute that inefficient systems lead to worse results. Well, the indie system is inefficient by design.
 
-Music is hopelessly subjective. You can't make objective arguments using data analysis. You need systems thinking instead. For example, inefficient systems lead to worse results, right? Well, the indie system is inefficient by design.
+The indie labels would rather sign artists who've built a following on their own. This is inefficient, because the labels have much greater leverage. They could stump for these artists and get far better results for the same effort.
 
-Before signing unknown artists, the indie labels need to see them build a following on their own. This is inefficient, because the labels have far more leverage. They could stump for these artists and get much better results for the same effort. Now they're stuck trying to promote artists who've logged more time chasing a following than developing a craft.
+Instead, they're stuck trying to promote artists who've logged more time chasing a following than developing a craft. The labels lose prestige as a result. This compels them to find artists who'll do even more of their work for them, and the vicious circle continues.
 
-By thinking in systems, we can expect indie music to be worse. And yet for many who defend today's music, the indies are its saving grace.
+By thinking in systems, we can expect indie music to be worse. Yet many who defend today's music will say the indies are its saving grace!
 
 **Each generation can only be judged by what was possible in its own time.**
 
@@ -79,18 +90,4 @@ The argument here is that the low-hanging fruit has been plucked. No album as ra
 The indies themselves don't claim to be better.
 
 In their heyday, the major labels took big risks to discover bands no one knew about, like Radiohead. By contrast, the indies make safe bets on local bands with an established following. They've never promised to do anything else, even after the majors imploded.
-
-(Put this first.)
-
-**What kind of person would rather say that today's music is worse?**
-
-I can't speak for everyone. But why do I say it? Because I want things to get better. It's like saying the earth's climate has gotten worse. You can't fix global warming until you acknowledge that.
-
-And once you do, no one reads it as an indictment of today's youth. But talk about musical climate change, and suddenly it's the youth who take offense. So let me clear this up. When I say music is getting worse, it's an indictment of previous generations. Not the next ones.
-
-(Expand upon.)
-
-There are fewer big fish in the ocean.
-
-Now let's fix this thing!
 `
