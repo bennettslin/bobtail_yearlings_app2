@@ -8,16 +8,13 @@ When I go online to see what others think about the current state of music, thos
 
 **What kind of sad person would rather say that music is getting worse?**
 
-(Rephrase.)
+This one is implied rather than stated. Since music is so subjective, the thinking goes, whether it's getting worse just depends on your state of mind. So if you're a cynic, it's because you choose to be.
 
-This one isn't stated directly, just implied. Since music is so subjective, it's really just your state of mind that chooses to see it as getting worse.
+But this misunderstands my motive. Why do *I* say that today's music is worse? Because it can't be fixed until we admit that. Just like you can't fix global warming until you acknowledge that the earth's climate has gotten worse.
 
-Now, I can't speak for everyone. But this isn't the case for me. Why do *I* say today's music is worse? Because I want it to get better. It's like saying the earth's climate has gotten worse. You can't fix global warming unless you acknowledge that.
+And once you do, no one assumes you're blaming today's youth for all the floods and wildfires today. But talk about musical climate change, and it's the youth who take offense. So let me clear this up. When I say music is getting worse, it's an indictment of my generation. Not theirs.
 
-And when you do, no one assumes you're pointing the finger of blame at today's youth. But talk about musical climate change, and suddenly it's the youth who take offense. So let me clear this up. When I say music is getting worse, it's an indictment of my generation. Not theirs.
-
-(Big fish, )
-I want to fix this precisely because it was my generation that broke it.
+Previous generations depleted the oceans of all the big fish. And my generation depleted rock music of any more big names. We were the ones who broke it. So it's on us to fix it.
 
 **There are more artists doing more things than ever before.**
 
@@ -33,15 +30,17 @@ The same rule applies to entire decades as well. Whatever dreck the 60s came up 
 
 **There's so much good music out there if you're willing to find it.**
 
-(elaborate about famous artists of the past)
+(TODO: elaborate about famous artists of the past)
 
-But this was also true in the past. Clearly there wasn't just Nirvana and all the other famous bands that everyone knows about today. There were so many amazing but less popular bands if you cared to look. Yo La Tengo, Slint, Cap'n Jazz, the Promise Ring… to name a few.
+But this was also true in the past. It wasn't just Nirvana and every other famous band that everyone knows about today. There were so many amazing but less popular bands if you cared to look. Yo La Tengo, Slint, Cap'n Jazz, the Promise Ring… to name a few.
 
 Yet few young people today get into these obscure bands from the past. Why would they? They'd rather listen to their own— along with Nirvana. So why would young people tomorrow bother with today's obscure bands? They can just listen to their own as well— along with Nirvana.
 
 **Bands intimate**
 
-(TODO) (Bands good to future fans?)
+(TODO: Bands good to future fans?)
+
+As someone who grew up listening to music made by people with different values who'd been dead for centuries, I've never understood.
 
 **Every generation has its naysayers.**
 
@@ -67,27 +66,39 @@ With that said, have you ever heard anyone talk about being a steward of the roc
 
 Okay, I agree with the defenders on this one. Yes, research based on analyzing thousands of popular songs over the years has shown that tonal and timbral variety has gone down over time. But by what supreme authority does this actually mean today's music is worse?
 
-Music is hopelessly subjective. You can't make objective arguments using data analysis. You need systems thinking instead. For example, few would dispute that inefficient systems lead to worse results. Well, the indie system is inefficient by design.
+(TODO: Explain the need for systems thinking.)
 
-The indie labels would rather sign artists who've built a following on their own. This is inefficient, because the labels have much greater leverage. They could stump for these artists and get far better results for the same effort.
+Music is too subjective, and so you can't make objective arguments with data analysis. You need systems thinking instead. For example, few would dispute that inefficient systems lead to worse results. Well, the indie system is inefficient by design.
 
-Instead, they're stuck trying to promote artists who've logged more time chasing a following than developing a craft. The labels lose prestige as a result. This compels them to find artists who'll do even more of their work for them, and the vicious circle continues.
+The indie labels only sign artists who've managed to build a fanbase on their own. This is inefficient, because a label has leverage, while an unknown artist has none. More leverage gets you better results for the same effort. So building that fanbase should be the label's job.
 
-By thinking in systems, we can expect indie music to be worse. Yet many who defend today's music will say the indies are its saving grace!
+(TODO: Talk about artists having less time.)
 
-**Each generation can only be judged by what was possible in its own time.**
+Now the labels are stuck trying to promote artists who've logged more time chasing a following than developing a craft. This loses them prestige. Which then compels them to find artists who can do even more of their work for them, and the vicious circle continues.
 
-The argument here is that the low-hanging fruit has been plucked. No album as raw as *Never Mind the Bollocks* can ever again change the world. So it's not that the present generation dropped the ball. It's that the standards for starting a revolution are much higher.
+By thinking in systems, we can expect indie music to be worse. Yet for many who defend today's music, the indies are its saving grace!
 
-(Explain rationale of argument, punk example. Achille's heel if this argument is that it assumes that if something revolutionary came on, we would know about it.)
+**Each generation can only be judged by what's possible in its own time.**
 
-(No one's trying to discover next Radiohead. Not the majors, not the indies.)
+Yes, previous generations are overrepresented in history, the thinking goes, but only because they got to pluck the low-hanging fruit. No band as raw as the Sex Pistols can ever again change the world. So it's not like today's artists have fumbled the ball. The means to kickstart the next revolution are now too high to reach.
 
-(Yearling's Bobtail. Same time, energy, and skill level in graphic novel, some publisher would have picked it up.)
+But this assumes that we are, in fact, doing the best we can to find the revolutionary artists who might be out there. That we'll definitely hear about them when they arrive, which means they're not here yet. Prove this assumption wrong, and the argument falls apart. So let's do that.
 
-(I'm not saying. YB is the canary in the coalmine.)
+Here's the first part of my rebuttal. In their heyday, the major labels took big risks to discover bands no one knew about, like Radiohead. 
+
+By contrast, the indie labels make safe bets on local bands with an established following. And they've never promised to do anything else.
+
+(TODO: Risk averse.)
+
+The majors have become risk-averse.
+But you have to assume that discovering a great band isn't possible without taking big risks.
+
+(TODO: No one's trying to discover next Radiohead. Not the majors, not the indies.)
+And so the next Radiohead can never be discovered. Or, more likely, the band that could have been the next Radiohead in some parallel universe, instead does things the indie way. And that's what they pride themselves on, never knowing how much their fate was decided by the system.
+
+(TODO: Yearling's Bobtail. Same time, energy, and skill level in graphic novel, some publisher would have picked it up.)
+
+(TODO: I'm not saying. YB is the canary in the coalmine.)
 
 The indies themselves don't claim to be better.
-
-In their heyday, the major labels took big risks to discover bands no one knew about, like Radiohead. By contrast, the indies make safe bets on local bands with an established following. They've never promised to do anything else, even after the majors imploded.
 `
