@@ -1,7 +1,7 @@
-import { BOBTAIL_YEARLINGS_DOMAIN } from '../../../constants/pages'
+import { DOMAIN } from '../../../constants/pages'
 
 const getPdfLink = page => (
-    `${BOBTAIL_YEARLINGS_DOMAIN}/docs/${page}.pdf`
+    `${DOMAIN}/docs/${page}.pdf`
 )
 
 export const title = `Old links`
