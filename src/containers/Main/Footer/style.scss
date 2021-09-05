@@ -1,7 +1,6 @@
 @import '../../../scss/constants/responsive';
 
 .Footer {
-    height: $height__footer__mobile;
     padding: 0 $margin__wide;
 
     display: flex;
@@ -10,7 +9,6 @@
     align-items: center;
 
     @media (min-width: $width__page__narrow) {
-        height: $height__footer;
         flex-direction: row;
     }
 }

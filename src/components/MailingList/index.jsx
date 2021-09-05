@@ -30,7 +30,6 @@ const MailingList = () => {
 
     const onChange = ({ target: { value } }) => {
         const emailValue = value.replace(' ', '')
-
         setIsValidEmail(EmailValidator.validate(emailValue))
         setEmailValue(emailValue)
     }

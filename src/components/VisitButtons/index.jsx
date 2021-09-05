@@ -16,7 +16,7 @@ const VisitButtons = ({
             ),
         }}
     >
-        <label>Visit us:</label>
+        <label>Follow the Bobtail Yearlings:</label>
         <FacebookButton />
         <TwitterButton />
     </div>

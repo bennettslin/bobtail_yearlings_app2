@@ -8,6 +8,7 @@ $marginTop__mailingList: 4px;
 .MailingList {
     width: 100%;
     max-width: 400px;
+    padding: $margin__narrow 0;
 }
 
 .MailingList__label {
