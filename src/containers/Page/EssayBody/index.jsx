@@ -1,10 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Body from '../Body'
-import EssayFooter from './EssayFooter'
+import MultiPageFooter from '../../../components/MultiPageFooter'
 import Markdown from '../../../components/Markdown'
 import Heading from '../../../components/Heading'
 import { getMonthName } from './helper'
+import { ESSAYS_PAGE } from '../../../constants/pages'
 
 const EssayBody = ({
     title,
@@ -24,7 +25,7 @@ const EssayBody = ({
                 {children}
             </Markdown>
         </Body>
-        <EssayFooter />
+        <MultiPageFooter {...{ backPage: ESSAYS_PAGE }} />
     </>
 )
 
