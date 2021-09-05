@@ -1,7 +1,7 @@
-import { DOMAIN } from '../../../constants/pages'
+import { DOMAIN_NAME } from '../../../constants/pages'
 
 const getPdfLink = page => (
-    `${DOMAIN}/docs/${page}.pdf`
+    `${DOMAIN_NAME}/docs/${page}.pdf`
 )
 
 export const title = `Old links`

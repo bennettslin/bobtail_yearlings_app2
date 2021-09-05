@@ -3,6 +3,7 @@ import {
     FACEBOOK_ID,
     TWITTER_ID,
 } from '../../../constants/socialMedia'
+import { APP_NAME } from '../../../utils/server'
 
 const
     SOCIAL_MEDIA_URL_MAP = {
@@ -36,7 +37,7 @@ export const openSocialMediaPopup = ({
 }) => {
     window.open(
         getSocialMediaUrl(brandId, getUrlForPage(page)),
-        'bobtailYearlings_socialMedia',
+        `${APP_NAME}_socialMedia`,
         getWindowFeatures({
             ...BASE_WINDOW_FEATURES,
 

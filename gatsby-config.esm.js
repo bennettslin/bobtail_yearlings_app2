@@ -1,8 +1,10 @@
-import { GA_ACCOUNT } from './src/constants/analytics'
 import {
+    APP_DESCRIPTION,
+    APP_TITLE,
     getFaviconFileName,
     getS3BucketName,
 } from './src/utils/server'
+import { GA_ACCOUNT } from './src/constants/analytics'
 
 export default {
     plugins: [
@@ -17,9 +19,9 @@ export default {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: `Bobtail Yearlings`,
-                short_name: `Bobtail Yearlings`,
-                description: 'Website for the band Bobtail Yearlings',
+                name: APP_TITLE,
+                short_name: APP_TITLE,
+                description: APP_DESCRIPTION,
                 start_url: '/',
                 background_color: '#e6e6ad',
                 theme_color: '#b38e6b',

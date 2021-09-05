@@ -44,14 +44,12 @@ input[type=submit] {
 
     &[disabled] {
         color: $colour__neutral__light;
-        cursor: default;
     }
 }
 
 a, button {
     &[disabled] {
         color: $colour__primary__dark;
-        cursor: default;
     }
 }
 
@@ -70,6 +68,10 @@ a, button, input[type=submit] {
 
     &:not([disabled]):active {
         color: $colour__link__light;
+    }
+
+    &[disabled] {
+        cursor: default;
     }
 }
 

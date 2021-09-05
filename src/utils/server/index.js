@@ -1,3 +1,9 @@
+export const APP_TITLE = 'Bobtail Yearlings'
+export const APP_DESCRIPTION =
+    'Website for the band Bobtail Yearlings.'
+export const APP_NAME = 'bobtailYearlings'
+export const DOMAIN = APP_NAME.toLowerCase()
+
 export const getIsRuntimeBuild = () => (
     process.env.BUILD === 'runtime'
 )
@@ -9,23 +15,23 @@ export const getIsProductionBuild = () => (
 export const getFaviconFileName = () => {
     switch (process.env.DESTINATION) {
         case 'local':
-            return 'bobtailYearlings_local'
+            return `${APP_NAME}_local`
         case 'candidate':
-            return 'bobtailYearlings_candidate'
+            return `${APP_NAME}_candidate`
         case 'delivery':
-            return 'bobtailYearlings_delivery'
+            return `${APP_NAME}_delivery`
         default:
-            return 'bobtailYearlings'
+            return APP_NAME
     }
 }
 
 export const getS3BucketName = () => {
     switch (process.env.DESTINATION) {
         case 'candidate':
-            return 'bobtailyearlings--candidate'
+            return `${DOMAIN}--candidate`
         case 'delivery':
-            return 'bobtailyearlings--delivery'
+            return `${DOMAIN}--delivery`
         default:
-            return 'bobtailyearlings--production'
+            return `${DOMAIN}--production`
     }
 }
