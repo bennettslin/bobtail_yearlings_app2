@@ -12,9 +12,7 @@ const FollowButtons = () => (
             ),
         }}
     >
-        <label {...{ className: 'FollowButtons__label' }}>
-            Follow us:
-        </label>
+        <label>Follow us:</label>
         <FacebookButton />
         <TwitterButton />
     </div>
