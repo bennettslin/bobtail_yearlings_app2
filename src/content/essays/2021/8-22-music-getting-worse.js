@@ -10,11 +10,11 @@ When I go online to see what others think about the current state of music, thos
 
 This one is implied rather than stated. Since music is so subjective, the thinking goes, whether it's getting worse just depends on your state of mind. So if you're a cynic, it's because you choose to be.
 
-But this misunderstands my motive. Why do *I* say that today's music is worse? Because it can't be fixed until we admit that. Just like you can't fix global warming until you acknowledge that the earth's climate has gotten worse.
+But this misunderstands my motive. Why do *I* say that today's music has gotten worse? Because we have to admit that in order to fix it. Just like you can't fix global warming until you acknowledge that the earth's climate is getting worse.
 
 And once you do, no one assumes you're blaming today's youth for all the floods and wildfires today. But talk about musical climate change, and it's the youth who take offense. So let me clear this up. When I say music is getting worse, it's an indictment of my generation. Not theirs.
 
-Previous generations depleted the oceans of all the big fish. And my generation depleted rock music of any more big names. We were the ones who broke it. So it's on us to fix it.
+Previous generations depleted the oceans of all the big fish. And my generation depleted rock music of all its big names. We broke it, so it's on us to fix it.
 
 **There are more artists doing more things than ever before.**
 
@@ -66,15 +66,11 @@ With that said, have you ever heard anyone talk about being a steward of the roc
 
 Okay, I agree with the defenders on this one. Yes, research based on analyzing thousands of popular songs over the years has shown that tonal and timbral variety has gone down over time. But by what supreme authority does this actually mean today's music is worse?
 
-(TODO: Explain the need for systems thinking.)
-
 Music is too subjective, and so you can't make objective arguments with data analysis. You need systems thinking instead. For example, few would dispute that inefficient systems lead to worse results. Well, the indie system is inefficient by design.
 
-The indie labels only sign artists who've managed to build a fanbase on their own. This is inefficient, because a label has leverage, while an unknown artist has none. More leverage gets you better results for the same effort. So building that fanbase should be the label's job.
+The indie labels only sign artists who've built a fanbase on their own. But a label has leverage while an unknown artist has none, and more leverage gets you better results for the same effort. So in an efficient system, building the fanbase would be the labels' job.
 
-(TODO: Talk about artists having less time.)
-
-Now the labels are stuck trying to promote artists who've logged more time chasing a following than developing a craft. This loses them prestige. Which then compels them to find artists who can do even more of their work for them, and the vicious circle continues.
+Instead, the labels are stuck trying to promote artists who've logged more time chasing a following than developing a craft. This gradually loses them prestige. Which then compels them to find artists who can do even more of their work for them, and the vicious circle continues.
 
 By thinking in systems, we can expect indie music to be worse. Yet for many who defend today's music, the indies are its saving grace!
 
