@@ -1,7 +1,7 @@
 import React from 'react'
 import cx from 'classnames'
-import FacebookButton from './FacebookButton'
-import TwitterButton from './TwitterButton'
+import FacebookButton from './FollowButton/FacebookButton'
+import TwitterButton from './FollowButton/TwitterButton'
 import './style'
 
 const FollowButtons = () => (
