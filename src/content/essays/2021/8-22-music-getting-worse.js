@@ -8,19 +8,19 @@ When I go online to see what others think about the current state of music, thos
 
 **What kind of sad person would rather say that music is getting worse?**
 
-This one is implied rather than stated. Since music is so subjective, the thinking goes, whether it's getting worse just depends on your state of mind. So if you're a cynic, it's because you choose to be.
+This one is implied rather than stated. Music is so subjective, the thinking goes, and so whether it's getting worse just depends on your state of mind. If you're a cynic, it's because you choose to be.
 
-But this misunderstands my motive. Why do *I* say that today's music has gotten worse? Because we have to admit that in order to fix it. Just like you can't fix global warming until you acknowledge that the earth's climate is getting worse.
+But this misunderstands my motive. Why do *I* say that today's music has gotten worse? Because I want us to fix it. Just like you can't fix global warming until you acknowledge that it's happening.
 
 And once you do, no one assumes you're blaming today's youth for all the floods and wildfires today. But talk about musical climate change, and it's the youth who take offense. So let me clear this up. When I say music is getting worse, it's an indictment of my generation. Not theirs.
 
-Previous generations depleted the oceans of all the big fish. And my generation depleted rock music of all its big names. We broke it, so it's on us to fix it.
+Previous generations depleted the oceans of all the big fish. And my generation exhausted rock music of any more big names. We broke it, so it's on us to fix it.
 
 **There are more artists doing more things than ever before.**
 
 Yes, but every generation can make this claim. For the indefinite future, in every genre and medium, an ever increasing number of artists will be doing an ever increasing number of things.
 
-And for the past several decades, anyone could have said this about classical or jazz. Yet no one believes these genres are still in the midst of a golden age.
+And for the past several decades, anyone could have said this about classical or jazz. Yet no one believes these genres are still in the midst of their golden age.
 
 **There was bad music in the past as well.**
 
@@ -30,15 +30,13 @@ The same rule applies to entire decades as well. Whatever dreck the 60s came up 
 
 **There's so much good music out there if you're willing to find it.**
 
-(TODO: elaborate about famous artists of the past)
+(TODO: 1. elaborate about famous artists of the past)
 
-But this was also true in the past. It wasn't just Nirvana and every other famous band that everyone knows about today. There were so many amazing but less popular bands if you cared to look. Yo La Tengo, Slint, Cap'n Jazz, the Promise Ring… to name a few.
+But this was also true in the past. It wasn't just Nirvana and no one else. There were so many amazing but less popular bands if you cared to look. Yo La Tengo, Slint, Cap'n Jazz, the Promise Ring… to name a few.
 
 Yet few young people today get into these obscure bands from the past. Why would they? They'd rather listen to their own— along with Nirvana. So why would young people tomorrow bother with today's obscure bands? They can just listen to their own as well— along with Nirvana.
 
-**Bands intimate**
-
-(TODO: Bands good to future fans?)
+(TODO: Present day bands are not good to future fans.)
 
 As someone who grew up listening to music made by people with different values who'd been dead for centuries, I've never understood.
 
@@ -68,17 +66,17 @@ Okay, I agree with the defenders on this one. Yes, research based on analyzing t
 
 Music is too subjective, and so you can't make objective arguments with data analysis. You need systems thinking instead. For example, few would dispute that inefficient systems lead to worse results. Well, the indie system is inefficient by design.
 
-The indie labels only sign artists who've built a fanbase on their own. But a label has leverage while an unknown artist has none, and more leverage gets you better results for the same effort. So in an efficient system, building the fanbase would be the labels' job.
+The indie labels only sign artists who've built a fanbase on their own. But a label has leverage while an unknown artist has none. And more leverage gets you better results for the same effort. So in an efficient system, building the fanbase would be a label's job.
 
-Instead, the labels are stuck trying to promote artists who've logged more time chasing a following than developing a craft. This gradually loses them prestige. Which then compels them to find artists who can do even more of their work for them, and the vicious circle continues.
+Instead, the labels are stuck trying to promote artists who've logged more time chasing a following than developing a craft. This gradually loses them prestige. They're then compelled to find artists who can do even more of their work for them, and the vicious circle continues.
 
 By thinking in systems, we can expect indie music to be worse. Yet for many who defend today's music, the indies are its saving grace!
 
 **Each generation can only be judged by what's possible in its own time.**
 
-Yes, previous generations are overrepresented in history, the thinking goes, but only because they got to pluck the low-hanging fruit. No band as raw as the Sex Pistols can ever again change the world. So it's not like today's artists have fumbled the ball. The means to kickstart the next revolution are now too high to reach.
+Previous generations plucked all the low-hanging fruit. No band as raw as the Sex Pistols can ever again change the world. So the argument here is that today's artists haven't fumbled the ball. The means to start the next revolution are now too high to reach.
 
-But this assumes that we are, in fact, doing the best we can to find the revolutionary artists who might be out there. That we'll definitely hear about them when they arrive, which means they're not here yet. Prove this assumption wrong, and the argument falls apart. So let's do that.
+But this assumes that we're doing our best to find the revolutionary artists out there. That once they arrive, you'll definitely hear about them. Prove this assumption wrong, and the argument falls apart. So let's do that.
 
 Here's the first part of my rebuttal. In their heyday, the major labels took big risks to discover bands no one knew about, like Radiohead. 
 
