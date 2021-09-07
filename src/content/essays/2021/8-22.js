@@ -5,7 +5,7 @@ export default {
     date,
     title: `Yes, music is getting worse`,
     path: `music-getting-worse`,
-    content: `
+    body: `
 ${getMarkdownHeaderFromDate(date)}
 
 Is music getting worse? Put me in the camp of those who say yes. To be sure, I only say this about rock, not hip hop or pop. But few would argue that hip hop and pop are getting better. So if rock is worse, then on average all music is worse.

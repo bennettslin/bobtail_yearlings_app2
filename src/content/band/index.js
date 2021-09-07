@@ -1,6 +1,6 @@
 export default {
     title: `Band members`,
-    content: `
+    body: `
 **Bennett Lin** (he/him)${'  '}
 lead vocal, guitar
 

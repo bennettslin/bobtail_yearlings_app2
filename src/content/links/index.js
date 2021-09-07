@@ -1,6 +1,6 @@
 export default {
     title: `Project links`,
-    content: `
+    body: `
 [*Bobtail Dominoes*](https://www.bobtaildominoes.com/)${'  '}
 Our musical tile game.
 
