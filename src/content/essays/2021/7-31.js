@@ -1,4 +1,3 @@
-import { getMarkdownHeaderFromDate } from '../../../utils/format/markdown'
 import { getPdfLink } from '../../../utils/pages'
 
 const date = { year: 2021, month: 7, day: 31 }
@@ -7,8 +6,6 @@ export default {
     title: `Old links`,
     path: `old-links`,
     body: `
-${getMarkdownHeaderFromDate(date)}
-
 This isn't an essay but rather a collection of old links. After my initial attempts to gain exposure for *Yearling's Bobtail* failed, I went back to school to study music formally. Since the band website was more or less defunct during this time, I treated it like a personal one and occasionally posted links to my school work. Some of these links ended up ranking pretty high in search results, which made me proud. It was the most validation the world had ever given me for any music-related efforts.
 
 I'm currently revamping the band website, but I'd like to keep my search rankings! So here are those old links for posterity.
