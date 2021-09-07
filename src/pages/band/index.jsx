@@ -1,12 +1,9 @@
 import React from 'react'
-import Page from '../../containers/Page'
-import Body from '../../containers/Page/Body'
 import content from '../../content/band'
+import Page from '../../containers/Page'
 
 const Band = () => (
-    <Page>
-        <Body {...content} />
-    </Page>
+    <Page {...content} />
 )
 
 export default Band
