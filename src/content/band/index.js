@@ -1,5 +1,6 @@
-export const title = `Band members`
-export default `
+export default {
+    title: `Band members`,
+    content: `
 **Bennett Lin** (he/him)${'  '}
 lead vocal, guitar
 
@@ -8,4 +9,5 @@ backing vocal, bass
 
 **Tai Taitano** (he/him)${'  '}
 drums
-`
+    `,
+}

@@ -1,5 +1,13 @@
-export const title = `Yes, music is getting worse`
-export default `
+import { getMarkdownHeaderFromDate } from '../../../utils/format/markdown'
+
+const date = { year: 2021, month: 8, day: 22 }
+export default {
+    date,
+    title: `Yes, music is getting worse`,
+    path: `music-getting-worse`,
+    content: `
+${getMarkdownHeaderFromDate(date)}
+
 Is music getting worse? Put me in the camp of those who say yes. To be sure, I only say this about rock, not hip hop or pop. But few would argue that hip hop and pop are getting better. So if rock is worse, then on average all music is worse.
 
 I'm also not claiming that no good rock music is being made today. But if we rank the decades, it can't be a seven-way tie. One of them has to sit at the bottom, and it's hard to imagine it being any decade other than the one we just left.
@@ -95,4 +103,5 @@ And so the next Radiohead can never be discovered. Or, more likely, the band tha
 (TODO: I'm not saying. YB is the canary in the coalmine.)
 
 The indies themselves don't claim to be better.
-`
+    `,
+}

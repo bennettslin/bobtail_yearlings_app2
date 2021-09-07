@@ -1,5 +1,6 @@
-export const title = `Project links`
-export default `
+export default {
+    title: `Project links`,
+    content: `
 [*Bobtail Dominoes*](https://www.bobtaildominoes.com/)${'  '}
 Our musical tile game.
 
@@ -11,4 +12,5 @@ Our artist accelerator.
 
 [*Yearling's Bobtail*](https://www.yearlingsbobtail.com/)${'  '}
 Our "*Ulysses* of Rock Albums."
-`
+    `,
+}

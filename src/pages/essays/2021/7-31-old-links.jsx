@@ -1,20 +1,15 @@
 import React from 'react'
+import content from '../../../content/essays/2021/7-31'
 import Page from '../../../containers/Page'
-import EssayBody from '../../../containers/Page/EssayBody'
-import content, { title } from '../../../content/essays/2021/7-31-old-links'
+import MarkdownBody from '../../../containers/Page/MarkdownBody'
+import MultiPageFooter from '../../../components/MultiPageFooter'
+import { ESSAYS_PAGE } from '../../../constants/pages'
 
-const OldLinks = () => (
-    <Page {...{ content, title }}>
-        <EssayBody
-            {...{
-                title,
-                year: 2021,
-                month: 7,
-                day: 31,
-            }}
-        >
-            {content}
-        </EssayBody>
+const Essay210731 = () => (
+    <Page>
+        <MarkdownBody {...content} />
+        <MultiPageFooter {...{ backPage: ESSAYS_PAGE }} />
     </Page>
 )
-export default OldLinks
+
+export default Essay210731
