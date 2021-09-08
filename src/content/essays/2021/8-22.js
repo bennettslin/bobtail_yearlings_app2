@@ -17,7 +17,7 @@ When I go online to see what others think about the current state of music, thos
 
 This one is implied rather than stated. Music is so subjective, the thinking goes, and so whether it's getting worse just depends on your state of mind. If you're a cynic, it's because you choose to be.
 
-But this misunderstands my motive. Why do *I* say that today's music has gotten worse? Because I want us to fix it. Just like you can't fix global warming until you acknowledge that it's happening.
+But this misunderstands my motive. Why do *I* say that today's music has gotten worse? Because I want us to fix it. Much like you can't fix global warming until you acknowledge that it's happening.
 
 And once you do, no one assumes you're blaming today's youth for all the floods and wildfires today. But talk about musical climate change, and it's the youth who take offense. So let me clear this up. When I say music is getting worse, it's an indictment of my generation. Not theirs.
 
