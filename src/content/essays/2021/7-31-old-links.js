@@ -1,12 +1,8 @@
-import { ESSAYS_PAGE } from '../../../constants/pages'
 import { getPdfLink } from '../../../utils/pages'
-
-const date = { year: 2021, month: 7, day: 31 }
+import pagesMap from './map'
+const id = 'old-links'
 export default {
-    date,
-    title: `Old links`,
-    path: `old-links`,
-    root: ESSAYS_PAGE,
+    ...pagesMap[id],
     body: `
 This isn't an essay but rather a collection of old links. After my initial attempts to gain exposure for *Yearling's Bobtail* failed, I went back to school to study music formally. Since the band website was more or less defunct during this time, I treated it like a personal one and occasionally posted links to my school work. Some of these links ended up ranking pretty high in search results, which made me proud. It was the most validation the world had ever given me for any music-related efforts.
 

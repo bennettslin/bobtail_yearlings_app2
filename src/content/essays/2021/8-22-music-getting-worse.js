@@ -1,11 +1,7 @@
-import { ESSAYS_PAGE } from '../../../constants/pages'
-
-const date = { year: 2021, month: 8, day: 22 }
+import pagesMap from './map'
+const id = 'music-getting-worse'
 export default {
-    date,
-    title: `Yes, music is getting worse`,
-    path: `music-getting-worse`,
-    root: ESSAYS_PAGE,
+    ...pagesMap[id],
     body: `
 Is music getting worse? Put me in the camp of those who say yes. To be sure, I only say this about rock, not hip hop or pop. But few would argue that hip hop and pop are getting better. So if rock is worse, then on average all music is worse.
 
