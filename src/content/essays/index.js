@@ -1,10 +1,8 @@
-import { pages as pages2021 } from './2021/map'
-import { getMarkdownLinksForEssaysPages } from './helper'
+import { pages as pages2021 } from './2021'
 
-export default {
-    title: `Essays`,
-    body: `
-### 2021
-${getMarkdownLinksForEssaysPages(pages2021)}
-    `,
-}
+export const pagesList = [
+    {
+        heading: 2021,
+        pages: pages2021,
+    },
+]

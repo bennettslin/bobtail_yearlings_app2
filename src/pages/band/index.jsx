@@ -1,9 +1,15 @@
-import React from 'react'
-import content from '../../content/band'
-import Page from '../../containers/Page'
+import { getPageElementForConfig } from '../../containers/Page'
 
-const Band = () => (
-    <Page {...content} />
-)
+export default getPageElementForConfig({
+    title: `Band members`,
+    body: `
+**Bennett Lin** (he/him)${'  '}
+lead vocal, guitar
 
-export default Band
+**Chris Kouldukis** (he/him)${'  '}
+backing vocal, bass
+
+**Tai Taitano** (he/him)${'  '}
+drums
+    `,
+})

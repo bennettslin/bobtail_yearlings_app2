@@ -1,9 +1,9 @@
-import React from 'react'
-import content from '../../content/essays'
-import Page from '../../containers/Page'
+import { getPageElementForConfig } from '../../containers/Page'
+import { getMarkdownLinksForRootPage } from '../../utils/format/markdown'
+import { pagesList } from '../../content/essays'
+import { ESSAYS_PAGE } from '../../constants/pages'
 
-const Essays = () => (
-    <Page {...content} />
-)
-
-export default Essays
+export default getPageElementForConfig({
+    title: `Essays`,
+    body: getMarkdownLinksForRootPage({ rootPage: ESSAYS_PAGE, pagesList }),
+})
