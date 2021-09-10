@@ -14,13 +14,13 @@ When I go online to see what others think about the current state of music, thos
 
 **What kind of sad person would rather say that music is getting worse?**
 
-This one is implied rather than stated. Music is so subjective, the thinking goes, and so whether it's getting worse just depends on your state of mind. If you're a cynic, it's because you choose to be.
+This one is implied rather than stated. Music is subjective, the thinking goes, and so whether it's getting worse just depends on your state of mind. If you're a cynic, it's because you choose to be.
 
 But this misunderstands my motive. Why do *I* say that today's music has gotten worse? Because I want us to fix it. Much like you can't fix global warming until you acknowledge that it's happening.
 
 And once you do, no one assumes you're blaming today's youth for all the floods and wildfires today. But talk about musical climate change, and it's the youth who take offense. So let me clear this up. When I say music is getting worse, it's an indictment of my generation. Not theirs.
 
-Previous generations depleted the oceans of all the big fish. And my generation exhausted rock music of any more big names. We broke it, so it's on us to fix it.
+Previous generations depleted the oceans of all the big fish. And my generation exhausted rock music of all the big names. We broke it, so it's on us to fix it.
 
 **There are more artists doing more things than ever before.**
 
@@ -99,6 +99,8 @@ And so the next Radiohead can never be discovered. Or, more likely, the band tha
 (TODO: Yearling's Bobtail. Same time, energy, and skill level in graphic novel, some publisher would have picked it up.)
 
 (TODO: I'm not saying. YB is the canary in the coalmine.)
+
+You may not have any interest in the Ulysses of rock albums. But it's the canary in the coalmine.
 
 The indies themselves don't claim to be better.
     `,
