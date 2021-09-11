@@ -1,5 +1,34 @@
 @import '../constants/colours';
 
+@font-face {
+    font-family: Asap;
+    src: url('../assets/fonts/Asap/Asap-Regular.ttf');
+}
+
+@font-face {
+    font-family: Asap;
+    src: url('../assets/fonts/Asap/Asap-RegularItalic.ttf');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Asap;
+    src: url('../assets/fonts/Asap/Asap-Bold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Asap;
+    src: url('../assets/fonts/Asap/Asap-BoldItalic.ttf');
+    font-style: italic;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Sexsmith;
+    src: url('../assets/fonts/Sexsmith-Regular/Sexsmith-Regular.ttf');
+}
+
 .font__text {
     font-family: Asap, Arial;
 }
