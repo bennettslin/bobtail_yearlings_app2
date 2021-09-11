@@ -9,7 +9,7 @@ export const pages = [
     },
     {
         id: `music-getting-worse`,
-        title: `Yes, music is getting worse`,
+        title: `Music is getting worse`,
         date: { year: 2021, month: 8, day: 22 },
     },
 ]

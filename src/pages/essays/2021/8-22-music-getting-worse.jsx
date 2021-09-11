@@ -16,7 +16,7 @@ When I go online to see what others think about the current state of music, thos
 
 This one is implied rather than stated. Music is subjective, the thinking goes, and so whether it's getting worse just depends on your state of mind. If you're a cynic, it's because you choose to be.
 
-But this misunderstands my motive. Why do *I* say that today's music has gotten worse? Because I want us to fix it. Much like you can't fix global warming until you acknowledge that it's happening.
+But this misunderstands my motive. Why do *I* say that today's music has gotten worse? Because I want us to fix it. It's like global warming. You can't fix it until you acknowledge that it's happening.
 
 And once you do, no one assumes you're blaming today's youth for all the floods and wildfires today. But talk about musical climate change, and it's the youth who take offense. So let me clear this up. When I say music is getting worse, it's an indictment of my generation. Not theirs.
 
@@ -38,7 +38,7 @@ The same rule applies to entire decades as well. Whatever dreck the 60s came up 
 
 (TODO: 1. elaborate about famous artists of the past)
 
-But this was also true in the past. It wasn't just Nirvana and no one else. There were so many amazing but less popular bands if you cared to look. Yo La Tengo, Slint, Cap'n Jazz, the Promise Ring… to name a few.
+But this was just as true in the past. It's not like my generation only had Nirvana and Pearl Jam and no one else. There were plenty of amazing but less popular bands if you cared to look. Yo La Tengo, Slint, Cap'n Jazz, the Promise Ring… to name a few.
 
 Yet few young people today get into these obscure bands from the past. Why would they? They'd rather listen to their own— along with Nirvana. So why would young people tomorrow bother with today's obscure bands? They can just listen to their own as well— along with Nirvana.
 
@@ -74,7 +74,7 @@ Music is too subjective, and so you can't make objective arguments with data ana
 
 The indie labels only sign artists who've built a fanbase on their own. But a label has leverage while an unknown artist has none. And more leverage gets you better results for the same effort. So in an efficient system, building the fanbase would be a label's job.
 
-Instead, the labels are stuck trying to promote artists who've logged more time chasing a following than developing a craft. This gradually loses them prestige. They're then compelled to find artists who can do even more of their work for them, and the vicious circle continues.
+Instead, the labels are stuck trying to promote artists who've logged more time chasing a following than developing a craft. This gradually loses them prestige. Which then compels them to find artists who can do even more of their work for them, and the vicious circle continues.
 
 By thinking in systems, we can expect indie music to be worse. Yet for many who defend today's music, the indies are its saving grace!
 
@@ -84,7 +84,7 @@ Previous generations plucked all the low-hanging fruit. No band as raw as the Se
 
 But this assumes that we're doing our best to find the revolutionary artists out there. That once they arrive, you'll definitely hear about them. Prove this assumption wrong, and the argument falls apart. So let's do that.
 
-Here's the first part of my rebuttal. In their heyday, the major labels took big risks to discover bands no one knew about, like Radiohead. 
+Here's the first part of my rebuttal. In their heyday, the major labels took big risks to discover bands no one knew about, like Radiohead.
 
 By contrast, the indie labels make safe bets on local bands with an established following. And they've never promised to do anything else.
 
@@ -101,6 +101,8 @@ And so the next Radiohead can never be discovered. Or, more likely, the band tha
 (TODO: I'm not saying. YB is the canary in the coalmine.)
 
 You may not have any interest in the Ulysses of rock albums. But it's the canary in the coalmine.
+
+Demo that can't be refused.
 
 The indies themselves don't claim to be better.
     `,
