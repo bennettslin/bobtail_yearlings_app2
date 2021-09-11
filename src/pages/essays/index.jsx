@@ -4,7 +4,6 @@ import { pagesList } from '../../content/essays'
 import { ESSAYS_PAGE } from '../../constants/pages'
 
 export default getPageElementForConfig({
-    title: `Essays`,
     body: getMarkdownLinksForRootPage({
         rootPage: ESSAYS_PAGE,
         pagesList,

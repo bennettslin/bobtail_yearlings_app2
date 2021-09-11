@@ -1,7 +1,6 @@
 import { getPageElementForConfig } from '../../containers/Page'
 
 export default getPageElementForConfig({
-    title: `Project links`,
     body: `
 [*Bobtail Dominoes*](https://www.bobtaildominoes.com/)${'  '}
 Our musical tile game.
