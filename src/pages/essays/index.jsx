@@ -7,6 +7,5 @@ export default getPageElementForConfig({
     body: getMarkdownLinksForRootPage({
         rootPage: ESSAYS_PAGE,
         pagesList,
-        isReverse: true,
     }),
 })
