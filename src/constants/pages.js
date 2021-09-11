@@ -11,6 +11,16 @@ export const ESSAYS_PAGE = 'essays'
 export const CONTACT_PAGE = 'contact'
 export const LINKS_PAGE = 'links'
 
+const TABBED_PAGES_SET = new Set([])
+
+export const getRootPageFromPath = (path = '') => (
+    path.split('/')[0]
+)
+
+export const getIsTabbedPage = path => (
+    TABBED_PAGES_SET.has(getRootPageFromPath(path))
+)
+
 export const getPathForPage = page => (
     page === HOME_PAGE ? '/' : `/${page}`
 )
