@@ -1,11 +1,14 @@
-import { getPageElementForConfig } from '../../../containers/Page'
+import React from 'react'
+import Page from '../../../containers/Page'
 import { pagesMap } from '../../../content/essays/2021'
 
 const id = 'music-getting-worse'
 
-export default getPageElementForConfig({
-    ...pagesMap[id],
-    body: `
+const Component = () => (
+    <Page
+        {...{
+            ...pagesMap[id],
+            body: `
 Is music getting worse? Put me in the camp of those who say yes. To be sure, I only say this about rock, not hip hop or pop. But few would argue that hip hop and pop are getting better. So if rock is worse, then on average all music is worse.
 
 I'm also not claiming that no good rock music is being made today. But if we rank the decades, it can't be a seven-way tie. One of them has to sit at the bottom, and it's hard to imagine it being any decade other than the one we just left.
@@ -105,5 +108,9 @@ You may not have any interest in the Ulysses of rock albums. But it's the canary
 Demo that can't be refused.
 
 The indies themselves don't claim to be better.
-    `,
-})
+            `,
+        }}
+    />
+)
+
+export default Component

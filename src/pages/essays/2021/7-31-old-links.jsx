@@ -1,4 +1,5 @@
-import { getPageElementForConfig } from '../../../containers/Page'
+import React from 'react'
+import Page from '../../../containers/Page'
 import { pagesMap } from '../../../content/essays/2021'
 import { DOMAIN_NAME } from '../../../constants/pages'
 
@@ -6,9 +7,11 @@ const getUrlForPdfName = page => `${DOMAIN_NAME}/docs/${page}.pdf`
 
 const id = 'old-links'
 
-export default getPageElementForConfig({
-    ...pagesMap[id],
-    body: `
+const Component = () => (
+    <Page
+        {...{
+            ...pagesMap[id],
+            body: `
 This isn't an essay but rather a collection of old links. After my initial attempts to gain exposure for *Yearling's Bobtail* failed, I went back to school to study music formally. Since the band website was more or less defunct during this time, I treated it like a personal one and occasionally posted links to my school work. Some of these links ended up ranking pretty high in search results, which made me proud. It was the most validation the world had ever given me for any music-related efforts.
 
 I'm currently revamping the band website, but I'd like to keep my search rankings! So here are those old links for posterity.
@@ -48,5 +51,9 @@ Papers written for class assignments. I don't vouch for their quality.
 Confused about the lack of attention that *Yearling's Bobtail* was getting from the indie labels and music press, I wrote a songwriting book that distills my personal technique for composing melodies into a lesson plan, and I sent it out as a follow-up. I now know this is the kind of stunt that gets you taken even less seriously by indie rock, not more.
 
 [*Bobtail Method*](https://www.bobtailmethod.com) (2008)
-    `,
-})
+            `,
+        }}
+    />
+)
+
+export default Component

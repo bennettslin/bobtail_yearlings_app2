@@ -1,12 +1,16 @@
 import React from 'react'
+import Page from '../../containers/Page'
 import AlbumLink from '../../components/AlbumLink'
 
-import { getPageElementForConfig } from '../../containers/Page'
-
-export default getPageElementForConfig({
-    isWide: true,
-    noShare: true,
-    children: (
+const Component = () => (
+    <Page
+        {...{
+            isWide: true,
+            noShare: true,
+        }}
+    >
         <AlbumLink />
-    ),
-})
+    </Page>
+)
+
+export default Component

@@ -1,7 +1,10 @@
-import { getPageElementForConfig } from '../../containers/Page'
+import React from 'react'
+import Page from '../../containers/Page'
 
-export default getPageElementForConfig({
-    body: `
+const Component = () => (
+    <Page
+        {...{
+            body: `
 **Bennett Lin** (he/him)${'  '}
 lead vocal, guitar
 
@@ -10,5 +13,9 @@ backing vocal, bass
 
 **Tai Taitano** (he/him)${'  '}
 drums
-    `,
-})
+            `,
+        }}
+    />
+)
+
+export default Component
