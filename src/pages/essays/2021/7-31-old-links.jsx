@@ -1,6 +1,8 @@
 import { getPageElementForConfig } from '../../../containers/Page'
 import { pagesMap } from '../../../content/essays/2021'
-import { getPdfLink } from '../../../utils/pages'
+import { DOMAIN_NAME } from '../../../constants/pages'
+
+export const getUrlForPdfName = page => `${DOMAIN_NAME}/docs/${page}.pdf`
 
 const id = 'old-links'
 
@@ -22,9 +24,9 @@ Still stinging from the rejection of my "*Ulysses* of Rock Albums," I had many o
 The work that became my Master's thesis. I came up with a new theory for composing music in multidimensional spaces that I call amnesticism. I'm not sure my advisor or anyone else really took it seriously. But in academia, unlike in indie rock, no one dismisses weird ideas offhand.
 
 [Tonal Composition in Multidimensional Virtual Realms](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/23566/Lin_washington_0250O_12002.pdf) (Spring 2013)${'  '}
-[Choose Your Own Cadenza](${getPdfLink('Cadenza_poster')}) (Fall 2011, presented at SMT)${'  '}
-[Diminished Triads and Scale Networks](${getPdfLink('Scale_Network_paper')}) (Fall 2010)${'  '}
-[Using Geometric Models](${getPdfLink('Cube_Dance_paper')}) (Spring 2010)${'  '}
+[Choose Your Own Cadenza](${getUrlForPdfName('Cadenza_poster')}) (Fall 2011, presented at SMT)${'  '}
+[Diminished Triads and Scale Networks](${getUrlForPdfName('Scale_Network_paper')}) (Fall 2010)${'  '}
+[Using Geometric Models](${getUrlForPdfName('Cube_Dance_paper')}) (Spring 2010)${'  '}
 
 ### Music theory papers
 
@@ -32,14 +34,14 @@ Papers written for class assignments. I don't vouch for their quality.
 
 ##### University of Washington
 
-[Schoenberg's Coalition Chess](${getPdfLink('Schoenberg_chess_paper')}) (Fall 2012)${'  '}
-[Sondheim's *Pacific Overtures*](${getPdfLink('Sondheim_paper')}) (Spring 2012)${'  '}
-[Stockhausen's *Formel*](${getPdfLink('Stockhausen_paper')}) (Fall 2011)
+[Schoenberg's Coalition Chess](${getUrlForPdfName('Schoenberg_chess_paper')}) (Fall 2012)${'  '}
+[Sondheim's *Pacific Overtures*](${getUrlForPdfName('Sondheim_paper')}) (Spring 2012)${'  '}
+[Stockhausen's *Formel*](${getUrlForPdfName('Stockhausen_paper')}) (Fall 2011)
 
 ##### Hunter College, CUNY
 
-[Janáček's Music Theories](${getPdfLink('Janacek_paper')}) (Fall 2009)${'  '}
-[Bartók's Second Rhapsody](${getPdfLink('Bartok_paper')}) (Spring 2009)
+[Janáček's Music Theories](${getUrlForPdfName('Janacek_paper')}) (Fall 2009)${'  '}
+[Bartók's Second Rhapsody](${getUrlForPdfName('Bartok_paper')}) (Spring 2009)
 
 ### Publications
 
