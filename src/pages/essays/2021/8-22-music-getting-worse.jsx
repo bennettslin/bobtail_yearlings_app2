@@ -12,15 +12,15 @@ I'm also not claiming that no good rock music is being made today. But if we ran
 
 When I go online to see what others think about the current state of music, those who defend it tend to use the same set of arguments. So I thought I'd provide a rebuttal to each one of them here.
 
-**What kind of sad person would rather say that music is getting worse?**
+**What kind of sad person would rather think that music is getting worse?**
 
 This one is implied rather than stated. Music is subjective, the thinking goes, and so whether it's getting worse just depends on your state of mind. If you're a cynic, it's because you choose to be.
 
-But this misunderstands my motive. Why do *I* say that today's music has gotten worse? Because I want us to fix it. It's like global warming. You can't fix it until you acknowledge that it's happening.
+But this misunderstands my motive. Why do *I* say that today's music has gotten worse? Because I want us all to fix it. It's like global warming. You can't fix it until you acknowledge that it's happening.
 
-And once you do, no one assumes you're blaming today's youth for all the floods and wildfires today. But talk about musical climate change, and it's the youth who take offense. So let me clear this up. When I say music is getting worse, it's an indictment of my generation. Not theirs.
+And once you do, no one assumes you're blaming today's youth for all the floods and wildfires. But talk about musical climate change, and it's the youth who take offense. So let me clear this up. When I say that music is getting worse, it's an indictment of my generation. Not theirs.
 
-Previous generations depleted the oceans of all the big fish. And my generation exhausted rock music of all the big names. We broke it, so it's on us to fix it.
+Previous generations depleted the oceans of all the big fish. And my generation exhausted rock music of any more big names. We broke it, so it's on us to fix it.
 
 **There are more artists doing more things than ever before.**
 
