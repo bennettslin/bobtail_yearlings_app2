@@ -2,7 +2,7 @@ import { getPageElementForConfig } from '../../../containers/Page'
 import { pagesMap } from '../../../content/essays/2021'
 import { DOMAIN_NAME } from '../../../constants/pages'
 
-export const getUrlForPdfName = page => `${DOMAIN_NAME}/docs/${page}.pdf`
+const getUrlForPdfName = page => `${DOMAIN_NAME}/docs/${page}.pdf`
 
 const id = 'old-links'
 
