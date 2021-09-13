@@ -4,6 +4,7 @@
 @import '../../scss/constants/shadows';
 
 .AlbumLink {
+    display: flex;
     position: relative;
 
     // Eyeballed. Keep small enough not to push footer off screen.
