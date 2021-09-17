@@ -2,7 +2,7 @@ import React from 'react'
 import cx from 'classnames'
 import HeaderButton from '../HeaderButton'
 import Svg from '../../../components/Svg'
-import bobtailYearlings from '../../../assets/svgs/bobtailYearlings.svg'
+import logo from '../../../assets/svgs/app/logo'
 import { HOME_PAGE } from '../../../constants/pages'
 import './style'
 
@@ -17,7 +17,7 @@ const HomeButton = () => (
     >
         <Svg
             {...{
-                src: bobtailYearlings,
+                src: logo,
             }}
         />
     </HeaderButton>
