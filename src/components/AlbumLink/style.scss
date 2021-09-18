@@ -6,9 +6,9 @@
 .AlbumLink {
     display: flex;
     position: relative;
+    margin: 0 $margin__md;
 
-    // Eyeballed. Keep small enough not to push footer off screen.
-    width: 75%;
+    max-width: $width__home__image;
 
     border-radius: $borderRadius__medium;
     overflow: hidden;
