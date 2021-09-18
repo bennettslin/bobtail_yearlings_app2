@@ -13,7 +13,7 @@ const FollowButtons = () => (
             ),
         }}
     >
-        <label>Follow the Bobtail Yearlings:</label>
+        <label>Follow us:</label>
         <FacebookButton />
         <TwitterButton />
     </Flex>
