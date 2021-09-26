@@ -42,7 +42,7 @@
     color: $colour__text__light;
     font-size: 0.9em;
 
-    @media (min-width: $width__page__narrow) {
+    @media (min-width: $breakpoint__lg) {
         font-size: 1.2em;
     }
 }
@@ -51,7 +51,7 @@
     color: $colour__primary__light;
     font-size: 1.5em;
 
-    @media (min-width: $width__page__narrow) {
+    @media (min-width: $breakpoint__lg) {
         font-size: 2em;
     }
 }
