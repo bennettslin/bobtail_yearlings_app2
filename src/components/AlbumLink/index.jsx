@@ -4,7 +4,7 @@ import Anchor from '../../components/Anchor'
 import Image from '../Image'
 import albumLink from '../../assets/images/albumLink.png'
 import './style'
-import { replaceStraightWithSmartQuotes } from '../../utils/format/smartQuote'
+import { getSmartQuotedText } from '../../utils/format/smartQuote'
 
 const AlbumLink = () => (
     <Anchor
@@ -48,7 +48,7 @@ const AlbumLink = () => (
                     ),
                 }}
             >
-                <em>{replaceStraightWithSmartQuotes(`Yearling's Bobtail`)}</em>
+                <em>{getSmartQuotedText(`Yearling's Bobtail`)}</em>
             </div>
         </div>
     </Anchor>
