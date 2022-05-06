@@ -1,41 +1,23 @@
 @import '../constants/colours';
 
 @font-face {
-    font-family: Asap;
-    src: url('../assets/fonts/Asap/Asap-Regular.ttf');
+    font-family: Fresca;
+    src: url('../assets/fonts/Fresca/FrescaMusic-Regular.ttf');
 }
 
 @font-face {
-    font-family: Asap;
-    src: url('../assets/fonts/Asap/Asap-RegularItalic.ttf');
-    font-style: italic;
-}
-
-@font-face {
-    font-family: Asap;
-    src: url('../assets/fonts/Asap/Asap-Bold.ttf');
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: Asap;
-    src: url('../assets/fonts/Asap/Asap-BoldItalic.ttf');
-    font-style: italic;
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: Sexsmith;
-    src: url('../assets/fonts/Sexsmith-Regular/Sexsmith-Regular.ttf');
+    font-family: Peralta;
+    src: url('../assets/fonts/Peralta/Peralta-Regular.ttf');
 }
 
 .font__text {
-    font-family: Asap, Arial;
+    font-family: Fresca, Arial;
+    letter-spacing: 0.025em;
 }
 
 .font__heading {
-    font-family: Sexsmith, Georgia;
-    letter-spacing: 0.025em;
+    font-family: Peralta, Georgia;
+    font-weight: normal;
 }
 
 .font__finePrint {
