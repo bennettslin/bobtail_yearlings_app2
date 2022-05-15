@@ -18,7 +18,7 @@ I'm currently revamping the band website, but I'd like to keep my search ranking
 
 ### General writings
 
-Still stinging from the rejection of my "*Ulysses* of Rock Albums," I had many observations to make about indie rock's dysfunctions. I can't say whether these arguments ever held up. But I did try my best to stay gracious, assuming at the time that I was on my way to becoming a professor.
+Still stinging from the rejection of my "*Ulysses* of rock albums," I had many observations to make about indie rock's dysfunctions. I can't say whether these arguments ever held up. But I did try my best to stay gracious, assuming at the time that I was on my way to becoming a professor.
 
 [Personal blog](http://bennettsamuellin.blogspot.com) (2011 to 2013)${'  '}
 

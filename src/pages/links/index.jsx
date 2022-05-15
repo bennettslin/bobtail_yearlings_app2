@@ -9,10 +9,10 @@ const Component = () => (
 Our musical tile game.
 
 [*Yearling's Bobtail*](https://www.yearlingsbobtail.com/)${'  '}
-Our "*Ulysses* of Rock Albums."
+Our "*Ulysses* of rock albums."
 
 [*BYCombo*](https://www.bycombo.com/)${'  '}
-Our band accelerator.
+Our rock band incubator.
 
 [*Bobtail Method*](https://www.bobtailmethod.com/)${'  '}
 Our songwriting lesson book.
