@@ -2,14 +2,14 @@ import React from 'react'
 import Page from '../../../containers/Page'
 import { pagesMap } from '../../../content/essays/2022'
 
-const id = 'bycombo-origin-story'
+const id = 'original-bycombo-story'
 
 const Component = () => (
     <Page
         {...{
             ...pagesMap[id],
             body: `
-*This was my first attempt to write an "About" page for the BYCombo website. I scrapped it because the backstory portion was irrelevant for first-time visitors, and my understanding of BYCombo's mission has since evolved.*
+*This was my first attempt to write an "About" page for the BYCombo website. I scrapped it because the backstory was irrelevant in hindsight. My understanding of BYCombo's mission has also evolved since then.*
 
 ### So epic it couldn't fail
 

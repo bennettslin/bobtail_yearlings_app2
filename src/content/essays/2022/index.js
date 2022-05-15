@@ -3,8 +3,8 @@ import { ESSAYS_PAGE } from '../../../constants/pages'
 
 export const pageConfigs = [
     {
-        id: `bycombo-origin-story`,
-        title: `BYCombo origin story`,
+        id: `original-bycombo-story`,
+        title: `Original BYCombo story`,
         date: { year: 2022, month: 5, day: 6 },
     },
 ]
