@@ -1,13 +1,6 @@
 import React from 'react'
 import Page from '../../../containers/Page'
 import { pagesMap } from '../../../content/essays/2022'
-import { getMarkdownLinkFromText } from '../../../utils/format/markdown'
-
-const
-    EPIC_COULDNT_FAIL = 'So epic it couldn\'t fail',
-    DUNNING_KRUGER_ARTIST = 'A Dunning-Kruger artist',
-    MOMENTUM_FROM_NOTHING = 'Momentum from nothing',
-    MASTERPIECE_REVOLUTION = 'The masterpiece revolution'
 
 const id = 'bycombo-origin-story'
 
@@ -16,14 +9,9 @@ const Component = () => (
         {...{
             ...pagesMap[id],
             body: `
-*This was my first attempt to write an "About" page for the BYCombo website. I scrapped it because it's mostly just the backstory of how I came up with the idea. In hindsight, this isn't the most relevant information for a first-time visitor.*
+*This was my first attempt to write an "About" page for the BYCombo website. I scrapped it because the backstory portion was irrelevant for first-time visitors, and my understanding of BYCombo's mission has since evolved.*
 
-${getMarkdownLinkFromText(EPIC_COULDNT_FAIL)}
-${getMarkdownLinkFromText(DUNNING_KRUGER_ARTIST)}
-${getMarkdownLinkFromText(MOMENTUM_FROM_NOTHING)}
-${getMarkdownLinkFromText(MASTERPIECE_REVOLUTION)}
-
-### ${EPIC_COULDNT_FAIL}
+### So epic it couldn't fail
 
 A long time ago, I was in a band with some friends of mine. We'd been playing shows for several years, and I was frustrated that my friends didn't share my ambition to make it big. Yet I struggled to find ambitious bandmates elsewhere, because I didn't look like any front person who'd ever made it before.
 
@@ -31,7 +19,7 @@ At the time, I was studying masterpieces like James Joyce's *Ulysses* and the Be
 
 And then it hit me. I should create a masterpiece, "the *Ulysses* of rock albums," on my own. It would be so epic that I couldn't fail to make it big. I assumed that others out there were thinking similarly, and I would emerge to find myself part of an exciting wave of new bands, each striving to be as good as the Beatles.
 
-### ${DUNNING_KRUGER_ARTIST}
+### A Dunning-Kruger artist
 
 But there was no new wave. Instead, upon completion, every demo of *Yearling's Bobtail* was rejected. I soon understood why. With so many unknown bands hoping to be considered, the gatekeepers can only grant each release a fleeting first impression. Want another chance? Release another work.
 
@@ -41,7 +29,7 @@ But *Yearling's Bobtail* took me five years to create. It hides layers of meanin
 
 An artist who creates “the *Ulysses* of rock albums,” in other words, will seem to exemplify the Dunning-Kruger effect. They will appear too incompetent to even recognize it.
 
-### ${MOMENTUM_FROM_NOTHING}
+### Momentum from nothing
 
 This frustrated me, of course. But soon I saw a history-making opportunity and grew excited. Because along with studying masterpieces, I'd also studied musical revolutions. And revolution begins with the incompetent.
 
@@ -51,7 +39,7 @@ But a major revolution begins with those we deem incompetent, like the early pio
 
 This phenomenon isn't limited to art. Henry Ford and Steve Jobs were derided as incompetent for trying to sell a worse car and worse computer, respectively. But their products were also cheaper, which allowed them to build something from nothing— namely, a middle-class market for cars and computers.
 
-### ${MASTERPIECE_REVOLUTION}
+### The masterpiece revolution
 
 It's not hard to imagine an unknown band hearing *Yearling's Bobtail* and feeling encouraged to create a masterpiece. Their work might then inspire others, continuing a virtuous circle. But if these bands are given the same runaround I was given, then this masterpiece revolution will end with me.
 
