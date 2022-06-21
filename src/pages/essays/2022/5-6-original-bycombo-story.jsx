@@ -9,7 +9,7 @@ const Component = () => (
         {...{
             ...pagesMap[id],
             body: `
-*This was my first attempt to write an "About" page for the BYCombo website. I scrapped it because the backstory was irrelevant in hindsight. My understanding of BYCombo's mission has also evolved since then.*
+*This was my first attempt to write an "About" page for the BYCombo website. I scrapped it because the backstory was irrelevant in hindsight. My understanding of BYCombo's mission has also evolved considerably since then.*
 
 ### So epic it couldn't fail
 
