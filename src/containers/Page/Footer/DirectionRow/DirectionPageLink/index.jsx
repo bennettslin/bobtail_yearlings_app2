@@ -17,6 +17,7 @@ const DirectionPageLink = ({ direction, directionPage }) => {
             id,
             title,
             date,
+            subpath,
         } = directionPage
 
     return Boolean(directionPage) && (
@@ -25,7 +26,7 @@ const DirectionPageLink = ({ direction, directionPage }) => {
                 className: cx(
                     'DirectionPageLink',
                 ),
-                pagePath: getPagePathFromConfig({ topLevelPage, id, date }),
+                pagePath: getPagePathFromConfig({ topLevelPage, id, date, subpath }),
             }}
         >
             {direction === -1 && '❮ '}
@@ -45,6 +46,7 @@ DirectionPageLink.propTypes = {
             month: PropTypes.number.isRequired,
             day: PropTypes.number.isRequired,
         }),
+        subpath: PropTypes.string,
     }),
 }
 

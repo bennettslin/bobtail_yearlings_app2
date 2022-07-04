@@ -1,7 +1,12 @@
+import { pageConfigs as pageConfigsOngoing } from './ongoing'
 import { pageConfigs as pageConfigs2022 } from './2022'
 import { pageConfigs as pageConfigs2021 } from './2021'
 
 export const pagesList = [
+    {
+        heading: 'Ongoing',
+        pages: pageConfigsOngoing,
+    },
     {
         heading: 2022,
         pages: pageConfigs2022,

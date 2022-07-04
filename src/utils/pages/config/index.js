@@ -22,8 +22,10 @@ export const getPagePathFromConfig = ({
         month,
         day,
     } = {},
+    subpath,
 }) => [
     topLevelPage && `${topLevelPage}/`,
+    subpath && `${subpath}/`,
     year && `${year}/`,
     month && `${month}-`,
     day && `${day}-`,
