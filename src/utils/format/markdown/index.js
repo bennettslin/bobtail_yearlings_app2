@@ -34,7 +34,11 @@ export const getMarkdownLinksForRootPage = ({
     pagesList,
 }) => (
     pagesList.map(({ heading, pages }) => (
-        `### ${heading}${'\n'}` +
+        (
+            heading ?
+                `### ${heading}${'\n'}` :
+                ''
+        ) +
         getMarkdownLinksForPages({
             topLevelPage,
             pages,

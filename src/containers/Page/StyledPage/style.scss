@@ -3,6 +3,7 @@
 .StyledPage {
     flex-grow: 1;
     display: flex;
+    width: 100%;
 
     @media (min-width: $breakpoint__lg) {
         width: $width__page__lg;

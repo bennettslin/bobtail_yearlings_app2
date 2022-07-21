@@ -11,8 +11,13 @@ const Image = ({
     src,
     onLoad = () => {},
 
-}) => {
-    const image = (
+}) => (
+    <Flex
+        {...{
+            flexDirection: 'column',
+            alignItems: 'normal',
+        }}
+    >
         <img
             {...{
                 className: cx(
@@ -28,30 +33,19 @@ const Image = ({
                 onLoad,
             }}
         />
-    )
-
-    return caption ? (
-        <Flex
-            {...{
-                flexDirection: 'column',
-                alignItems: 'normal',
-            }}
-        >
-            {image}
-            {caption && (
-                <div
-                    {...{
-                        className: cx(
-                            'font__finePrint',
-                        ),
-                    }}
-                >
-                    {caption}
-                </div>
-            )}
-        </Flex>
-    ) : image
-}
+        {caption && (
+            <div
+                {...{
+                    className: cx(
+                        'font__finePrint',
+                    ),
+                }}
+            >
+                {caption}
+            </div>
+        )}
+    </Flex>
+)
 
 Image.propTypes = {
     className: PropTypes.string,

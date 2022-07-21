@@ -16,7 +16,7 @@ const Component = () => (
                 `
 *I worked as a frontend developer at Zillow for seven years. Before leaving, I wrote this farewell message to my teammates on a zWiki page. (The zWiki is Zillow's internal wiki system. Everything internal at Zillow is prefixed with a "z.")*
 
-*Where you see a teammate's full name, that was originally a hyperlink to their internal profile page. Also, since this was meant for the workplace, I left out all the depressing stuff, which is why there are noticeable gaps in the record.*
+*Where you see a teammate's full name, that was originally a hyperlink to their internal profile page. Also, since this was meant for the workplace, I kept it lighthearted and left out all the depressing stuff, which is why there are noticeable gaps in the record.*
 
 ### Farewell, and please check out my band
 
