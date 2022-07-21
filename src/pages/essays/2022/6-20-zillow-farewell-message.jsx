@@ -1,6 +1,10 @@
 import React from 'react'
 import Page from '../../../containers/Page'
 import { pagesMap } from '../../../content/essays/2022'
+import Image from '../../../components/Image'
+import demoPhoto from '../../../assets/images/essays/2022/6-20-zillow-farewell-message/bennett_lin-133b10c35r20m20.jpg'
+import bandPhoto from '../../../assets/images/essays/2022/6-20-zillow-farewell-message/BobtailYearlingsMiscellany.jpg'
+import teamPhoto from '../../../assets/images/essays/2022/6-20-zillow-farewell-message/IMG_9427a.jpg'
 
 const id = 'zillow-farewell-message'
 
@@ -8,30 +12,41 @@ const Component = () => (
     <Page
         {...{
             ...pagesMap[id],
-            body: `
+            body: [
+                `
 *I worked as a frontend developer at Zillow for seven years. Before leaving, I wrote this farewell message to my teammates on a zWiki page. (The zWiki is Zillow's internal wiki system. Everything internal at Zillow is prefixed with a "z.")*
 
-*Where you see a person's full name, that was originally a hyperlink to their internal profile page. Also, since this was meant for the workplace, I kept the story lighthearted. So there's no mention of the alcoholism, depression, and failed relationships that would otherwise be front and center.*
+*Where you see a teammate's full name, that was originally a hyperlink to their internal profile page. Also, since this was meant for the workplace, I left out all the depressing stuff, which is why there are noticeable gaps in the story.*
 
-### Farewell, and please check out the Bobtail Yearlings
+### Farewell, and please check out my band
 
 I wanted to personally reflect on my time at Zillow, and to express gratitude for all that my team and my colleagues have done for me. Since the path I took is kind of unusual, I provided some additional context to explain certain parts. So there's a bit of backstory here, which makes all of this a little more self-indulgent than I'd originally planned. Sorry! I've labeled the various parts, so feel free to jump in (or out) at any point.
 
 ### The band part
 
 I spent my college years in the Bay Area, playing in a band with friends. We weren't big by any means, but people we didn't know would know who we were. I'd walk into a party and overhear, "Hey, that's the Yearlings singer." I thought this was the most amazing feeling ever, and I wanted more of it! Surprisingly, my friends didn't. So after years of going nowhere, I decided to strike out on my own. The plan was to spend five years making a demo so epic, it was guaranteed to get noticed.
-
-Embarrassing promo photo for the demo.
-
+                `, (
+                    <Image
+                        {...{
+                            src: demoPhoto,
+                            caption: `Embarrassing promo photo for the demo.`,
+                        }}
+                    />
+                ), `
 It worked. The demo attracted some record labels. But they needed to see that I had a working band. And as I quickly found out, it's hard to get others to join when: they aren't your close friends; they didn't contribute to the demo themselves; and, the music is so complex that it's difficult to learn. I just couldn't keep a lineup together long enough, and the talks fizzled.
 
 ### The grad school part
 
 Not knowing what else to do, I moved to New York and got an MA in music composition. Still not knowing what to do, I decided to get a PhD in music theory. The choice was between FSU and UW. I was torn between the two, but my girlfriend at the time, who was from Little Rock, had no desire to live in the South again. So she chose for us: Seattle it was! (Chelsea Campbell and Stephens Jean-Jacques, feel free to confirm if Tallahassee is really part of the South.)
-
-The New York lineup of the Bobtail Yearlings.
-
-Unfortunately, my advisor retired as soon as I arrived at UW, and no one else specialized in the neo-Riemannian theory that I came to study. In fact, I later learned that it's a bit controversial among music theorists, and some of the other professors were openly indifferent to it.
+                `, (
+                    <Image
+                        {...{
+                            src: bandPhoto,
+                            caption: `The New York lineup of the Bobtail Yearlings.`,
+                        }}
+                    />
+                ), `
+Unfortunately, my advisor retired as soon as I arrived at UW, and no one else specialized in the [neo-Riemannian theory](https://en.wikipedia.org/wiki/Neo-Riemannian_theory) that I came to study. In fact, I later learned that it's a bit controversial among music theorists, and some of the other professors were openly indifferent to it.
 
 ### The tech meetup part
 
@@ -42,9 +57,14 @@ However, through these meetups, I kept hearing about something called a coding b
 ### The Zillow part
 
 We sat in the classroom on Floor 29, as Josh Ritter answered our questions. Everyone we met was so warm and friendly. I loved their energy and spirit. Admittedly, the free snacks and oceanside view also won me over! I vowed right then and there to work at Zillow. After applying, I spent every waking hour of the next few weeks preparing for the interview. I got the offer.
-
-The original Floor 29 teams.
-
+                `, (
+                    <Image
+                        {...{
+                            src: teamPhoto,
+                            caption: `The original Floor 29 teams.`,
+                        }}
+                    />
+                ), `
 I was the first developer on a new team called Rentals Revenue. To tackle my imposter syndrome, I decided to spend the first half year getting better at coding by working late. In the meantime, I would figure out what my next several years would look like. I was still committed to making it in a band, and there was no doubt I'd eventually come back to this lifelong ambition. It was just a question of how and when.
 
 My friends advised me to play local shows, but I knew this wasn't feasible. As a dishwasher, I could switch hats easily because it wasn't a job I cared about. Whereas, as a developer, I would continue to think about coding after work. Which was a good thing: I liked feeling challenged and engaged. But this also meant I wasn't in the right headspace to write songs.
@@ -102,6 +122,7 @@ If you'll humor me, let me make a prediction: Within a year, the Bobtail Yearlin
 
 I'll miss you all, and I wish each of you the best on your life's journey!
     `,
+            ],
         }}
     />
 )
