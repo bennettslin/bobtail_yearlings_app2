@@ -2,7 +2,7 @@ import React from 'react'
 import Page from '../../../containers/Page'
 import { pagesMap } from '../../../content/essays/ongoing'
 
-const id = 'our-mission-and-principles'
+const id = 'band-mission-and-principles'
 
 const Component = () => (
     <Page

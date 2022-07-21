@@ -3,8 +3,8 @@ import { ESSAYS_PAGE } from '../../../constants/pages'
 
 export const pageConfigs = [
     {
-        id: `our-mission-and-principles`,
-        title: `Our mission and principles`,
+        id: `band-mission-and-principles`,
+        title: `Band mission and principles`,
         subpath: `ongoing`,
     },
 ]
