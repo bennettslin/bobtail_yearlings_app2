@@ -7,6 +7,7 @@ import './style'
 const Image = ({
     className,
     caption,
+    isPortrait,
     src,
     onLoad = () => {},
 
@@ -18,6 +19,11 @@ const Image = ({
                     'Image',
                     className,
                 ),
+                ...isPortrait && {
+                    style: {
+                        width: `66.6%`,
+                    },
+                },
                 src,
                 onLoad,
             }}
@@ -50,6 +56,7 @@ const Image = ({
 Image.propTypes = {
     className: PropTypes.string,
     caption: PropTypes.string,
+    isPortrait: PropTypes.bool,
     src: PropTypes.string.isRequired,
     onLoad: PropTypes.func,
 }

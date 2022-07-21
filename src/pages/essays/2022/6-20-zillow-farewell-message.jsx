@@ -27,6 +27,7 @@ I wanted to personally reflect on my time at Zillow, and to express gratitude fo
 I spent my college years in the Bay Area, playing in a band with friends. We weren't big by any means, but people we didn't know would know who we were. I'd walk into a party and overhear, "Hey, that's the Yearlings singer." I thought this was the most amazing feeling ever, and I wanted more of it! Surprisingly, my friends didn't. So after years of going nowhere, I decided to strike out on my own. The plan was to spend five years making a demo so epic, it was guaranteed to get noticed.
                 `, (
                     <Image
+                        isPortrait
                         {...{
                             src: demoPhoto,
                             caption: `Embarrassing promo photo for the demo.`,
