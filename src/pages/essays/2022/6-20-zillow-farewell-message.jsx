@@ -2,14 +2,18 @@ import React from 'react'
 import Page from '../../../containers/Page'
 import { pagesMap } from '../../../content/essays/2022'
 
-const id = 'farewell-to-zillow'
+const id = 'zillow-farewell-message'
 
 const Component = () => (
     <Page
         {...{
             ...pagesMap[id],
             body: `
-Farewell, and please check out the Bobtail Yearlings
+*I worked as a frontend developer at Zillow for seven years. Before leaving, I wrote this farewell message to my teammates on a zWiki page. (The zWiki is Zillow's internal wiki system. Everything internal at Zillow is prefixed with a "z.")*
+
+*Where you see a person's full name, that was originally a hyperlink to their internal profile page. Also, since this was meant for the workplace, I kept the story lighthearted. So there's no mention of the alcoholism, depression, and failed relationships that would otherwise be front and center.*
+
+### Farewell, and please check out the Bobtail Yearlings
 
 I wanted to personally reflect on my time at Zillow, and to express gratitude for all that my team and my colleagues have done for me. Since the path I took is kind of unusual, I provided some additional context to explain certain parts. So there's a bit of backstory here, which makes all of this a little more self-indulgent than I'd originally planned. Sorry! I've labeled the various parts, so feel free to jump in (or out) at any point.
 
@@ -19,7 +23,7 @@ I spent my college years in the Bay Area, playing in a band with friends. We wer
 
 Embarrassing promo photo for the demo.
 
-It worked. The demo attracted some record labels. But they needed to see that I had a working band. And as I quickly found out, it's hard to get others to join when: they aren't your close friends; they didn't contribute to the demo themselves; and, the music is so complex that it's difficult to learn. I just couldn't keep a lineup together long enough, and the talks fizzled. (Fun fact: After Secretly Group gave up on us, they signed Bon Iver.)
+It worked. The demo attracted some record labels. But they needed to see that I had a working band. And as I quickly found out, it's hard to get others to join when: they aren't your close friends; they didn't contribute to the demo themselves; and, the music is so complex that it's difficult to learn. I just couldn't keep a lineup together long enough, and the talks fizzled.
 
 ### The grad school part
 
@@ -67,28 +71,28 @@ If you're interested, here are the projects I'll be working on next. The thinkin
 
 ##### Bobtail Yearlings
 
-You can check out the band website now, but we won't seem like a real band, ha. We're not touring yet, and my supposed bandmates are actually just former students who agreed to be on the list.
-https://bobtailyearlings.com
+You can check out the band website now, but we won't seem like a real band, ha. We're not touring yet, and my supposed bandmates are actually just former students who agreed to be on the list.${'  '}
+[bobtailyearlings.com](https://bobtailyearlings.com)
 
 ##### Bobtail Dominoes
 
-A musical tile game. I'm working with a manufacturer to produce a tabletop version, after which I'll start a Kickstarter campaign for it.
-https://bobtaildominoes.com
+A musical tile game. I'm working with a manufacturer to produce a tabletop version, after which I'll start a Kickstarter campaign for it.${'  '}
+[bobtaildominoes.com](https://bobtaildominoes.com)
 
 ##### Yearling's Bobtail
 
-The audio webcomic. Once we're signed, this will be our first release. (It contains illustrated depictions of mature situations. Nothing explicit, just the usual way that graphic novels work.)
-https://yearlingsbobtail.com
+The audio webcomic. Once we're signed, this will be our first release. (It contains illustrated depictions of mature situations. Nothing explicit, just the usual way that graphic novels work.)${'  '}
+[yearlingsbobtail.com](https://yearlingsbobtail.com)
 
 ##### Bobtail Method
 
-If we're still not signed by this point, then I'll use my developer skills to build an interactive app for a songwriting lesson book I once wrote. The writing itself is bad, ha. I'll also create an online version of the musicial tile game.
-https://bobtailmethod.com
+If we're still not signed by this point, then I'll use my developer skills to build an interactive app for a songwriting lesson book I once wrote. The writing itself is bad, ha. I'll also create an online version of the musicial tile game.${'  '}
+[bobtailmethod.com](https://bobtailmethod.com)
 
 ##### Amnesticism
 
-If we're still not signed after all this, then I'll resign myself to being a musician's musician for the rest of my life, ha. And I'll continue to develop the idea behind my Master's thesis.
-https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/23566/Lin_washington_0250O_12002.pdf
+If we're still not signed after all this, then I'll resign myself to being a musician's musician for the rest of my life, ha. And I'll continue to develop the idea behind my Master's thesis.${'  '}
+[digital.lib.washington.edu/researchworks/handle/1773/23566](https://digital.lib.washington.edu/researchworks/handle/1773/23566)
 
 ##### Embarrassing prediction
 
@@ -96,15 +100,7 @@ If you'll humor me, let me make a prediction: Within a year, the Bobtail Yearlin
 
 ### The closing part
 
-I'll miss you all, and I wish each of you the best in your life's journey!
-
-Feel free to connect with me in any way:
-
-Facebook: https://www.facebook.com/bobtail
-Instagram: https://www.instagram.com/bobtailyearlings
-LinkedIn: https://www.linkedin.com/in/bennettslin
-
-Bennett
+I'll miss you all, and I wish each of you the best on your life's journey!
     `,
         }}
     />

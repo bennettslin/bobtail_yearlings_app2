@@ -2,14 +2,14 @@ import React from 'react'
 import Page from '../../../containers/Page'
 import { pagesMap } from '../../../content/essays/2022'
 
-const id = 'original-bycombo-story'
+const id = 'bycombo-placeholder-story'
 
 const Component = () => (
     <Page
         {...{
             ...pagesMap[id],
             body: `
-*This was my first attempt to write an "About" page for the BYCombo website. I scrapped it because the backstory was irrelevant in hindsight. My understanding of BYCombo's mission has also evolved considerably since then.*
+*I wrote this origin story as a temporary placeholder while I worked on the final copy for the BYCombo website. Paul Graham has said that you don't truly [know your idea](http://www.paulgraham.com/words.html) until you write about it. In this case, he proved to be correct. My understanding of the BYCombo mission and strategy is now quite different from what's reflected here. I even logged how much time I took to write the final copy: 667 hours!*
 
 ### So epic it couldn't fail
 

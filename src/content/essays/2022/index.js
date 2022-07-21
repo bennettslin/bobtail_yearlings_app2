@@ -2,14 +2,14 @@ import { getMapFromPageConfigs } from '../../../utils/pages/config'
 import { ESSAYS_PAGE } from '../../../constants/pages'
 
 export const pageConfigs = [
-    // {
-    //     id: `farewell-to-zillow`,
-    //     title: `Farewell to Zillow`,
-    //     date: { year: 2022, month: 6, day: 20 },
-    // },
     {
-        id: `original-bycombo-story`,
-        title: `Original BYCombo story`,
+        id: `zillow-farewell-message`,
+        title: `Zillow farewell message`,
+        date: { year: 2022, month: 6, day: 20 },
+    },
+    {
+        id: `bycombo-placeholder-story`,
+        title: `BYCombo placeholder story`,
         date: { year: 2022, month: 5, day: 6 },
     },
 ]
