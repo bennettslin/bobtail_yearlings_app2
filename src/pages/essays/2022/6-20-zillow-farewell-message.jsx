@@ -93,27 +93,27 @@ If you're interested, here are the projects I'll be working on next. The thinkin
 ##### Bobtail Yearlings
 
 You can check out the band website now, but we won't seem like a real band, ha. We're not touring yet, and my supposed bandmates are actually just former students who agreed to be on the list.${'  '}
-[bobtailyearlings.com](https://bobtailyearlings.com)
+[Bobtail Yearlings](https://bobtailyearlings.com)
 
 ##### Bobtail Dominoes
 
 A musical tile game. I'm working with a manufacturer to produce a tabletop version, after which I'll start a Kickstarter campaign for it.${'  '}
-[bobtaildominoes.com](https://bobtaildominoes.com)
+[Bobtail Dominoes](https://bobtaildominoes.com)
 
 ##### Yearling's Bobtail
 
 The audio webcomic. Once we're signed, this will be our first release. (It contains illustrated depictions of mature situations. Nothing explicit, just the usual way that graphic novels work.)${'  '}
-[yearlingsbobtail.com](https://yearlingsbobtail.com)
+[*Yearling's Bobtail*](https://yearlingsbobtail.com)
 
 ##### Bobtail Method
 
 If we're still not signed by this point, then I'll use my developer skills to build an interactive app for a songwriting lesson book I once wrote. The writing itself is bad, ha. I'll also create an online version of the musicial tile game.${'  '}
-[bobtailmethod.com](https://bobtailmethod.com)
+[*Bobtail Method*](https://bobtailmethod.com)
 
 ##### Amnesticism
 
 If we're still not signed after all this, then I'll resign myself to being a musician's musician for the rest of my life, ha. And I'll continue to develop the idea behind my Master's thesis.${'  '}
-[digital.lib.washington.edu/researchworks/handle/1773/23566](https://digital.lib.washington.edu/researchworks/handle/1773/23566)
+[Master's thesis](https://digital.lib.washington.edu/researchworks/handle/1773/23566)
 
 ##### Embarrassing prediction
 
