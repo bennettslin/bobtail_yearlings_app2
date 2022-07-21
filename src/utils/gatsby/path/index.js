@@ -1,7 +1,7 @@
 import { getWindow } from '../../browser'
 import { HOME_PAGE } from '../../../constants/pages'
 
-const _getPathname = (pathname = '') => (
+export const getTrimmedPathname = (pathname = '') => (
     pathname
         // Split by slashes and remove empty strings.
         .split('/')
@@ -26,7 +26,7 @@ export const getParsedLocation = ({
     } = getWindow()
 
     return {
-        page: _getPathname(
+        page: getTrimmedPathname(
             rootElementPathname ||
             pageElementPathname ||
             windowPathname,
