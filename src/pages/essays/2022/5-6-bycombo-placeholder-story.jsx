@@ -27,7 +27,7 @@ Still, what's hard for one is hard for all. And so the most promising bands simp
 
 But *Yearling's Bobtail* took me five years to create. It hides layers of meaning that are revealed upon repeated listens. And there was no way to signal this. If it were possible, then every other band would do the same. So I just kept trying to get the same work heard, again and again. But this is what the *least* competent artists do— because they don't understand that rejection can be used to get better.
 
-An artist who creates “the *Ulysses* of rock albums,” in other words, will seem to exemplify the Dunning-Kruger effect. They will appear too incompetent to even recognize it.
+An artist who creates “the *Ulysses* of rock albums,” in other words, will seem to exemplify the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning–Kruger_effect). They will appear too incompetent to even recognize it.
 
 ### Momentum from nothing
 
