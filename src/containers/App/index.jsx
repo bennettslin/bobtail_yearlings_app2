@@ -1,7 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import cx from 'classnames'
-import BrowserNavManager from '../../managers/BrowserNav'
 import Wrapper from '../Wrapper'
 import AppFooter from './Footer'
 import './style'
@@ -15,7 +14,6 @@ const App = ({ children }) => (
             ),
         }}
     >
-        <BrowserNavManager />
         <Wrapper>{children}</Wrapper>
         <AppFooter />
     </div>

@@ -27,3 +27,7 @@ export const getUrlFromPath = path => {
 
     return `${DOMAIN_NAME}${getLinkFromPath(path)}${finalSlash}`
 }
+
+export const getPathFromWindowLocation = locationPath => (
+    locationPath === '/' ? HOME_PAGE : locationPath.replace('/', '')
+)
