@@ -5,7 +5,7 @@
     display: flex;
     width: 100%;
 
-    @media (min-width: $breakpoint__lg) {
-        width: $width__page__lg;
+    @media (min-width: $breakpoint__md) {
+        width: $width__lg;
     }
 }

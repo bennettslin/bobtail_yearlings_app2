@@ -1,7 +1,5 @@
-$width__modal: 540px;
-$width__home__image: 900px; // Eyeballed.
-
-$width__page__lg: 800px;
+$width__sm: 480px;
+$width__lg: 840px;
 
 $height__appFooter: 48px;
 
@@ -15,4 +13,8 @@ $margin__md: 24px;
 $margin__lg: 32px;
 $margin__xl: 40px;
 
-$breakpoint__lg: 1025px;
+$breakpoint__xs: 480px;
+$breakpoint__sm: 720px;
+$breakpoint__md: 960px;
+$breakpoint__lg: 1200px;
+$breakpoint__xl: 1440px;
