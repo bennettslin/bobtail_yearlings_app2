@@ -1,7 +1,9 @@
+import { join } from '../../../../utils/general'
+
 const CLASS_REGEX = /class="/g
 // The first quotation mark after the class is at index 7.
 const FIRST_QUOTE_INDEX = 7
-const STYLE_KEYS = ['fill', 'stroke']
+const STYLE_KEYS = ['animation', 'fill', 'stroke']
 
 const getClassIndices = svgString => {
     let current
@@ -52,14 +54,18 @@ const getClassStyles = ({ svgString, styles }) => {
     return classStyles
 }
 
-const getClassStylesString = ({ svgString, styles }) => {
+const getClassStylesString = ({
+    styleClassName,
+    svgString,
+    styles,
+}) => {
     if (!styles) {
         return null
     }
 
     const classStyles = getClassStyles({ svgString, styles })
 
-    return Object.keys(classStyles).map(className => {
+    return join(Object.keys(classStyles).map(className => {
         const styleStrings = classStyles[className].map(({
             styleKey,
             classStyle,
@@ -67,22 +73,43 @@ const getClassStylesString = ({ svgString, styles }) => {
             `${styleKey}:${classStyle}`
         ))
 
-        return `.${className}{${styleStrings.join('; ')}}`
-    }).join(' ')
+        return `.${styleClassName} .${className}{${join(styleStrings, ';')}}`
+    }))
 }
 
-export const getSvgWithClassStyles = ({ svgString, styles }) => {
+export const getKeyframesString = (keyframes = []) => (
+    join(keyframes.map(({ animationName, sequence }) => (
+        `@keyframes ${animationName}{` +
+        join(sequence.map(({ percentage, fillStyle }) => (
+            `${percentage}%{fill:${fillStyle}}`
+        ))) +
+        '}'
+    )))
+)
+
+export const getSvgWithClassStyles = ({
+    styleClassName,
+    svgString,
+    keyframes = [],
+    styles,
+}) => {
     const
-        stylesString = getClassStylesString({ svgString, styles }),
+        stylesString = getClassStylesString({
+            styleClassName,
+            svgString,
+            styles,
+        }),
         stylesIndex = svgString.indexOf('>') + 1
 
-    if (!stylesString) {
+    if (!styleClassName || !stylesString) {
         return svgString
     }
 
     return (
         svgString.substring(0, stylesIndex) +
-        `<style>${stylesString}</style>` +
+        '<style>' +
+        join([getKeyframesString(keyframes), stylesString], ' ') +
+        '</style>' +
         svgString.substring(stylesIndex)
     )
 }

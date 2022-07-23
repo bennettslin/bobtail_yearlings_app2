@@ -2,9 +2,11 @@ import React, { useEffect, useState } from 'react'
 import cx from 'classnames'
 import { useSelector } from 'react-redux'
 import { CSSTransition } from 'react-transition-group'
+import Flex from '../../../components/Flex'
 import MailingList from '../../../components/MailingList'
 import FollowButtons from '../../../components/FollowButtons'
 import StyledFrame from '../StyledFrame'
+import YearlingsBobtailUpsell from './YearlingsBobtailUpsell'
 import { mapIsUpsellShown } from '../../../redux/option/selector'
 import './style'
 
@@ -36,17 +38,32 @@ const MainFooter = () => {
                 }}
             >
                 <StyledFrame>
-                    <div
+                    <Flex
                         {...{
                             className: cx(
                                 'MainFooter',
                             ),
+                            justifyContent: 'spaceBetween',
+                            alignItems: 'normal',
+                            gap: 'sm',
                         }}
                     >
-
-                        <MailingList />
-                        <FollowButtons />
-                    </div>
+                        <Flex
+                            {...{
+                                className: cx(
+                                    'MainFooter__social',
+                                ),
+                                flexDirection: 'column',
+                                justifyContent: 'spaceEvenly',
+                                flexGrow: 1,
+                                gap: 'sm',
+                            }}
+                        >
+                            <MailingList />
+                            <FollowButtons />
+                        </Flex>
+                        <YearlingsBobtailUpsell />
+                    </Flex>
                 </StyledFrame>
             </div>
         </CSSTransition>

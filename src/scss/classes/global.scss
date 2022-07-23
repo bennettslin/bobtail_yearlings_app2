@@ -1,4 +1,5 @@
 @import '../constants/colours';
+@import '../constants/transition';
 
 * {
     box-sizing: border-box;
@@ -15,6 +16,15 @@ body, p, h1, h3, h5, ul {
 
 label {
     color: $colour__primary__dark;
+}
+
+svg {
+    width: 100%;
+    height: 100%;
+
+    * {
+        transition: fill $transitionDuration__slow;
+    }
 }
 
 h1, h3, h5 {

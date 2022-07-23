@@ -1,5 +1,7 @@
+import { getFixed } from '../../../../utils/general'
+
 const getStyleString = ({ style, length, scaleFactor }) => (
-    `${style}:${(parseFloat(length) * scaleFactor).toFixed(2)}px;`
+    `${style}:${getFixed(parseFloat(length) * scaleFactor, 2)}px;`
 )
 
 export const getSvgWithDimensions = ({ svgString, scaleFactor }) => {
@@ -14,7 +16,7 @@ export const getSvgWithDimensions = ({ svgString, scaleFactor }) => {
 
     return (
         svgString.slice(0, startIndex) +
-            `style="height:100%;width:100%;` +
+            `style="` +
             getStyleString({
                 style: 'max-width',
                 length: dimensions[2],
