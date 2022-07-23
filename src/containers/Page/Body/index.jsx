@@ -7,6 +7,7 @@ import Heading from '../../../components/Heading'
 import { getSmartQuotedText } from '../../../utils/format/smartQuote'
 import { getHeaderFromDate } from '../../../utils/format/dates'
 import './style'
+import Flex from '../../../components/Flex'
 
 const Body = () => {
     const {
@@ -19,11 +20,14 @@ const Body = () => {
     } = useContext(PageConfigContext)
 
     return (
-        <div
+        <Flex
             {...{
                 className: cx(
                     'Body',
                 ),
+                flexDirection: 'column',
+                alignItems: 'normal',
+                gap: 'md',
             }}
         >
             <Heading>
@@ -36,7 +40,7 @@ const Body = () => {
                 (Array.isArray(body) ? body : [body])
                     .map((child, index) => (
                         typeof child === 'string' ? (
-                            <Markdown {...{ key: index }}>
+                            <Markdown {...{ key: index, fontSize: 'md' }}>
                                 {child}
                             </Markdown>
                         ) : <Fragment {...{ key: index }}>
@@ -47,7 +51,7 @@ const Body = () => {
             {showContactEmail && (
                 <ContactEmail />
             )}
-        </div>
+        </Flex>
     )
 }
 

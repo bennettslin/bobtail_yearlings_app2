@@ -9,12 +9,15 @@ import { getSmartQuotedText } from '../../utils/format/smartQuote'
 import './style'
 
 const Markdown = ({
+    fontSize = 'sm',
     children,
 }) => (
     <ReactMarkdown
         {...{
             className: cx(
                 'Markdown',
+                fontSize === 'sm' && 'fontSize__sm',
+                fontSize === 'md' && 'fontSize__md',
             ),
             components: {
                 a: Anchor,
@@ -36,6 +39,7 @@ const Markdown = ({
 )
 
 Markdown.propTypes = {
+    fontSize: PropTypes.oneOf(['sm', 'md']),
     children: PropTypes.string.isRequired,
 }
 

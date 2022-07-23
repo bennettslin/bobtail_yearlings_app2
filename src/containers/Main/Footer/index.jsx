@@ -54,7 +54,6 @@ const MainFooter = () => {
                             ),
                             flexDirection: 'column',
                             justifyContent: 'spaceEvenly',
-                            alignItems: 'normal',
                             flexGrow: 1,
                             gap: 'sm',
                         }}

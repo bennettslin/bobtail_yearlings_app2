@@ -10,3 +10,9 @@
         flex-direction: row;
     }
 }
+
+.MainFooter__social {
+    @media (min-width: $breakpoint__sm) {
+        align-items: start;
+    }
+}

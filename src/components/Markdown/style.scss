@@ -1,6 +1,8 @@
 @import '../../scss/constants/responsive';
 
 .Markdown {
+    line-height: 1.5em;
+
     & > *:not(:first-child) {
         margin-top: $margin__md;
 

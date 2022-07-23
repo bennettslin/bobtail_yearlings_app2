@@ -3,4 +3,12 @@
 
 .YearlingsBobtailUpsell {
     color: $colour__neutral__dark;
+    text-align: center;
+}
+
+label {
+    .YearlingsBobtailUpsell
+    & {
+        line-height: 1.25em;
+    }
 }

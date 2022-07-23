@@ -38,7 +38,7 @@ const AlbumLink = () => (
                     ),
                 }}
             >
-                our new audio webcomic
+                our audio webcomic
             </div>
             <div
                 {...{
