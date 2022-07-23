@@ -121,7 +121,7 @@ If you'll humor me, let me make a prediction: Within a year, the Bobtail Yearlin
 
 ### The closing part
 
-I'll miss you all, and I wish each of you the best on your life's journey!
+I'll miss you all, and I wish each of you the best in your life's journey!
     `,
             ],
         }}

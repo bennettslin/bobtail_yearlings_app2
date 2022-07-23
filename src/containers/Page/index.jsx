@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import cx from 'classnames'
 import { useDispatch } from 'react-redux'
 import PageConfigContext from '../../contexts/PageConfig'
+import BackLink from './BackLink'
 import StyledPage from './StyledPage'
 import TabbedMenu from './TabbedMenu'
 import Body from './Body'
@@ -40,10 +41,14 @@ const Page = ({
                             ),
                             flexDirection: 'column',
                             justifyContent: 'normal',
+                            alignItems: 'normal',
                         }}
                     >
+                        <BackLink />
                         <TabbedMenu />
-                        <Body />
+                        <Flex>
+                            <Body />
+                        </Flex>
                         <PageFooter />
                     </Flex>
                 </StyledPage>
