@@ -1,7 +1,7 @@
 import React from 'react'
 import cx from 'classnames'
 import HeaderButton from '../HeaderButton'
-import Svg from '../../../../components/Svg'
+import LogoSvg from '../../../../components/Svgs/Logo'
 import logo from '../../../../assets/svgs/app/logo'
 import { HOME_PAGE } from '../../../../constants/pages'
 
@@ -14,7 +14,7 @@ const HomeButton = () => (
             pagePath: HOME_PAGE,
         }}
     >
-        <Svg
+        <LogoSvg
             {...{
                 src: logo,
                 scaleFactor: 0.075,
