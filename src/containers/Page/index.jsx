@@ -46,9 +46,7 @@ const Page = ({
                     >
                         <BackLink />
                         <TabbedMenu />
-                        <Flex>
-                            <Body />
-                        </Flex>
+                        <Body />
                         <PageFooter />
                     </Flex>
                 </StyledPage>
