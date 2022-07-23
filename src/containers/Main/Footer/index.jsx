@@ -30,43 +30,41 @@ const MainFooter = () => {
                 },
             }}
         >
-            <div
+            <StyledFrame
                 {...{
                     className: cx(
                         'hidden',
                     ),
                 }}
             >
-                <StyledFrame>
+                <Flex
+                    {...{
+                        className: cx(
+                            'MainFooter',
+                        ),
+                        justifyContent: 'spaceBetween',
+                        alignItems: 'normal',
+                        gap: 'sm',
+                    }}
+                >
                     <Flex
                         {...{
                             className: cx(
-                                'MainFooter',
+                                'MainFooter__social',
                             ),
-                            justifyContent: 'spaceBetween',
+                            flexDirection: 'column',
+                            justifyContent: 'spaceEvenly',
                             alignItems: 'normal',
+                            flexGrow: 1,
                             gap: 'sm',
                         }}
                     >
-                        <Flex
-                            {...{
-                                className: cx(
-                                    'MainFooter__social',
-                                ),
-                                flexDirection: 'column',
-                                justifyContent: 'spaceEvenly',
-                                alignItems: 'normal',
-                                flexGrow: 1,
-                                gap: 'sm',
-                            }}
-                        >
-                            <MailingList />
-                            <FollowButtons />
-                        </Flex>
-                        <YearlingsBobtailUpsell />
+                        <MailingList />
+                        <FollowButtons />
                     </Flex>
-                </StyledFrame>
-            </div>
+                    <YearlingsBobtailUpsell />
+                </Flex>
+            </StyledFrame>
         </CSSTransition>
     )
 }
