@@ -24,7 +24,7 @@ const YearlingsBobtailUpsell = () => (
     >
         <Flex>
             <Flex {...{ flexDirection: 'column', gap: 'xxs' }}>
-                <Flex {...{ flexDirection: 'column' }}>
+                <Flex {...{ flexDirection: 'column', gap: 'xxs' }}>
                     <Markdown>
                     Please check out…
                     </Markdown>

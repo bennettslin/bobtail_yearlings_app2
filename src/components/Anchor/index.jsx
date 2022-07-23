@@ -37,6 +37,7 @@ const Anchor = ({
             {...{
                 className: cx(
                     'Anchor',
+                    'colour__link',
                     className,
                 ),
                 ...internalLink && {

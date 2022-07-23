@@ -66,12 +66,6 @@ input[type=submit] {
     }
 }
 
-a, button {
-    &[disabled] {
-        color: $colour__primary__dark;
-    }
-}
-
 button, input[type=submit] {
 	background: none;
 	border: none;
@@ -80,18 +74,16 @@ button, input[type=submit] {
 
 a, button, input[type=submit] {
     cursor: pointer;
-    color: $colour__link__dark;
-
-    &:not([disabled]):hover {
-        color: $colour__link__medium;
-    }
-
-    &:not([disabled]):active {
-        color: $colour__link__light;
-    }
 
     &[disabled] {
         cursor: default;
+    }
+}
+
+label {
+    a
+    & {
+        cursor: pointer;
     }
 }
 
