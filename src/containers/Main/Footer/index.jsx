@@ -26,14 +26,14 @@ const MainFooter = () => {
                 in: didMount && !isUpsellShown,
                 timeout: 200,
                 classNames: {
-                    enterDone: 'MainFooter__containerVisible',
+                    enterDone: 'shown',
                 },
             }}
         >
             <div
                 {...{
                     className: cx(
-                        'MainFooter__container',
+                        'hidden',
                     ),
                 }}
             >

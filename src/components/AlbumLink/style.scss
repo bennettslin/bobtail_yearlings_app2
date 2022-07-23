@@ -8,7 +8,7 @@
     position: relative;
     margin: 0 $margin__md;
 
-    max-width: $width__lg;
+    max-width: $width__lg * 0.8; // Eyeballed.
 
     border-radius: $borderRadius__medium;
     overflow: hidden;
