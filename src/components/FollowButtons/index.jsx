@@ -21,6 +21,7 @@ const FollowButtons = () => (
                 className: cx(
                     'FollowButtons__buttons',
                 ),
+                justifyContent: 'normal',
             }}
         >
             <FacebookButton />

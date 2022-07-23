@@ -1,6 +1,7 @@
 import React from 'react'
 import cx from 'classnames'
 import PropTypes from 'prop-types'
+import FinePrint from '../FinePrint'
 import Flex from '../Flex'
 import './style'
 
@@ -34,15 +35,9 @@ const Image = ({
             }}
         />
         {caption && (
-            <div
-                {...{
-                    className: cx(
-                        'font__finePrint',
-                    ),
-                }}
-            >
+            <FinePrint>
                 {caption}
-            </div>
+            </FinePrint>
         )}
     </Flex>
 )

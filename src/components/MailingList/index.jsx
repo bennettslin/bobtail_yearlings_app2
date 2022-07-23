@@ -1,6 +1,7 @@
 import React from 'react'
 import cx from 'classnames'
 import MailingListInputs from './Inputs'
+import FinePrint from '../FinePrint'
 import { getSmartQuotedText } from '../../utils/format/smartQuote'
 import { EMAIL_ACTION } from '../../constants/website'
 import './style'
@@ -21,11 +22,11 @@ const MailingList = () => (
             Join our mailing list:
         </label>
         <MailingListInputs />
-        <div {...{ className: cx('font__finePrint') }}>
+        <FinePrint>
             {getSmartQuotedText(
                 `We'll send out one email per month at most.`,
             )}
-        </div>
+        </FinePrint>
     </form>
 )
 
