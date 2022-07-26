@@ -44,7 +44,7 @@ DirectionPageLink.propTypes = {
         date: PropTypes.shape({
             year: PropTypes.number.isRequired,
             month: PropTypes.number.isRequired,
-            day: PropTypes.number.isRequired,
+            day: PropTypes.number,
         }),
         subpath: PropTypes.string,
     }),

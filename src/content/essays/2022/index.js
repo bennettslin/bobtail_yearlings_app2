@@ -5,12 +5,12 @@ export const pageConfigs = [
     {
         id: `zillow-farewell-message`,
         title: `Zillow farewell message`,
-        date: { year: 2022, month: 6, day: 20 },
+        date: { year: 2022, month: 6 },
     },
     {
         id: `bycombo-placeholder-story`,
         title: `BYCombo placeholder story`,
-        date: { year: 2022, month: 5, day: 6 },
+        date: { year: 2022, month: 5 },
     },
 ]
 

@@ -26,6 +26,7 @@ const Body = () => {
                     'Body',
                 ),
                 flexDirection: 'column',
+                justifyContent: 'normal',
                 alignItems: 'normal',
                 gap: 'md',
             }}
