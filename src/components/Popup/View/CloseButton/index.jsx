@@ -20,6 +20,7 @@ const PopupCloseButton = ({
         >
             <Svg
                 {...{
+                    className: 'popupClose',
                     src: popupClose,
                 }}
             />
