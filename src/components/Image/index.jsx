@@ -17,6 +17,7 @@ const Image = ({
         {...{
             flexDirection: 'column',
             alignItems: 'normal',
+            gap: 'xs',
         }}
     >
         <img

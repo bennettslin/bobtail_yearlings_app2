@@ -2,14 +2,14 @@ import React from 'react'
 import Page from '../../../containers/Page'
 import { pagesMap } from '../../../content/essays/ongoing'
 
-const id = 'band-mission-and-principles'
+const id = 'our-mission-and-principles'
 
 const Component = () => (
     <Page
         {...{
             ...pagesMap[id],
             body: `
-*Updated July 2022*
+*Updated November 2022*
 
 ### The Bobtail Yearlings mission
 
