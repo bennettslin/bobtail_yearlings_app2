@@ -11,9 +11,9 @@ const Component = () => (
             body: `
 *Updated November 2022*
 
-### The Bobtail Yearlings mission
+### The band mission
 
-**The Bobtail Yearlings are an interdependent band— *not* an indie one! We're here to lead the interdependence revolution by demonstrating the possibilities for craftsmanship and innovation offered by interdependence for all generations to come.**
+**The Bobtail Yearlings are an interdependent band— *not* an indie one! We're here to lead the interdependence revolution by demonstrating the possibilities for craftsmanship and innovation exclusively offered by interdependence.**
 
 ### Our guiding principles
 
