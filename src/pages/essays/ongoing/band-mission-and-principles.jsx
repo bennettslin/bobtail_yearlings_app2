@@ -2,20 +2,20 @@ import React from 'react'
 import Page from '../../../containers/Page'
 import { pagesMap } from '../../../content/essays/ongoing'
 
-const id = 'our-mission-and-principles'
+const id = 'band-mission-and-principles'
 
 const Component = () => (
     <Page
         {...{
             ...pagesMap[id],
             body: `
-*Updated November 2022*
+### Our mission
 
-### The band mission
-
-**The Bobtail Yearlings are an interdependent band— *not* an indie one! We're here to lead the interdependence revolution by demonstrating the possibilities for craftsmanship and innovation exclusively offered by interdependence.**
+**The Bobtail Yearlings are committed to being the most historically consequential rock band of the 21st century! We'll do so by embodying the core values of interdependence and self-sacrifice while amassing a solid body of creative works.**
 
 ### Our guiding principles
+
+##### Historical consequence
 
 ##### Interdependence
 
@@ -33,7 +33,11 @@ Blah
 
 Blah
 
+##### Admin
+
 ##### Future growth
+
+##### Self-sacrifice
 
 Blah
     `,

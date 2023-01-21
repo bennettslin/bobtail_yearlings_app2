@@ -3,15 +3,17 @@ import { ESSAYS_PAGE } from '../../../constants/pages'
 
 export const pageConfigs = [
     {
-        id: `our-mission-and-principles`,
-        title: `Our mission and principles`,
+        id: `band-mission-and-principles`,
+        title: `Band mission and principles`,
         subpath: `ongoing`,
+        date: { year: 2023, month: 1, updated: true },
     },
-    {
-        id: `five-vowels-of-historical-consequence`,
-        title: `Five vowels of historical consequence`,
-        subpath: `ongoing`,
-    },
+    // {
+    //     id: `five-vowels-of-historical-consequence`,
+    //     title: `Five vowels of historical consequence`,
+    //     subpath: `ongoing`,
+    // date: { year: 2023, month: 1, updated: true },
+    // },
 ]
 
 export const pagesMap = getMapFromPageConfigs({
