@@ -31,12 +31,23 @@ const Body = () => {
                 gap: 'md',
             }}
         >
-            <Heading>
-                {getSmartQuotedText(pageHeading || titleHeading || title)}
-            </Heading>
-            <Heading {...{ level: 5 }}>
-                {getHeaderFromDate(date)}
-            </Heading>
+            <Flex
+                {...{
+                    className: cx(
+                        'fontSize__md',
+                    ),
+                    flexDirection: 'column',
+                    alignItems: 'normal',
+                    gap: 'sm',
+                }}
+            >
+                <Heading>
+                    {getSmartQuotedText(pageHeading || titleHeading || title)}
+                </Heading>
+                <Heading {...{ level: 5 }}>
+                    {getHeaderFromDate(date)}
+                </Heading>
+            </Flex>
             {body && (
                 (Array.isArray(body) ? body : [body])
                     .map((child, index) => (

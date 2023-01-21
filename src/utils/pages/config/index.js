@@ -21,13 +21,16 @@ export const getPagePathFromConfig = ({
         year,
         month,
         day,
+        updated,
     } = {},
     subpath,
 }) => [
     topLevelPage && `${topLevelPage}/`,
     subpath && `${subpath}/`,
-    year && `${year}/`,
-    month && `${month}/`,
-    day && `${day}-`,
+    !updated && [
+        year && `${year}/`,
+        month && `${month}/`,
+        day && `${day}-`,
+    ].filter(value => Boolean(value)).join(''),
     id && `${id}`,
-].filter(segment => Boolean(segment)).join('')
+].filter(value => Boolean(value)).join('')
