@@ -49,7 +49,7 @@ There will always be one Yearling who's a full-time admin in charge of administr
 
 ##### Duties
 
-Every Yearling will work at least forty hours a week to benefit the band, for the duration of their time in the band. This work will largely be self-directed. Examples include practicing one's instrument, writing song parts, and so forth. Naturally, touring and performing count as band work.
+Every Yearling will work forty hours a week to benefit the band, for the duration of their time in the band. This work will largely be self-directed. Examples include practicing one's instrument, writing song parts, and so forth. Naturally, touring and performing count as band work.
 
 Some projects will require certain Yearlings to undergo extensive artistic development, such as learning a new skill set. In such cases, the project manager will work with them to ensure that expectations are reasonable, and that needed resources are provided.
 
@@ -57,7 +57,7 @@ Of course, we'll all take holidays, vacations, and sick days off.
 
 ##### Compensation
 
-Anyone who's a Yearling during the creation of a project will get equal songwriting credit and royalties for it. This includes the admin.
+Anyone who's a Yearling during the creation of a project will be given equal credit and royalties. This includes the admin, as well as artists who work in other mediums.
 
 Ongoing revenue from our extracurricular projects will first go to new Yearlings to grow their savings, up to a fixed limit. Any leftover amount will then go into our general band fund.
     `,
