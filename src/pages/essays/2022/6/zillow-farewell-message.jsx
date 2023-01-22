@@ -95,17 +95,17 @@ If you're interested, here are the projects I'll be working on next. The thinkin
 You can check out the band website now, but we won't seem like a real band, ha. We're not touring yet, and my supposed bandmates are actually just former students who agreed to be on the list.${'  '}
 [Bobtail Yearlings](https://bobtailyearlings.com)
 
-##### Bobtail Dominoes
+##### *Bobtail Dominoes*
 
 A musical tile game. I'm working with a manufacturer to produce a tabletop version, after which I'll start a Kickstarter campaign for it.${'  '}
-[Bobtail Dominoes](https://bobtaildominoes.com)
+[*Bobtail Dominoes*](https://bobtaildominoes.com)
 
-##### Yearling's Bobtail
+##### *Yearling's Bobtail*
 
 The audio webcomic. Once we're signed, this will be our first release. (It contains illustrated depictions of mature situations. Nothing explicit, just the usual way that graphic novels work.)${'  '}
 [*Yearling's Bobtail*](https://yearlingsbobtail.com)
 
-##### Bobtail Method
+##### *Bobtail Method*
 
 If we're still not signed by this point, then I'll use my developer skills to build an interactive app for a songwriting lesson book I once wrote. The writing itself is bad, ha. I'll also create an online version of the musicial tile game.${'  '}
 [*Bobtail Method*](https://bobtailmethod.com)

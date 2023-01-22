@@ -9,63 +9,57 @@ const Component = () => (
         {...{
             ...pagesMap[id],
             body: `
-**The Bobtail Yearlings promise to become the most historically consequential rock band of the 21st century! To do so, we'll lead the interdependence revolution while amassing a solid body of creative works.**
+### Our mission
 
-The following guiding principles will help us fulfill this mission.
+**The Bobtail Yearlings promise to be the most historically consequential rock band of the 21st century! We'll do so by leading the interdependence revolution while amassing a solid body of creative works.**
 
-### Historical consequence
+### Our guiding principles
 
-${'  ' || `
-// TODO: Make link a target blank.
-`}
+##### Historical consequence
 
-In the early days of rock, an artist could accidentally stumble into the history books. But from here on out, making history will require deliberate effort. And so every decision the Bobtail Yearlings make will be informed by the [five vowels of historical consequence](/essays/ongoing/five-vowels-of-historical-consequence).
+In the early days of rock, an artist could accidentally stumble into the history books. But from here on out, making history will require deliberate effort. And so every decision the Bobtail Yearlings make will be informed by the [five vowels of historical consequence](https://bobtailyearlings.com/essays/ongoing/five-vowels-of-historical-consequence).
 
-### Interdependence
+In classical music, the best composers got *better* with age. For rock to remain relevant as a musical genre, it must reach this next level of maturity. As such, the Bobtail Yearlings expect to be a working band for decades, with our best works always ahead of us.
 
-The best art is made by interdependent artists— and this has always been so. As such, the Bobtail Yearlings will work closely with BYCombo, our nonprofit incubator, to make the system work again for ourselves and other interdependent bands.
+##### Interdependence
 
-### Emotional intelligence
+The best art is made by interdependent artists— and this has always been the case. For this reason, the Bobtail Yearlings will work closely with [BYCombo](https://bycombo.com), our band incubator, to make the system work again for ourselves and our interdependent allies.
 
-It should be a rewarding experience for others to work closely with the Bobtail Yearlings. And it should feel just as fulfilling for us to work closely with each other. So as an act of good faith, each of us will vow to treat others, and ourselves, with empathy and respect.
+A truly creative work is always in danger of alienating even our most dedicated fans. As such, we'll always choose to work with business partners who can advocate for such works on our behalf.
 
-### Member recruitment
+##### Emotional intelligence
 
-Every individual brings in a unique perspective and skill set. For the sake of artistic growth, Bobtail Yearlings should always be open to adding new Yearlings.
+For the Bobtail Yearlings to be highly effective in fulfilling our mission, others should find it enjoyable and rewarding to work alongside us. And it should feel just as meaningful for us to work with each other.
 
-While we won't choose anyone on the basis of race or gender, the benefits of diversity and the hazards of unconscious bias will be addressed for each new prospect.
+So each Yearling will vow to be a paragon of emotional intelligence, who'll always treat others with empathy and respect.
 
-### Member roles
+##### Recruitment
 
-For each project, one or a few Yearlings will be put in charge of artistic development.
+For the sake of artistic growth through the decades, we should always be open to adding new Yearlings, including artists who work in other mediums, like illustration or puppetry.
 
-One additional Yearling will be a full-time admin. The admin will be in charge of all administrative work, such as social media engagement.
+While we won't select new Yearlings on the basis of race or gender, we'll openly address the benefits of diversity and the hazards of unconscious bias.
 
-### Member duties
+##### Roles
 
-Each Yearling will work at least forty hours a week to benefit the band, for the duration of their time in the band. This work can largely be self-directed. Examples include practicing one's instrument, writing song parts, and so forth.
+The band leader makes executive decisions on the overall direction of the Bobtail Yearlings. Bennett is our band leader for now, since this is the de facto reality. However, in the long term we should be open to having multiple band leaders, or even none at all.
 
-Naturally, touring and performing count as band work. Some projects will also require members to undertake specific tasks. In such cases, the project manager will work with these members to ensure that expectations are reasonable, and needed resources are provided.
+For each project, one Yearling will be assigned the role of project manager. The project manager will oversee artistic development of that project.
 
-Members are exempt from working on holidays, vacations, and sick days.
+There will always be one Yearling who's a full-time admin in charge of administrative work such as social media engagement. They'll also oversee development of our extracurricular projects, such as [*Bobtail Dominoes*](https://bobtaildominoes.com), [*Bobtail Method*](https://bobtailmethod.com), and of course, BYCombo.
 
-### Compensation
+##### Duties
 
-Every Yearling who participates in the creation of a project will get equal credit and royalties. This includes the admin.
+Every Yearling will work at least forty hours a week to benefit the band, for the duration of their time in the band. This work will largely be self-directed. Examples include practicing one's instrument, writing song parts, and so forth. Naturally, touring and performing count as band work.
 
-${'  ' || `
-// TODO: Italicize board games?
-`}
+Some projects will require certain Yearlings to undergo extensive artistic development, such as learning a new skill set. In such cases, the project manager will work with them to ensure that expectations are reasonable, and that needed resources are provided.
 
-Ongoing revenue from the band's extramusical projects, such as [Bobtail Dominoes](https://bobtaildominoes.com) and [*Bobtail Method*](https://bobtailmethod.com), will first go to any new Yearlings to grow their savings, up to a fixed limit. Any leftover amount will then go into a general band fund.
+Of course, we'll all take holidays, vacations, and sick days off.
 
-### Future growth
+##### Compensation
 
+Anyone who's a Yearling during the creation of a project will get equal songwriting credit and royalties for it. This includes the admin.
 
-
-### Self-sacrifice
-
-Blah
+Ongoing revenue from our extracurricular projects will first go to new Yearlings to grow their savings, up to a fixed limit. Any leftover amount will then go into our general band fund.
     `,
         }}
     />

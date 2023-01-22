@@ -10,6 +10,8 @@ const Component = () => (
             ...pagesMap[id],
             body: `
 
+To become historically consequential, a work should aspire to be academic, enjoyable, inspiring, original, and universal.
+
 *This is a work in progress.*
 
 ${'  ' || `
@@ -26,20 +28,24 @@ But what does it mean to make history? As someone who's been thinking about it a
 Using as an example Yearling's Bobtail, my audio webcomic for the Ulysses of rock albums. Obviously, no one today even knows about YB, so I'm not using it as an example that has succeeded. I'm just using it as an example of what someone who thinks the way I do would create, based on this very thinking.
 `}
 
+${'  ' || `
+// TODO: todo
 ### A for academic
 
-${'  ' || `
 // TODO: It can be taught by the academy.
-Yearling's Bobtail.
+
+*Can* it be studied, and *will* it be studied?
+Would an artist study it purely for their own betterment, without having any other personal or emotional connection to the work?
 
 But anything that can be taught will eventually be institutionalized by the academy, even if it's considered too low-brow by today's standards. Jazz is the obvious example.
 So if as an artist, you want to study it for the benefit of your own self-education, it also counts.
 In other words, when I would rewind a Def Leppard tape or a Nirvana CD to figure out what they were doing.
 `}
 
+${'  ' || `
+// TODO: todo
 ### E for enjoyable
 
-${'  ' || `
 // TODO: Enjoyable for others.
 
 Enjoyable for self.
@@ -47,23 +53,26 @@ I may ruin a song with obtuse lyrics. But at its core, every song I've ever writ
 Just paying attention to the interplay, as the melody and chords push and pull away from each other.
 `}
 
+${'  ' || `
+// TODO: todo
 ### I for inspiring
 
-${'  ' || `
 // TODO: I've never inspired anyone in my life.
 `}
 
+${'  ' || `
+// TODO: todo
 ### O for original
 
-${'  ' || `
 // TODO: Nothing that has to do with how music is marketed or distributed will matter to history.
 
 Can't be commissioned.
 `}
 
+${'  ' || `
+// TODO: todo
 ### U for universal
 
-${'  ' || `
 // TODO: Speaks to the universal human experience.
 `}
     `,
