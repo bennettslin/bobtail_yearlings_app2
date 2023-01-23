@@ -29,9 +29,9 @@ The best artists of the past were interdependent. That is to say, they were allo
 
 ##### Business partners
 
-Studies show that humans actually dislike creativity— and [experts more so](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275) than anyone else. This is why, time and time again, the business partners who purport to care most about putting out great art— who consider themselves experts in knowing what great art looks like— end up putting out the least creative works.
+Studies show that humans actually dislike creativity— and [experts more so](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275) than anyone else. This is why, time and time again, the business partners who purport to care most about putting out great art— who thus pride themselves on knowing what great art looks like— end up putting out the least creative works.
 
-Meanwhile, some of the most creative works are put out by business partners who are completely naive about art. For this reason, the Bobtail Yearlings prefer to work with business partners who take pride in knowing how to do business, not in recognizing great art.
+Meanwhile, some of the most creative works are put out by business partners who are totally clueless about art. For this reason, the Bobtail Yearlings prefer to work with business partners who take pride in knowing how to do business, not in recognizing great art.
 
 ##### Emotional intelligence
 
