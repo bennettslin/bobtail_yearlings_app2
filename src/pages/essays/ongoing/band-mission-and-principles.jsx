@@ -19,33 +19,39 @@ const Component = () => (
 
 In the early days of rock, an artist could accidentally stumble into the history books. But from here on out, making history will require deliberate effort. And so every decision the Bobtail Yearlings make will be informed by the [five vowels of historical consequence](https://bobtailyearlings.com/essays/ongoing/five-vowels-of-historical-consequence).
 
-In classical music, the best composers got *better* with age. For rock to remain relevant as a musical genre, it must reach this next level of maturity. As such, the Bobtail Yearlings expect to be a working band for decades, with our best works always ahead of us.
+##### Longevity
+
+In classical music, the best composers got *better* with age. For rock to remain relevant as a musical genre, it must reach this next level of maturity. As such, the Bobtail Yearlings expect to be a working band for at least as long as Bennett is alive, with our best works always ahead of us.
 
 ##### Interdependence
 
-The best art is made by interdependent artists— and this has always been the case. For this reason, the Bobtail Yearlings will work closely with [BYCombo](https://bycombo.com), our band incubator, to make the system work again for ourselves and our interdependent allies.
+The best artists of the past were interdependent. That is to say, they were allowed to focus solely on their craft, while a partner handled their business affairs. And so the Bobtail Yearlings will work closely with [BYCombo](https://bycombo.com), our band incubator, to make the system work again for ourselves and our interdependent allies.
 
-A truly creative work is always in danger of alienating even our most dedicated fans. As such, we'll always choose to work with business partners who can advocate for such works on our behalf.
+##### Business partners
+
+Studies show that even though our culture teaches us to admire creativity, it's actually human nature to dislike it— and [experts reject creativity](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275) more than anyone else.
+
+This is why, again and again, the most creative works are put out by business partners who are clueless about art, who just want to make money. Meanwhile, the ones who care most about putting out great art— who pride themselves on knowing what great art looks like— tend to put out works of little consequence.
+
+For this reason, the Bobtail Yearlings prefer to work with business partners who are experts in making money, not in recognizing great art.
 
 ##### Emotional intelligence
 
-For the Bobtail Yearlings to be highly effective in fulfilling our mission, others should find it enjoyable and rewarding to work alongside us. And it should feel just as meaningful for us to work with each other.
-
-So each Yearling will vow to be a paragon of emotional intelligence, who'll always treat others with empathy and respect.
+Everyone should find it enjoyable and rewarding to interact with the Bobtail Yearlings. And it should feel just as meaningful for us to work with others, as well as with each other. So each Yearling will vow to be a model of emotional intelligence, who'll always treat others with empathy and respect.
 
 ##### Recruitment
 
-For the sake of artistic growth through the decades, we should always be open to adding new Yearlings, including artists who work in other mediums, like illustration or puppetry.
+For the sake of artistic growth through the decades, we should always be open to adding new Yearlings, including artists who work in other mediums.
 
 While we won't select new Yearlings on the basis of race or gender, we'll openly address the benefits of diversity and the hazards of unconscious bias.
 
 ##### Roles
 
-The band leader makes executive decisions on the overall direction of the Bobtail Yearlings. Bennett is our band leader for now, since this is the de facto reality. However, in the long term we should be open to having multiple band leaders, or even none at all.
+The band leader decides on the overall vision of the Bobtail Yearlings. For now, Bennett is our band leader, since this is the de facto reality. However, in the long term we should be open to having multiple band leaders, or even none at all.
 
 For each project, one Yearling will be assigned the role of project manager. The project manager will oversee artistic development of that project.
 
-There will always be one Yearling who's a full-time admin in charge of administrative work such as social media engagement. They'll also oversee development of our extracurricular projects, such as [*Bobtail Dominoes*](https://bobtaildominoes.com), [*Bobtail Method*](https://bobtailmethod.com), and of course, BYCombo.
+One Yearling will be a full-time admin, in charge of administrative work such as social media engagement. They'll also oversee development of our extracurricular projects, such as [*Bobtail Dominoes*](https://bobtaildominoes.com), [*Bobtail Method*](https://bobtailmethod.com), and of course, BYCombo.
 
 ##### Duties
 
@@ -53,7 +59,7 @@ Every Yearling will work forty hours a week to benefit the band, for the duratio
 
 Some projects will require certain Yearlings to undergo extensive artistic development, such as learning a new skill set. In such cases, the project manager will work with them to ensure that expectations are reasonable, and that needed resources are provided.
 
-Of course, we'll all take holidays, vacations, and sick days off.
+Of course, we'll take holidays, vacations, and sick days off.
 
 ##### Compensation
 
