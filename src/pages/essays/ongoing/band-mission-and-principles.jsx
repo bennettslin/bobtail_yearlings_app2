@@ -17,9 +17,17 @@ const Component = () => (
 
 ##### Historical consequence
 
+${'  ' || `
+// TODO: Talk about what indie rock got wrong.
+`}
+
 In the early days of rock, an artist could accidentally stumble into the history books. But from here on out, making history will require deliberate effort. And so every decision the Bobtail Yearlings make will be informed by our [five vowels of historical consequence](https://bobtailyearlings.com/essays/ongoing/five-vowels-of-historical-consequence).
 
 ##### Longevity
+
+${'  ' || `
+// TODO: Low-hanging fruit.
+`}
 
 In classical music, the best composers got *better* with age. For rock to remain relevant as a musical genre, it must reach this next level of maturity. As such, the Bobtail Yearlings plan to be a working band for at least as long as Bennett is alive, with our best works always ahead of us.
 
@@ -27,15 +35,27 @@ In classical music, the best composers got *better* with age. For rock to remain
 
 The best artists of the past were interdependent. That is to say, they were allowed to focus solely on their craft, while a partner handled their business affairs. And so the Bobtail Yearlings will work closely with [BYCombo](https://bycombo.com), our band incubator, to make the system work again for interdependent bands like ourselves.
 
+##### Martyrdom
+
+${'  ' || `
+// TODO: Rephrase "to revive interdependence."
+`}
+
+The last generation of artists to benefit from interdependence refused to pay it forward, causing the system to collapse. To revive interdependence, then, we must sacrifice for the next generation, despite the previous one not having done the same for us.
+
+To revive interdependence, a band will need to enrich their business partners first. This will leave them both unpaid, *and* reviled as useful idiots— which is why no band has ever yet made an attempt. To save rock, then, the Bobtail Yearlings volunteer to be the first.
+
 ##### Business partners
 
-Studies show that humans actually dislike creativity— and [experts more so](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275) than anyone else. This is why, time and time again, the business partners who purport to care most about putting out great art— who thus pride themselves on knowing what great art looks like— end up putting out the least creative works.
+Studies show that humans actually dislike creativity— and [experts more so](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275) than anyone else. This is why, time and time again, business partners who care most about backing great art— who thus pride themselves on knowing what great art looks like— end up backing the least creative works.
 
-Meanwhile, some of the most creative works are put out by business partners who are totally clueless about art. For this reason, the Bobtail Yearlings prefer to work with business partners who take pride in knowing how to do business, not in recognizing great art.
+Meanwhile, the most creative works are often backed by those who are totally clueless about art. For this reason, the Bobtail Yearlings prefer to work with business partners who take pride in knowing how to do business, not in recognizing great art.
 
 ##### Emotional intelligence
 
-If the Bobtail Yearlings are to fulfill our mission, then everyone should find it enjoyable and rewarding to interact with us. And it should feel just as meaningful for us to work with others, as well as with each other. So each Yearling will vow to be a model of emotional intelligence, who'll always treat others with empathy and respect.
+If the Bobtail Yearlings are to achieve our mission, then others should find it enjoyable and rewarding to interact with us. And it should feel just as meaningful for us to work with each other. So each Yearling will vow to be a model of emotional intelligence, who'll always treat others with empathy and respect.
+
+Of course, we shouldn't hesitate to criticize indie rock as an ideology. But we should also remember that those who've devoted their lives to it are people like us, and they're the heroes of their own stories.
 
 ##### Recruitment
 
@@ -61,7 +81,7 @@ Of course, we'll take holidays, vacations, and sick days off.
 
 ##### Compensation
 
-Anyone who's a Yearling during the creation of a project will be given equal credit and royalties. This includes the admin, as well as artists who work in other mediums.
+Everyone who's a Yearling during the creation of a project will be given equal credit and royalties. This includes the admin, as well as artists who work in other mediums.
 
 Ongoing revenue from our extracurricular projects will first go to new Yearlings to grow their savings, up to a fixed limit. Any leftover amount will then go into our general band fund.
     `,
