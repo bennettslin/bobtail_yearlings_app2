@@ -23,17 +23,19 @@ To make history once again, bands need to be the best in the world— and this r
 
 ##### Interdependence
 
-Indie rock expects artists to divert time and energy toward administrative work that, in the past, would have been handled by business partners. Who would bet on any such artist to be the best in the world? To resurrect the rock canon, then, bands must be allowed once again to focus solely on their craft.
+Indie rock expects its artists to divert time and energy toward administrative work that, in the past, would have been handled by business partners. Who would ever bet on such artists to be the best in the world? To resurrect the rock canon, then, bands must be allowed once again to focus solely on their craft.
 
 And so the Bobtail Yearlings will work closely with [BYCombo](https://bycombo.com), our band incubator, to make the system work again for interdependent bands like ourselves.
 
 ##### Longevity
 
 ${'  ' || `
-// TODO: Low-hanging fruit.
+// TODO: Work on this. Low-hanging fruit.
 `}
 
-In classical music, the best composers got *better* with age. For rock to remain relevant as a musical genre, it must reach this next level of maturity. As such, the Bobtail Yearlings plan to be a working band for at least as long as Bennett is alive, with our best works always ahead of us.
+In classical music, the best composers got *better* with age. For rock to remain relevant as a musical genre, it must reach this next level of maturity.
+
+As such, the Bobtail Yearlings plan to be a working band for at least as long as Bennett is alive, with our best works always ahead of us.
 
 ##### Martyrdom
 
