@@ -17,11 +17,15 @@ const Component = () => (
 
 ##### Historical consequence
 
-${'  ' || `
-// TODO: Talk about what indie rock got wrong.
-`}
+In the past, the rock music of the English-speaking world was *the* canon. It was often the most accomplished, and always the most original. But today's indie rock isn't better than any foreign canon out there, which is why it seems so inconsequential.
 
-In the early days of rock, an artist could accidentally stumble into the history books. But from here on out, making history will require deliberate effort. And so every decision the Bobtail Yearlings make will be informed by our [five vowels of historical consequence](https://bobtailyearlings.com/essays/ongoing/five-vowels-of-historical-consequence).
+To make history once again, bands need to be the best in the world— and this requires deliberate effort. So every decision the Bobtail Yearlings make will be informed by our [five vowels of historical consequence](https://bobtailyearlings.com/essays/ongoing/five-vowels-of-historical-consequence).
+
+##### Interdependence
+
+Indie rock expects artists to divert time and energy toward administrative work that, in the past, would have been handled by business partners. Who would bet on any such artist to be the best in the world? To resurrect the rock canon, then, bands must be allowed once again to focus solely on their craft.
+
+And so the Bobtail Yearlings will work closely with [BYCombo](https://bycombo.com), our band incubator, to make the system work again for interdependent bands like ourselves.
 
 ##### Longevity
 
@@ -30,10 +34,6 @@ ${'  ' || `
 `}
 
 In classical music, the best composers got *better* with age. For rock to remain relevant as a musical genre, it must reach this next level of maturity. As such, the Bobtail Yearlings plan to be a working band for at least as long as Bennett is alive, with our best works always ahead of us.
-
-##### Interdependence
-
-The best artists of the past were interdependent. That is to say, they were allowed to focus solely on their craft, while a partner handled their business affairs. And so the Bobtail Yearlings will work closely with [BYCombo](https://bycombo.com), our band incubator, to make the system work again for interdependent bands like ourselves.
 
 ##### Martyrdom
 
@@ -55,7 +55,7 @@ Meanwhile, the most creative works are often backed by those who are totally clu
 
 If the Bobtail Yearlings are to achieve our mission, then others should find it enjoyable and rewarding to interact with us. And it should feel just as meaningful for us to work with each other. So each Yearling will vow to be a model of emotional intelligence, who'll always treat others with empathy and respect.
 
-Of course, we shouldn't hesitate to criticize indie rock as an ideology. But we should also remember that those who've devoted their lives to it are people like us, and they're the heroes of their own stories.
+Of course, we shouldn't hesitate to criticize indie rock as a flawed ideology. But we should also remember that those who've devoted their lives to it are people like us, and they're the heroes of their own stories.
 
 ##### Recruitment
 
