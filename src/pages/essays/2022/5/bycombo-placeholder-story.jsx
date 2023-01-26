@@ -9,7 +9,7 @@ const Component = () => (
         {...{
             ...pagesMap[id],
             body: `
-*I wrote this origin story as a temporary placeholder while I worked on the final copy for the BYCombo website. Paul Graham has said that you don't truly [know your idea](http://www.paulgraham.com/words.html) until you write about it, which proved to be correct in my case. The BYCombo mission and strategy are now quite different from what's reflected here.*
+*I wrote this origin story as a temporary placeholder while I worked on the final content for the BYCombo website. Paul Graham has said that you don't truly [know your idea](http://www.paulgraham.com/words.html) until you take the time to write about it, and this proved to be correct in my case. The BYCombo mission is now quite different from what's reflected here.*
 
 ### So epic it couldn't fail
 

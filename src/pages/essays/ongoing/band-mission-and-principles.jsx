@@ -17,35 +17,31 @@ const Component = () => (
 
 ##### Historical consequence
 
-In the past, the rock music of the English-speaking world was *the* canon. It was often the most accomplished, and always the most original. But today's indie rock isn't better than any foreign canon out there, which is why it seems so inconsequential.
+In the past, the rock music of the English-speaking world was [*the* canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446). It was often the most accomplished, and always the most original. But today's indie rock isn't better than any foreign canon out there, which is why it seems so inconsequential.
 
 To make history once again, bands need to be the best in the world— and this requires deliberate effort. So every decision the Bobtail Yearlings make will be informed by our [five vowels of historical consequence](https://bobtailyearlings.com/essays/ongoing/five-vowels-of-historical-consequence).
 
 ##### Interdependence
 
-Indie rock expects its artists to divert time and energy toward administrative work that, in the past, would have been handled by business partners. Who would ever bet on such artists to be the best in the world? To resurrect the rock canon, then, bands must be allowed once again to focus solely on their craft.
+Indie rock expects artists to divert time and energy toward administrative work that, in the past, would have been handled by business partners. But with that being the case, who would ever count on an indie artist to be the best in the world?
 
-And so the Bobtail Yearlings will work closely with [BYCombo](https://bycombo.com), our band incubator, to make the system work again for interdependent bands like ourselves.
+To revive the rock canon, bands must be allowed once again to focus solely on their craft. Which is why the Bobtail Yearlings will work closely with [BYCombo](https://bycombo.com), our band incubator, to make the system work again for interdependent bands like ourselves.
 
 ##### Longevity
 
-${'  ' || `
-// TODO: Work on this. Low-hanging fruit.
-`}
+In classical music, the best artists got *better* with age. Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in his final years. But this isn't yet the case in rock— which is a sure sign that these are still the early days of the canon.
 
-In classical music, the best composers got *better* with age. For rock to remain relevant as a musical genre, it must reach this next level of maturity.
-
-As such, the Bobtail Yearlings plan to be a working band for at least as long as Bennett is alive, with our best works always ahead of us.
+To set an example for future generations, the Bobtail Yearlings promise to be a working band for at least as long as Bennett is alive, with our best works always ahead of us.
 
 ##### Martyrdom
 
 ${'  ' || `
-// TODO: Rephrase "to revive interdependence."
+// TODO: Rephrase "to revive interdependence." The first step in any attempt to revive interdependence is to enrich others first.
 `}
 
-The last generation of artists to benefit from interdependence refused to pay it forward, causing the system to collapse. To revive interdependence, then, we must sacrifice for the next generation, despite the previous one not having done the same for us.
+The last generation of artists to benefit from interdependence refused to pay it forward, causing the system to collapse. To revive interdependence, then, our generation must now sacrifice for the next, despite the previous one not having done the same for ours.
 
-To revive interdependence, a band will need to enrich their business partners first. This will leave them both unpaid, *and* reviled as useful idiots— which is why no band has ever yet made an attempt. To save rock, then, the Bobtail Yearlings volunteer to be the first.
+The first step is to rebuild trust, which will require bands to enrich their business partners first. Doing so will leave them both unpaid *and* reviled as useful idiots— and so none have yet made an attempt. But rock won't be saved until this happens! And so the Bobtail Yearlings volunteer to be the first.
 
 ##### Business partners
 
