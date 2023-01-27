@@ -19,37 +19,25 @@ const Component = () => (
 
 In the past, the rock music of the English-speaking world was [*the* canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446). It was often the most accomplished, and always the most original. But today's indie rock isn't better than any foreign canon out there, which is why it seems so inconsequential.
 
-To make history once again, bands need to be the best in the world— and this requires deliberate effort. So every decision the Bobtail Yearlings make will be informed by our [five vowels of historical consequence](https://bobtailyearlings.com/essays/ongoing/five-vowels-of-historical-consequence).
+To make history once again, bands need to be the best in the entire *world*— and this requires deliberate effort. So every decision the Bobtail Yearlings make will be informed by our [five vowels of historical consequence](https://bobtailyearlings.com/essays/ongoing/five-vowels-of-historical-consequence).
 
 ##### Longevity
 
-In classical music, the best artists got *better* with age. Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in his final years. This isn't the case in rock yet— which tells us that these are still the early days of the canon.
+In classical music, the best artists got *better* with age. Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in his final years. This isn't the case in rock yet— which proves that these are still the early days of the canon.
 
 So as an example to future generations, the Bobtail Yearlings promise to be a working band for at least as long as Bennett is alive, with our best works always ahead of us.
 
 ##### Interdependence
 
-Indie rock expects its artists to divert time and energy toward administrative work that, in the past, would have been handled by business partners. But with this being the case, who would ever count on indie artists to be the best in the world?
+Indie rock expects its artists to divert time and energy toward administrative work that, in the past, would have been handled by business partners. Who, then, would ever count on indie artists to be the best in the entire *world*?
 
 To revive the rock canon, bands must be allowed once again to focus solely on their craft. Which is why the Bobtail Yearlings will work closely with [BYCombo](https://bycombo.com), our band incubator, to make the system work again for interdependent bands like ourselves.
 
 ##### Business partners
 
-Studies show that humans actually dislike creativity— and [experts more so](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275) than anyone else. This is why, time and time again, business partners who care most about backing great art— who thus pride themselves on knowing what great art looks like— end up backing the least creative works.
+Studies show that people actually dislike creativity— and [experts more so](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275) than anyone else. This is why, time and time again, business partners who care most about backing great art— who thus pride themselves on knowing what great art looks like— end up backing the least creative works.
 
 Meanwhile, the most creative works are often backed by those who are totally clueless about art. For this reason, the Bobtail Yearlings prefer to work with business partners who take pride in knowing how to do business, not in recognizing great art.
-
-${'  ' || `
-// TODO: Keep this section?
-
-##### Martyrdom
-
-As rock's system of interdependence between artists and business partners collapsed, each side put up defenses to protect themselves.
-
-To revive interdependence, one band must now lower their defenses and accept deals that favor their business partners. This will rebuild trust, compelling these business partners to offer more equitable deals to future artists.
-
-The first band won't reap the benefit of this rebuilt trust, however— which is why no one wants to be the first. But rock won't be saved until interdependence is revived! And so the Bobtail Yearlings volunteer to be this band.
-`}
 
 ##### Emotional intelligence
 
