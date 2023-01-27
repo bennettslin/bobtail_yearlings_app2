@@ -11,7 +11,7 @@ const Component = () => (
             body: `
 ### Our mission
 
-**The Bobtail Yearlings promise to be the most historically consequential rock band of the 21st century! We'll do so by leading the interdependence revolution while amassing a solid body of creative works.**
+**The Bobtail Yearlings aspire to be the most historically consequential rock band of the 21st century! We'll do so by leading the interdependence revolution while amassing a solid body of creative works.**
 
 ### Our guiding principles
 
@@ -19,7 +19,7 @@ const Component = () => (
 
 In the past, the rock music of the English-speaking world was [*the* canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446). It was always the most original, and often the most accomplished. But today's indie rock isn't better than any foreign canon out there, which is why it seems so inconsequential.
 
-To make history once again, a band needs to be among the best in the entire *world*— and this requires deliberate effort. So every decision the Bobtail Yearlings make will be informed by our [five vowels of historical consequence](https://bobtailyearlings.com/essays/ongoing/five-vowels-of-historical-consequence).
+To make history once again, a band needs to be one of the best in the entire *world*— and this requires deliberate effort. So every decision the Bobtail Yearlings make will be informed by our [five vowels of historical consequence](https://bobtailyearlings.com/essays/ongoing/five-vowels-of-historical-consequence).
 
 ##### Longevity
 
@@ -35,9 +35,9 @@ To revive the rock canon, bands must be allowed once again to focus solely on th
 
 ##### Business partners
 
-Studies show that people actually dislike creativity— and [experts more so](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275) than anyone else. This is why, time and time again, business partners who care most about backing great art— who thus pride themselves on knowing what great art looks like— end up backing the least creative works.
+Studies show that people actually dislike creativity— and [experts more so](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275) than anyone else. This is why, time and time again, business partners who care most about backing great art— who thus pride themselves on knowing what great art looks like— end up backing the *least* creative works.
 
-Meanwhile, the most creative works are often backed by those who are totally clueless about art. For this reason, the Bobtail Yearlings prefer to work with business partners who take pride in knowing how to do business, not in recognizing great art.
+Meanwhile, the *most* creative works are often backed by those who are totally clueless about art. For this reason, the Bobtail Yearlings prefer to work with business partners who take pride in knowing how to do business, not in recognizing great art.
 
 ##### Emotional intelligence
 
