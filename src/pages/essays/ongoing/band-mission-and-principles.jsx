@@ -19,7 +19,7 @@ const Component = () => (
 
 In the past, the rock music of the English-speaking world was [*the* canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446). It was always the most original, and often the most accomplished. But today's indie rock isn't better than any foreign canon out there, which is why it seems so inconsequential.
 
-To make history once again, a band needs to be one of the best in the entire *world*— and this requires deliberate effort. So every decision the Bobtail Yearlings make will be informed by our [five vowels of historical consequence](https://bobtailyearlings.com/essays/ongoing/five-vowels-of-historical-consequence).
+To make history once again, a band needs to be one of the best in the *world*— and this requires deliberate effort. So every decision the Bobtail Yearlings make will be informed by our [five vowels of historical consequence](https://bobtailyearlings.com/essays/ongoing/five-vowels-of-historical-consequence).
 
 ##### Longevity
 
@@ -29,7 +29,7 @@ So as an example to future generations, the Bobtail Yearlings promise to be a wo
 
 ##### Interdependence
 
-Indie rock expects its artists to divert time and energy toward administrative work that, in the past, would have been handled by business partners. Who, then, would ever count on indie artists to be the best in the entire *world*?
+Indie rock expects its artists to divert time and energy toward administrative work that, in the past, would have been handled by business partners. Who, then, would ever count on indie artists to be the best in the *world*?
 
 To revive the rock canon, bands must be allowed once again to focus solely on their craft. Which is why the Bobtail Yearlings will work closely with [BYCombo](https://bycombo.com), our band incubator, to make the system work again for interdependent bands like ourselves.
 
