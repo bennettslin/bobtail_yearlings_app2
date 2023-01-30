@@ -4,10 +4,9 @@ import PageConfigContext from '../../../contexts/PageConfig'
 import ContactEmail from '../../../components/ContactEmail'
 import Markdown from '../../../components/Markdown'
 import Heading from '../../../components/Heading'
-import { getSmartQuotedText } from '../../../utils/format/smartQuote'
+import Flex from '../../../components/Flex'
 import { getHeaderFromDate } from '../../../utils/format/dates'
 import './style'
-import Flex from '../../../components/Flex'
 
 const Body = () => {
     const {
@@ -18,6 +17,8 @@ const Body = () => {
         body,
         showContactEmail,
     } = useContext(PageConfigContext)
+
+    const pageTitle = pageHeading || titleHeading || title
 
     return (
         <Flex
@@ -41,9 +42,11 @@ const Body = () => {
                     gap: 'sm',
                 }}
             >
-                <Heading>
-                    {getSmartQuotedText(pageHeading || titleHeading || title)}
-                </Heading>
+                {pageTitle && (
+                    <Markdown>
+                        {`# ${pageTitle}`}
+                    </Markdown>
+                )}
                 <Heading {...{ level: 5 }}>
                     {getHeaderFromDate(date)}
                 </Heading>

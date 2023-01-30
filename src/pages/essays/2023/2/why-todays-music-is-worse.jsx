@@ -11,39 +11,40 @@ const Component = () => (
             body: `
 *TODO: This is a work in progress.*
 
-The reasons why today's music is worse are [overdetermined](https://en.wikipedia.org/wiki/Overdetermination), of course. But if you need to convince someone on the fly, this is, I think, the most convincing argument.
+The reasons why today's music is worse are [overdetermined](https://en.wikipedia.org/wiki/Overdetermination), of course. But if you're looking for an explanation that's both quick and convincing, this is the one.
 
-### Measure systems, not art
+### Measure systems, not music
 
-Music is subjective, but systems are not. So to prove that today's music is worse, we just need to prove that the systems that give us our music have become worse.
+Music is subjective, but systems are not. To prove that today's music is worse, then, we'll prove that our systems for discovering artists have become worse.
 
-### Systems should empower people
+### Power to the people…
 
-The systems most hated by society are when corporate suits who know nothing about the music simply sign random bands, hoping to luck into finding something the people like.
+Few would argue that the system most hated by society is when corporate suits, who know nothing about the music, simply sign random artists, hoping by chance to find the ones that people may like.
 
-A better system is when indie labels run by people who care deeply about the local and underground scenes, sign one band at a time, knowing exactly what the people like.
+A better system is when knowledgeable curators, with deep ties to their local scenes, sign exactly the artists they know people will like. But the system we love most is when the people themselves simply pick the artists they like!
 
-But the systems we love the most are when the people themselves simply get to pick what they like.
+For the past two decades, society has been moving further away from the systems we hate, and closer to the ones we love.
 
-Let's agree that the story for the past two decades is that society is moving closer to the systems we love.
+### … but people dislike creativity
 
-### People dislike creativity
+But science shows that people dislike creativity, and experts more so than anyone else! But we don't notice this, because, [like teachers](https://bulletproofmusician.com/do-we-have-a-hidden-bias-against-creative-people), we simply credit our favorites with being the most creative.
 
-But science shows that people dislike creativity, and experts more so than anyone else! Instead, we simply credit the music we like with being creative.
+So out of all the systems mentioned above, the best one for discovering creativity is actually the one run by corporate suits who are clueless about the music— the system we hate!
 
-For this reason, we can predict that the best systems for discovering creativity are the ones where those who know nothing about the music simply sign random artists— the systems we hate!
-
-While the absolute worst systems for discovering creativity are the ones where people who intimately know the music sign exactly the band that people like.
-
-In other words, the story for the past two decades is that society is moving further away from the best systems for discovering creativity.
+In other words, for the past two decades, society has been moving further away from the best system for discovering creativity, towards the worst.
 
 ### Conclusion
 
-If the systems are worse at discovering creativity, then there's less creativity in today's music. But because we dislike creativity, ironically, there's a good case to be made that music has never been more likable than it is today!
+So today's systems are worse at discovering creativity— which means today's music is less creative. Ironically, though, since people dislike creativity, music has never been more likable!
 
-But there's no way around it. Music isn't better because more people here and now like it. Music is better when it's a responsible citizen, paving the way for future generations as past generations once did. But today's music no longer does.
+But no matter how much the *present* generation might like it, if it's less creative, then it isn't paving the way for the future. So will *future* generations say that today's music is worse? Of course.
 
-Therefore, today's music is worse.
+And ultimately, theirs is the only opinion that matters.
+
+### Afterthought
+
+Is there a better system?
+Interested in reforming the system? Help BYCombo!
     `,
         }}
     />
