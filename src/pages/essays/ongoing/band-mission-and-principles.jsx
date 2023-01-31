@@ -29,11 +29,11 @@ To set an example for future generations, the Bobtail Yearlings promise to be a 
 
 ##### Interdependence
 
-Indie rock demands that artists keep their earnings for themselves. And so it expects them to divert time and energy toward administrative work that would otherwise be handled by business partners. Some of these indie artists also forgo having bandmates, allowing them not to split their earnings even further.
+To keep more of their earnings for themselves, indie artists divert time and energy toward administrative work that would otherwise be handled by business partners. Some of them also forgo having bandmates, allowing them not to split their earnings even further.
 
 But what competitive edge could a part-time, solo artist possibly have that would make them the best in the *world*?
 
-As such, the Bobtail Yearlings will readily share earnings with business partners, allowing us to focus solely on our craft. We'll also periodically bring in new Yearlings, including artists who work in other mediums, allowing us to create works greater than the sum of their parts.
+As such, the Bobtail Yearlings will readily work with business partners, allowing us to focus solely on our craft. We'll also periodically bring in new Yearlings, including artists in other mediums, allowing us to create works greater than the sum of their parts.
 
 And we'll work closely with [BYCombo](https://bycombo.com), our band incubator, to make the system work again for other bands who desire interdependence like we do.
 
@@ -67,7 +67,7 @@ Of course, we'll take holidays, vacations, and sick days off.
 
 ##### Compensation
 
-Everyone who's a Yearling during the creation of a project will be given equal credit and royalties. This includes the admin, as well as anyone who works in other mediums. Of course, we're free to mention who contributed which parts, as Lennon and McCartney often did.
+Everyone who's a Yearling during the creation of a project will be given equal credit and royalties. This includes the admin, as well as artists in other mediums. Of course, we're free to mention who contributed which parts, as Lennon and McCartney often did.
 
 Ongoing earnings from our extracurricular projects will first go to new Yearlings to grow their savings, if needed, up to a fixed limit. Any leftover amount will then go into our general band fund.
 
