@@ -29,7 +29,7 @@ To set an example for future generations, the Bobtail Yearlings promise to be a 
 
 ##### Interdependence
 
-To keep more of their earnings for themselves, indie artists divert time and energy toward administrative work that would otherwise be handled by business partners. Some of them also forgo having bandmates, allowing them not to split their earnings even further.
+To keep more of their earnings for themselves, indie artists divert time and energy toward administrative work that would otherwise be handled by business partners. Some of them also forgo having bandmates, allowing them not to split their earnings further.
 
 But what competitive edge could a part-time, solo artist possibly have that would make them the best in the *world*?
 
