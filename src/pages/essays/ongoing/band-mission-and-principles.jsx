@@ -29,13 +29,13 @@ To set an example for future generations, the Bobtail Yearlings promise to be a 
 
 ##### Interdependence
 
-Indie rock wants artists to keep their earnings for themselves. And so it expects them to divert time and energy toward administrative work that would otherwise be handled by business partners. Oftentimes, these indie artists will forego having bandmates as well, allowing them not to split their earnings further.
+Indie rock demands that artists keep their earnings for themselves. And so it expects them to divert time and energy toward administrative work that would otherwise be handled by business partners. Some of these indie artists forego having bandmates as well, allowing them not to split their earnings even further.
 
-But what competitive edge could a part-time, solo artist possibly have that would make them the best in the *world*? To be inducted into the canon, then, a band clearly needs to be interdependent.
+But what competitive edge could a part-time, solo artist possibly have that would make them the best in the *world*?
 
 As such, the Bobtail Yearlings will readily share earnings with business partners, allowing us to focus solely on our craft. We'll also periodically bring in new Yearlings, including artists who work in other mediums, allowing us to create works greater than the sum of their parts.
 
-And we'll work closely with [BYCombo](https://bycombo.com), our band incubator, to make the system work again for other interdependent bands like ourselves.
+And we'll work closely with [BYCombo](https://bycombo.com), our band incubator, to make the system work again for other bands who desire interdependence like we do.
 
 ##### Business partners
 
@@ -45,7 +45,7 @@ Meanwhile, the *most* creative works are often backed by those who are completel
 
 ##### Emotional intelligence
 
-If the Bobtail Yearlings are to achieve our mission, then others should find it enjoyable and rewarding to interact with us. And it should feel just as meaningful for us to work with each other. So each Yearling will vow to be a model of emotional intelligence, who'll treat others with empathy, kindness, and respect.
+If the Bobtail Yearlings are to achieve our mission, then others should find it pleasant and rewarding to interact with us. And it should feel just as meaningful for us to work with each other. So each Yearling will vow to be a model of emotional intelligence, who'll treat others with empathy, kindness, and respect.
 
 Of course, we won't hesitate to criticize indie rock as an ideology. But we'll always remind ourselves that those who've devoted their lives to it are people like us, and they're the heroes of their own stories.
 
@@ -61,7 +61,7 @@ One Yearling will be a full-time admin, in charge of administrative work such as
 
 Every Yearling will work forty hours a week to benefit the band, for the duration of their time in the band. This work will largely be self-directed. Examples include practicing one's instrument, writing song parts, and so forth. Naturally, touring and performing count as band work.
 
-Some projects will require certain Yearlings to undergo extensive artistic development, such as learning a new skill set. In such cases, the project manager will work with them to ensure that expectations are reasonable, and that needed resources are provided.
+Some projects will require certain Yearlings to undergo extensive artistic development, such as learning a new skill set. In such cases, the project manager will work with them to ensure that expectations are reasonable, and needed resources are provided.
 
 Of course, we'll take holidays, vacations, and sick days off.
 
@@ -69,13 +69,13 @@ Of course, we'll take holidays, vacations, and sick days off.
 
 Everyone who's a Yearling during the creation of a project will be given equal credit and royalties. This includes the admin, as well as anyone who works in other mediums. Of course, we're free to mention who contributed which parts, as Lennon and McCartney often did.
 
-Ongoing earnings from our extracurricular projects will first go to new Yearlings to grow their savings, up to a fixed limit. Any leftover amount will then go into our general band fund.
+Ongoing earnings from our extracurricular projects will first go to new Yearlings to grow their savings, if needed, up to a fixed limit. Any leftover amount will then go into our general band fund.
 
 ##### Recruitment
 
 While we won't select new Yearlings on the basis of race or gender, we'll openly address the benefits of diversity and the hazards of unconscious bias.
 
-We also understand it can be difficult to juggle the band life with adult responsibilities. So if a Yearling wishes to bring their life partner into the band to help maintain their commitment, we'll do our best to make this work.
+We also understand the need to juggle band life with adult responsibilities. So if bringing a life partner into the band will help a Yearling maintain their commitment, then we'll do our best to make this work.
     `,
         }}
     />
