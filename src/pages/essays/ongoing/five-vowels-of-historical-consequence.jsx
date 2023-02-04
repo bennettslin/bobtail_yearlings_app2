@@ -9,10 +9,9 @@ const Component = () => (
         {...{
             ...pagesMap[id],
             body: `
+*This is a work in progress.*
 
 To become historically consequential, a work should aspire to be academic, enjoyable, inspiring, original, and universal.
-
-*This is a work in progress.*
 
 ${'  ' || `
 // TODO: A long time ago, a friend showed me the album he'd made with his band while in high school. When I asked where he expected it to go in fifty years, he replied, "Why would I care?" This floored me. As someone who grew up on Beethoven and the Beatles, I just assumed that we all make music for posterity— some, like myself, are just more committed to succeeding than others.

@@ -32,9 +32,9 @@ And since people are more alike than we're all willing to admit, it's likely tha
 
 I can think of a few examples. The Black artists who pioneered rock and roll in the 50s would have met pushback had they advocated too strongly for themselves. They needed White allies to do so on their behalf.
 
-It can also work the other way around. While anyone could see that Eminem was immensely talented, this didn't translate into actual fandom. With Vanilla Ice having quickly become a laughingstock, people needed social proof that it was cool to like a White rapper.
+The racial dynamics can even be reversed. While anyone could see that Eminem was immensely talented, this didn't translate into actual fandom. With Vanilla Ice having quickly become a laughingstock, the public needed social proof that it was cool to like a White rapper.
 
-But White disc jockeys stumped for these Black pioneers, just as Dr. Dre took Eminem under his wing, so everything ended well— for them. But this kind of executing decision making made by centralized forces doesn't happen anymore, and so such artists are left in the lurch— which is one reason why so many people say today's music is worse. There's an entire *category* of artists— namely, the pioneering outsider— that's conspicuously missing.
+But White disc jockeys stumped for these Black pioneers, just as Dr. Dre took Eminem under his wing, so everything ended well— for them. But this kind of executive decision making made by centralized forces doesn't happen anymore, and so such artists are left in the lurch— which is one reason why so many people say today's music is worse. There's an entire *category* of artists— namely, the pioneering outsider— that's conspicuously missing.
 
 ###
 

@@ -1,4 +1,5 @@
 import { getTruncatedText } from '../../utils/format'
+import { convertMarkdownToText } from '../../utils/format/markdown'
 import { getUrlFromPath } from '../../utils/pages/path'
 import { HOME_PAGE } from '../../constants/pages'
 import { TWITTER_ACCOUNT } from '../../constants/socialMedia'
@@ -16,7 +17,16 @@ export const getMetaTitle = ({
     page,
     title,
 }) => (
-    `${page === HOME_PAGE ? '' : `${title || capitalise(page)} | `}${APP_TITLE}`
+    `${
+        page === HOME_PAGE ?
+            '' :
+            `${
+                convertMarkdownToText(
+                    title ||
+                    capitalise(page),
+                )
+            } | `
+    }${APP_TITLE}`
 )
 
 export const getMetaDescription = description => (
