@@ -8,8 +8,18 @@ export const pageConfigs = [
         date: { year: 2023, month: 2 },
     },
     {
-        id: `why-todays-music-is-worse`,
-        title: `Why today's music is worse`,
+        id: `why-todays-music-is-worse-alibis`,
+        title: `Why today's music is worse: alibis`,
+        date: { year: 2023, month: 2 },
+    },
+    {
+        id: `why-todays-music-is-worse-camps`,
+        title: `Why today's music is worse: camps`,
+        date: { year: 2023, month: 2 },
+    },
+    {
+        id: `why-todays-music-is-worse-systems`,
+        title: `Why today's music is worse: systems`,
         date: { year: 2023, month: 2 },
     },
 ]
