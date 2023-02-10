@@ -47,11 +47,11 @@ And we'll work closely with [BYCombo](https://bycombo.com), our band incubator, 
 
 Studies show that people actually dislike creativity— and [experts more so](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275) than anyone else. This is why, time and again, business partners who care most about backing great art— who thus pride themselves on knowing what great art looks like— end up backing the *least* creative works.
 
-Meanwhile, the *most* creative works are often backed by those who are completely naive about art. For this reason, the Bobtail Yearlings prefer to work with business partners who take pride in knowing how to do business, not in recognizing great art.
+Meanwhile, the *most* creative works are often backed by those who are largely naive about art. For this reason, the Bobtail Yearlings prefer to work with business partners who take pride in knowing how to do business, not in recognizing great art.
 
 ##### Emotional intelligence
 
-If the Bobtail Yearlings are to achieve our mission, then others should find it pleasant and rewarding to interact with us. And it should feel just as meaningful for us to work with each other. So each of us will vow to be a model of emotional intelligence, who'll treat others with empathy, kindness, and respect.
+If the Bobtail Yearlings are to achieve our mission, then others should find it enjoyable to interact with us. And it should feel just as meaningful for us to belong in this band and work with each other. So each of us will vow to be a model of emotional intelligence, who'll treat others with empathy, kindness, and respect.
 
 Of course, we won't hesitate to criticize indie rock as an ideology. But we'll always remind ourselves that those who've devoted their lives to it are people like us, and they're the heroes of their own stories.
 
@@ -59,21 +59,19 @@ Of course, we won't hesitate to criticize indie rock as an ideology. But we'll a
 
 The band leader decides on the overall vision for the Bobtail Yearlings. For now, Bennett is our band leader, since this is the de facto reality. However, in the long term we should be open to having multiple band leaders, or even none at all.
 
+The consequential works of this century will almost certainly combine different mediums in unprecedented ways. As such, we'll always be open to bringing in new bandmates who work in other artistic mediums.
+
 ${'  ' || `
-// TODO: Mention artists who work in other mediums.
+// TODO: Phrase this better.
+
+Ideally, we would have one bandmate be in charge of all administrative work. This full-time admin would also oversee development of our extracurricular projects, such as [*Bobtail Dominoes*](https://bobtaildominoes.com), [*Bobtail Method*](https://bobtailmethod.com), and of course, BYCombo.
 `}
-
-For each project, one bandmate will be assigned the role of project manager. The project manager will oversee artistic development of that project.
-
-One bandmate will be a full-time admin, in charge of administrative work such as social media engagement. This will shield every other bandmate from such responsibilities. The admin will also oversee development of our extracurricular projects, such as [*Bobtail Dominoes*](https://bobtaildominoes.com), [*Bobtail Method*](https://bobtailmethod.com), and of course, BYCombo.
 
 ##### Duties
 
-Each Yearling will work forty hours a week to benefit the band, for the duration of their time in the band. This work will largely be self-directed. Examples include practicing one's instrument, writing song parts, and so forth. Naturally, touring and performing count as band work.
+Each Yearling will work forty hours a week to benefit the band, for the duration of their time in the band. This work will largely be self-directed. Examples include practicing one's instrument, writing song parts, and so forth. Naturally, touring and performing count as band work. Of course, we'll take holidays, vacations, and sick days off.
 
-Some projects will require certain bandmates to undergo extensive artistic development, such as learning a new skill set. In such cases, the project manager will work with them to ensure that expectations are reasonable, and needed resources are provided.
-
-Of course, we'll take holidays, vacations, and sick days off.
+Some projects may require certain bandmates to learn new skills in a different domain. In such cases, the project manager will work with them to ensure that expectations are reasonable and resources are provided.
 
 ##### Compensation
 
