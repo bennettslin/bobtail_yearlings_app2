@@ -34,24 +34,28 @@ To avoid sharing their earnings, indie artists spend time and energy on administ
 As such, the Bobtail Yearlings will readily work with business partners, allowing us to focus solely on our craft. And we'll periodically bring in new bandmates to be equal collaborators, allowing us to create works greater than the sum of their parts.
 
 ${'  ' || `
-// TODO: Make this more clear. Talk about Give and Take.
+// TODO:
 
 ##### Self-sacrifice
 
-While the five vowels of historical consequence are timeless, expectations differ for each generation. This is why some will start a renaissance, while others will let one end.
+// TODO: Talk about resources in this first paragraph.
 
-And we'll work closely with [BYCombo](https://bycombo.com), our band incubator, to make the system work again for other bands who desire interdependence like we do.
+While the principles of historical consequence are timeless, the expectations differ for each generation.
+
+// TODO: Talk about Give and Take in this second paragraph.
+
+And so we'll work closely with [BYCombo](https://bycombo.com), our band incubator, to make the system work again for other bands who desire interdependence like we do.
 `}
 
 ##### Business partners
 
-Studies show that people actually dislike creativity— and [experts more so](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275) than anyone else. This is why, time and again, business partners who care most about backing great art— who thus pride themselves on knowing what great art looks like— end up backing the *least* creative works.
+Studies show that people actually dislike creativity— and [experts more so](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275) than all others. This is why, time and again, business partners who care most about backing great art— who thus pride themselves on knowing what great art looks like— end up backing the *least* creative works.
 
 Meanwhile, the *most* creative works are often backed by those who are largely naive about art. For this reason, the Bobtail Yearlings prefer to work with business partners who take pride in knowing how to do business, not in recognizing great art.
 
 ##### Emotional intelligence
 
-If the Bobtail Yearlings are to achieve our mission, then others should find it enjoyable to interact with us. And it should feel just as meaningful for us to belong in this band and work with each other. So each of us will vow to be a model of emotional intelligence, who'll treat others with empathy, kindness, and respect.
+If the Bobtail Yearlings are to achieve our mission, then others should find it enjoyable to interact with us. And it should feel just as meaningful for us to work with each other. So each of us will vow to be a model of emotional intelligence, who'll treat others with empathy, kindness, and respect.
 
 Of course, we won't hesitate to criticize indie rock as an ideology. But we'll always remind ourselves that those who've devoted their lives to it are people like us, and they're the heroes of their own stories.
 
@@ -61,17 +65,13 @@ The band leader decides on the overall vision for the Bobtail Yearlings. For now
 
 The consequential works of this century will almost certainly combine different mediums in unprecedented ways. As such, we'll always be open to bringing in new bandmates who work in other artistic mediums.
 
-${'  ' || `
-// TODO: Phrase this better.
-
-Ideally, we would have one bandmate be in charge of all administrative work. This full-time admin would also oversee development of our extracurricular projects, such as [*Bobtail Dominoes*](https://bobtaildominoes.com), [*Bobtail Method*](https://bobtailmethod.com), and of course, BYCombo.
-`}
+Ideally, we would have one bandmate whose sole responsibility is to handle all our administrative work. This admin would also oversee development of our extracurricular projects, such as [*Bobtail Dominoes*](https://bobtaildominoes.com), [*Bobtail Method*](https://bobtailmethod.com), and of course, BYCombo.
 
 ##### Duties
 
 Each Yearling will work forty hours a week to benefit the band, for the duration of their time in the band. This work will largely be self-directed. Examples include practicing one's instrument, writing song parts, and so forth. Naturally, touring and performing count as band work. Of course, we'll take holidays, vacations, and sick days off.
 
-Some projects may require certain bandmates to learn new skills in a different domain. In such cases, the project manager will work with them to ensure that expectations are reasonable and resources are provided.
+Some projects may require certain bandmates to learn new skills in a different domain. In such cases, the project manager will work with them to ensure that expectations are reasonable, and needed resources are provided.
 
 ##### Compensation
 
@@ -81,7 +81,7 @@ Ongoing earnings from our extracurricular projects will first go to new bandmate
 
 ##### Recruitment
 
-While we won't select new bandmates on the basis of race or gender, we'll openly address the benefits of diversity and the hazards of unconscious bias.
+While we won't select new Yearlings on the basis of race or gender, we'll openly address the benefits of diversity and the hazards of unconscious bias.
 
 We also understand the need to juggle band life with adult responsibilities. So if bringing a life partner into the band will help a bandmate maintain their commitment, then we'll do our best to make this work.
     `,

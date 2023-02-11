@@ -6,7 +6,7 @@ export const pageConfigs = [
         id: `band-mission-and-principles`,
         title: `Band mission and principles`,
         subpath: `ongoing`,
-        date: { year: 2023, month: 1, updated: true },
+        date: { year: 2023, month: 2, updated: true },
     },
     {
         id: `five-vowels-of-historical-consequence`,
