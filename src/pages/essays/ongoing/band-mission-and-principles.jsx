@@ -25,27 +25,19 @@ To make history once again, bands need to be the best in the *world*— and this
 
 In classical music, the best artists got *better* with age. Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in his final years. This isn't the case in rock yet— which proves that these are still the early days of the canon.
 
-To set an example for future generations, the Bobtail Yearlings promise to be a working band for at least as long as Bennett is alive, with our best works always ahead of us.
+As such, the Bobtail Yearlings promise to be a working band for as long as Bennett is alive. And we'll always take steps to ensure that our best works lie ahead of us.
 
 ##### Interdependence
 
-To avoid sharing their earnings, indie artists spend time and energy on administrative work that would otherwise be handled by business partners. And many take this a step further, by choosing to create without collaboration. But what competitive edge could a solo artist working part time possibly have, to make them the best in the *world*?
+To avoid sharing their earnings, indie artists spend time and energy on administrative work that would otherwise be handled by business partners. And some take this a step further, by choosing to create without collaboration. But what competitive edge could a solo artist working part time possibly have, to make them the best in the *world*?
 
-As such, the Bobtail Yearlings will readily work with business partners, allowing us to focus solely on our craft. And we'll periodically bring in new bandmates to be equal collaborators, allowing us to create works greater than the sum of their parts.
+And so the Bobtail Yearlings will readily work with business partners, allowing us to focus solely on our craft. We'll also periodically bring in new bandmates to be equal collaborators, allowing us to create works greater than the sum of their parts.
 
-${'  ' || `
-// TODO:
+##### Helping others
 
-##### Self-sacrifice
+Mr. Rogers told us that when times are bad, we should [look for the helpers](https://www.goodreads.com/quotes/198594-when-i-was-a-boy-and-i-would-see-scary). Well, times are bad now in rock— so why aren't there more helpers? It's because indie artists need to hustle to be heard. This leaves them with no time or energy to help others.
 
-// TODO: Talk about resources in this first paragraph.
-
-While the principles of historical consequence are timeless, the expectations differ for each generation.
-
-// TODO: Talk about Give and Take in this second paragraph.
-
-And so we'll work closely with [BYCombo](https://bycombo.com), our band incubator, to make the system work again for other bands who desire interdependence like we do.
-`}
+As such, the Bobtail Yearlings promise to be helpers. We'll do so by working closely with [BYCombo](https://bycombo.com), our rock band incubator.
 
 ##### Business partners
 
