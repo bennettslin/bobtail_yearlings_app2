@@ -47,9 +47,13 @@ Of course, we won't hesitate to criticize indie rock as an ideology. But we'll a
 
 ##### Helping others
 
-Mr. Rogers told us that when times are bad, we should [look for the helpers](https://www.goodreads.com/quotes/198594-when-i-was-a-boy-and-i-would-see-scary). Well, times are bad now in rock. So why aren't there more helpers? It's because every indie artist's top priority is to be self-empowered— a trait that doesn't lend itself well to helping others.
+${'  ' || `
+// TODO: Indie artists are seen as underdogs. They help themselves, and others help them, not the other way around.
+`}
 
-And so the Bobtail Yearlings promise to be helpers, even if this puts us at greater risk of being exploited. We'll do so by making ourselves available to the bands who come up through [BYCombo](https://bycombo.com), our rock band incubator.
+Mr. Rogers told us that when times are bad, we should [look for the helpers](https://www.goodreads.com/quotes/198594-when-i-was-a-boy-and-i-would-see-scary). Well, times are bad now in rock. So why aren't there more helpers? It's because indie rock rewards artists for being self-empowered— a trait that doesn't lend itself to helping others.
+
+And so the Bobtail Yearlings promise to be a helper, even if this puts us at greater risk of being exploited. We'll do so by making ourselves available to the bands who come up through [BYCombo](https://bycombo.com), our rock band incubator.
 
 ##### Roles
 
