@@ -51,9 +51,9 @@ ${'  ' || `
 // TODO: Indie artists are seen as underdogs. They help themselves, and others help them, not the other way around.
 `}
 
-Mr. Rogers once told us that when times are bad, we can [look for the helpers](https://www.goodreads.com/quotes/198594-when-i-was-a-boy-and-i-would-see-scary). Well, times are bad now in rock. So why aren't there more helpers? It's because indie rock rewards artists for empowering themselves. And self-empowerment is a trait that doesn't lend itself to helping others.
+Mr. Rogers once told us that when times are bad, we can [look for the helpers](https://www.goodreads.com/quotes/198594-when-i-was-a-boy-and-i-would-see-scary). Well, times are bad now in rock. So why aren't there more helpers? It's because indie rock rewards artists for empowering themselves— and self-empowerment is a trait that doesn't lend itself to helping others.
 
-And so the Bobtail Yearlings promise to be a helper, even if this puts us at greater risk of being exploited. We'll do so by making ourselves available to the bands who come up through [BYCombo](https://bycombo.com), our rock band incubator.
+But the Bobtail Yearlings promise to be a helper, even if this puts us at greater risk of being exploited. We'll do so by making ourselves available to the bands who come up through [BYCombo](https://bycombo.com), our rock band incubator.
 
 ##### Roles
 
