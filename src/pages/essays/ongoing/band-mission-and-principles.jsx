@@ -19,13 +19,13 @@ const Component = () => (
 
 In the past, the rock music of the English-speaking world was [*the* canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446). It was always the most original, and often the most accomplished. But today's indie rock isn't better than any foreign canon out there, which is why it seems so inconsequential.
 
-To make history once again, bands need to be the best in the *world*— and this requires deliberate effort. This is why every decision the Bobtail Yearlings make will be informed by our [five vowels of historical consequence](https://bobtailyearlings.com/essays/ongoing/five-vowels-of-historical-consequence).
+To make history once again, bands need to be the best in the *world*— and this requires deliberate effort. So every decision the Bobtail Yearlings make will be informed by our [five vowels of historical consequence](https://bobtailyearlings.com/essays/ongoing/five-vowels-of-historical-consequence).
 
 ##### Longevity
 
 In classical music, the best artists got *better* with age. Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. This isn't the case in rock yet— which proves that these are still the early days of the canon.
 
-And so the Bobtail Yearlings plan to be a working band for as long as Bennett is alive. We'll also take steps to ensure that our best works are always ahead of us.
+For this reason, the Bobtail Yearlings plan to be a working band for as long as Bennett is alive. And we'll take steps to ensure that our best works always lie ahead of us.
 
 ##### Interdependence
 
@@ -35,13 +35,13 @@ As such, the Bobtail Yearlings will readily work with business partners, allowin
 
 ##### Business partners
 
-Studies show that people actually *dislike* creativity— and [experts more so](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275) than all others. This is why, time and again, business partners who care most about backing great art— who thus pride themselves on knowing what great art looks like— end up backing the *least* creative works.
+Studies show that people actually *dislike* creativity— and [experts more so](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275) than anyone else. This is why, time and again, business partners who care most about backing great art— who thus pride themselves on knowing what great art looks like— end up backing the *least* creative works.
 
-Meanwhile, the *most* creative works are often backed by those who are largely naive about art. For this reason, the Bobtail Yearlings prefer to work with business partners who take pride in knowing how to do business, not in recognizing great art.
+Meanwhile, the *most* creative works are often backed by those with no prior experience in the arts. For this reason, the Bobtail Yearlings prefer to work with business partners who take pride in knowing how to do business, not in recognizing great art.
 
 ##### Helping others
 
-Mr. Rogers once told us that when times are bad, we can [look for the helpers](https://www.goodreads.com/quotes/198594-when-i-was-a-boy-and-i-would-see-scary). Well, times are bad now in rock. So why aren't there more helpers? It's because indie rock rewards artists for empowering themselves— and self-empowerment isn't a trait that lends itself well to helping others.
+Mr. Rogers once told us that when times are bad, we can [look for the helpers](https://www.goodreads.com/quotes/198594-when-i-was-a-boy-and-i-would-see-scary). Well, times are bad in rock now, so why aren't there more helpers? It's because indie rock rewards artists for empowering themselves— and self-empowerment isn't a trait that lends itself well to helping others.
 
 But the Bobtail Yearlings promise to be a helper, even if this puts us at greater risk of being exploited. We'll do so by making ourselves available to the bands who come up through [BYCombo](https://bycombo.com), our rock band incubator.
 
