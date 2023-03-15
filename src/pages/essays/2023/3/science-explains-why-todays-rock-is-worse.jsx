@@ -15,6 +15,8 @@ Is rock worse in our time than it was in the past? Well, that's really for futur
 
 First, scientists pretty much all agree that creativity is counterintuitive. We reject creative ideas, but not because we dislike creativity itself; it's because we don't recognize them for what they are. Our intuition tells us that the creative ideas of our time will resemble those of the past.
 
+Experts are the most susceptible to this because they're the ones who rely on their intuition the most. Magnus Carlsen plays from intuition.
+
 ### The indie system treat creativity as intuitive
 
 ### The past two decades of indie rock were chosen by this dysfunctional system
