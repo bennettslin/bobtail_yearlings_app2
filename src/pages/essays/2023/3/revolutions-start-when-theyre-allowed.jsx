@@ -33,7 +33,7 @@ But then Generation X grew up. They were no longer cynical, but they were still 
 
 ### Ideologues are the worst establishment
 
-To understand why, consider the case of Geffen, who first signed Guns n' Roses, and then turned around and signed Nirvana, a band with opposing principles. Geffen had no ideology. We just take it for granted that they don't.
+To understand why, consider the case of Geffen, who first signed Guns n' Roses, and then turned around and signed Nirvana, a band with opposing principles. Geffen had no ideology, and so they preferred to own the competition, to own their own disruption. We just take it for granted that they don't.
 
 By contrast, Generation X has an ideology, which is that artists who build grassroots followings from the bottom up are superior to those who need top-down investment from centralized institutions. If no one is willing to be their first fan, it doesn't matter if millions are willing to be their millionth fan.
 
