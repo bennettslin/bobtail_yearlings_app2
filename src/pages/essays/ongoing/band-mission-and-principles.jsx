@@ -63,7 +63,7 @@ Ideally, we would have one bandmate whose sole responsibility is to handle all o
 
 Each Yearling will work forty hours a week to benefit the band, for the duration of their time in the band. This work will largely be self-directed. Examples include practicing one's instrument, writing song parts, and so forth. Naturally, touring and performing count as band work. Of course, we'll take holidays, vacations, and sick days off.
 
-Some projects may require certain bandmates to learn new skills in a different domain. In such cases, the project manager will work with them to ensure that expectations are reasonable, and needed resources are provided.
+For each project, a bandmate or two will be assigned the role of project manager. If a project requires certain bandmates to learn new skills in a different domain, the project manager will work with them to ensure that expectations are reasonable, and needed resources are provided.
 
 ##### Compensation
 
