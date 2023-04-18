@@ -8,12 +8,12 @@ export const pageConfigs = [
         subpath: `ongoing`,
         date: { year: 2023, month: 2, updated: true },
     },
-    {
-        id: `five-vowels-of-historical-consequence`,
-        title: `Five vowels of historical consequence`,
-        subpath: `ongoing`,
-        date: { year: 2023, month: 1, updated: true },
-    },
+    // {
+    //     id: `five-vowels-of-historical-consequence`,
+    //     title: `Five vowels of historical consequence`,
+    //     subpath: `ongoing`,
+    //     date: { year: 2023, month: 1, updated: true },
+    // },
 ]
 
 export const pagesMap = getMapFromPageConfigs({

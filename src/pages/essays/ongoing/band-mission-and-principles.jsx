@@ -41,7 +41,7 @@ Meanwhile, the *most* creative works are often backed by those with no prior exp
 
 ##### Helping others
 
-Mr. Rogers once told us that when times are bad, we can [look for the helpers](https://www.goodreads.com/quotes/198594-when-i-was-a-boy-and-i-would-see-scary). Well, times are bad in rock now… so why aren't there more helpers? It's because indie rock rewards artists for empowering themselves— and self-empowerment isn't a trait that lends itself to helping others.
+Mr. Rogers once told us that when times are bad, we can [look for the helpers](https://www.goodreads.com/quotes/198594-when-i-was-a-boy-and-i-would-see-scary). Well, times are bad in rock now… so why aren't there more helpers? It's because indie rock looks for artists who empower themselves— and self-empowerment isn't a trait that lends itself to helping others.
 
 But the Bobtail Yearlings promise to be a helper, even if this puts us at greater risk of being exploited. We'll do so by making ourselves available to the bands who come up through [BYCombo](https://bycombo.com), our rock band incubator.
 
