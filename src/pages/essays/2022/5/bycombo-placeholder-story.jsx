@@ -17,7 +17,7 @@ A long time ago, I was in a band with some friends of mine. We'd been playing sh
 
 At the time, I was studying masterpieces like James Joyce's *Ulysses* and the Beatles' later albums, hoping to learn what makes a work great. As I read about the extensive recording sessions for *Sgt. Pepper's*, I realized something. With home studios becoming more affordable, a band no longer needed to be established to record their first masterpiece.
 
-And then it hit me. I should create a masterpiece, "the *Ulysses* of rock albums," on my own. It would be so epic that I couldn't fail to make it big. I assumed that others out there were thinking similarly, and I would emerge to find myself part of an exciting wave of new bands, each striving to be as good as the Beatles.
+And then it hit me. I should create a masterpiece, the "*Ulysses* of rock albums," on my own. It would be so epic that I couldn't fail to make it big. I assumed that others out there were thinking similarly, and I would emerge to find myself part of an exciting wave of new bands, each striving to be as good as the Beatles.
 
 ### A Dunning-Kruger artist
 
@@ -27,7 +27,7 @@ Still, what's hard for one is hard for all. And so the most promising bands simp
 
 But *Yearling's Bobtail* took me five years to create. It hides layers of meaning that are revealed upon repeated listens. And there was no way to signal this. If it were possible, then every other band would do the same. So I just kept trying to get the same work heard, again and again. But this is what the *least* competent artists do— because they don't understand that rejection can be used to get better.
 
-An artist who creates “the *Ulysses* of rock albums,” in other words, will seem to exemplify the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning–Kruger_effect). They will appear too incompetent to even recognize it.
+An artist who creates the "*Ulysses* of rock albums," in other words, will seem to exemplify the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning–Kruger_effect). They will appear too incompetent to even recognize it.
 
 ### Momentum from nothing
 
