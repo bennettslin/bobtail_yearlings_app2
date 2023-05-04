@@ -11,9 +11,18 @@ const Component = () => (
             body: `
 ### Our mission statement
 
-**The Bobtail Yearlings aspire to be the most historically consequential rock band of the 21st century! We'll do so by leading the interdependence revolution while amassing a solid body of creative works.**
+**The Bobtail Yearlings aspire to be the most historically consequential rock band of the 21st century! We'll do so by leading the interdependence movement; amassing a solid body of creative works; and providing tools for future bands to surpass us.**
 
 ### Our guiding principles
+
+${'  ' || `
+// TODO: Competition.
+To respect the listener's attention is to acknowledge that getting heard is a competition. Those who say otherwise simply want to compete under different, less obvious terms.
+
+The movements founded by minorities, such as hip hop, are hyper competitive, proving that the desire to say that music isn't a competition is ultimately a facet of privilege.
+
+Like everyone in hip hop, the Bobtail Yearlings reserve the highest respect for others with the same aspirations that we have, even if they're technically our rivals. Game recognizes game.
+`}
 
 ##### Historical consequence
 
@@ -25,7 +34,7 @@ To make history once again, bands need to be the best in the *world*— and this
 
 In classical music, the best artists got *better* with age. Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. This isn't the case in rock yet— which proves that these are still the early days of the canon.
 
-For this reason, the Bobtail Yearlings plan to be a working band for as long as Bennett is alive. And we'll take steps to ensure that our best works always lie ahead of us.
+For this reason, the Bobtail Yearlings plan to be a working band for as long as Bennett is alive and well. There will never be a hiatus. And we'll ensure that our best works always lie ahead of us.
 
 ##### Interdependence
 
@@ -41,13 +50,13 @@ And so the Bobtail Yearlings prefer to work with business partners who take prid
 
 ##### Helping others
 
-Mr. Rogers once told us that when times are bad, we can [look for the helpers](https://www.goodreads.com/quotes/198594-when-i-was-a-boy-and-i-would-see-scary). Well, times are bad in rock now… so why aren't there more helpers? It's because indie rock looks for artists who empower themselves— and self-empowerment isn't a trait that lends itself to helping others.
+Mr. Rogers once told us that when times are bad, we can [look for the helpers](https://www.goodreads.com/quotes/198594). Well, times are bad in rock now… so why aren't there more helpers? It's because indie artists are celebrated for empowering themselves— and self-empowerment isn't a trait that lends itself to helping others.
 
-But the Bobtail Yearlings promise to be a helper, even if this puts us at greater risk of being exploited. We'll do so by making ourselves available to the bands who come up through [BYCombo](https://bycombo.com), our rock band incubator.
+But the Bobtail Yearlings promise to be a helper. We'll do so by exploring collaborative opportunities with our [BYCombo](https://bycombo.com) bands. And we'll be generous with the tools that contribute to our own artistic success, such as [*Bobtail Method*](https://bobtailmethod.com) and [*Bobtail Dominoes*](https://bobtaildominoes.com).
 
 ##### Emotional intelligence
 
-If the Bobtail Yearlings are to achieve our mission, then others should find it enjoyable to interact with us. And it should feel just as meaningful for us to work with each other. So each of us will vow to be a model of emotional intelligence, who'll treat others with empathy, kindness, and respect.
+If the Bobtail Yearlings are to achieve our mission, then others should find it rewarding to interact with us. And it should feel just as meaningful for us to work with each other. So each of us will vow to be a model of emotional intelligence, who'll treat others with empathy, kindness, and respect.
 
 Of course, we won't hesitate to criticize indie rock as an ideology. But we'll always remind ourselves that those who've devoted their lives to it are people like us, and they're the heroes of their own stories.
 
@@ -57,13 +66,13 @@ The band leader decides on the overall vision for the Bobtail Yearlings. For now
 
 The consequential works of this century will almost certainly combine different mediums in unprecedented ways. As such, we'll always be open to bringing in new bandmates who work in other artistic mediums.
 
-Ideally, we would have one bandmate whose sole responsibility is to handle all our administrative work. This admin would also oversee development of our extracurricular projects, such as [*Bobtail Dominoes*](https://bobtaildominoes.com), [*Bobtail Method*](https://bobtailmethod.com), and of course, BYCombo.
+Ideally, we'll have one bandmate whose sole responsibility is to handle administrative work. This admin would also oversee development of our extracurricular projects such as BYCombo, Bobtail Method, and Bobtail Dominoes.
 
 ##### Duties
 
-Each Yearling will work forty hours a week to benefit the band, for the duration of their time in the band. This work will largely be self-directed. Examples include practicing one's instrument, writing song parts, and so forth. Naturally, touring and performing count as band work. Of course, we'll take holidays, vacations, and sick days off.
+Each Yearling will work forty hours a week to benefit the band, for the duration of their time in the band. This work can largely be self-directed. Examples include practicing one's instrument, composing song parts, and so forth. Naturally, touring and performing count as band work. Of course, we'll take holidays, vacations, and sick days off.
 
-For each project, a bandmate or two will be assigned the role of project manager. If a project requires certain bandmates to learn new skills in a different domain, the project manager will work with them to ensure that expectations are reasonable, and needed resources are provided.
+For each project, a bandmate or two will be assigned the role of project manager. Some projects may require certain bandmates to learn new skills in different domains, within reasonable expectations. If this is ever the case, the project manager will work with them to ensure that needed resources are provided.
 
 ##### Compensation
 
@@ -73,9 +82,9 @@ Ongoing earnings from our extracurricular projects will first go to new bandmate
 
 ##### Recruitment
 
-While we won't select new Yearlings on the basis of race or gender, we'll openly address the benefits of diversity and the hazards of unconscious bias.
+The Bobtail Yearlings believe in the importance of gender diversity, and we'll do our best to achieve it when recruiting new bandmates.
 
-We also understand the need to juggle band life with adult responsibilities. So if bringing a life partner into the band will help a bandmate maintain their commitment, then we'll do our best to make this work.
+We also understand the need to juggle band life with adult responsibilities. So if bringing a life partner into the band can help a longtime bandmate maintain their commitment, then we'll do our best to make this work.
     `,
         }}
     />
