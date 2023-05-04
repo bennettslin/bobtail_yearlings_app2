@@ -15,14 +15,15 @@ const Component = () => (
 
 ### Our guiding principles
 
+##### Competition
+
+Any artist who respects the listener's attention must acknowledge that getting one's music heard is a de facto competition. Those who say otherwise are being disingenuous. They still want to compete, just on terms more favorable or less obvious: being skilled at social media, having industry connections or a trust fund, and so forth.
+
 ${'  ' || `
-// TODO: Competition.
-To respect the listener's attention is to acknowledge that getting heard is a competition. Those who say otherwise simply want to compete under different, less obvious terms.
-
-The movements founded by minorities, such as hip hop, are hyper competitive, proving that the desire to say that music isn't a competition is ultimately a facet of privilege.
-
-Like everyone in hip hop, the Bobtail Yearlings reserve the highest respect for others with the same aspirations that we have, even if they're technically our rivals. Game recognizes game.
+// TODO: Make this paragraph flow better.
 `}
+
+This is why every movement founded by minorities is highly competitive: Disadvantage forces you to engage with actual reality, not the feel-good fantasy in your head. All of which is to say, it's not ruthless to compete. Like rappers in hip hop, the Bobtail Yearlings have the highest respect for other bands with ambitions like ours.
 
 ##### Historical consequence
 
