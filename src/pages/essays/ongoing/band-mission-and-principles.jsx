@@ -47,7 +47,7 @@ Of course, we won't hesitate to criticize indie rock as an ideology. But we'll a
 
 ##### Competition
 
-Any artist who respects the listener's attention will acknowledge that getting heard is a de facto competition. Those who say otherwise are being disingenuous. They still want to compete, just on terms more favorable or less obvious: being skilled at social media, having industry connections or a trust fund, and so on.
+Any artist who respects the listener will acknowledge that getting heard is a de facto competition. Those who say otherwise are being disingenuous. They still want to compete, just on more favorable or less obvious terms: being skilled at social media, having industry connections or a trust fund, and so on.
 
 This is why every movement founded by minorities is highly competitive: Disadvantage forces you to engage with the actual reality, not some cozy fantasy in your head. And so the Bobtail Yearlings compete, just like rappers do. It's realistic, not ruthless, and we have the highest respect for any band with ambitions like ours.
 
