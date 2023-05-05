@@ -27,6 +27,12 @@ In classical music, the best artists got *better* with age. Beethoven, for one, 
 
 For this reason, the Bobtail Yearlings plan to be a working band for as long as Bennett is alive and well. There will never be a hiatus. And we'll ensure that our best works always lie ahead of us.
 
+##### Competition
+
+Any artist who respects the listener will acknowledge that getting heard is a de facto competition. Those who say otherwise are being disingenuous. They still want to compete, just on more favorable or less obvious terms: being skilled at social media, having industry connections or a trust fund, and so on.
+
+This is why every movement founded by minorities is highly competitive: Disadvantage forces you to engage with the actual reality, not some cozy fantasy in your head. And so the Bobtail Yearlings compete, just like rappers do. It's realistic, not ruthless, and we have the highest respect for any band with ambitions like ours.
+
 ##### Interdependence
 
 To avoid sharing their earnings, indie artists spend time and energy on administrative work that would otherwise be handled by business partners. And some take this a step further, by choosing to create without collaboration. But what competitive edge could a solo artist working part time possibly have, to make them the best in the *world*?
@@ -44,12 +50,6 @@ And so the Bobtail Yearlings prefer to work with business partners who take prid
 If the Bobtail Yearlings are to achieve our mission, then others should find it rewarding to interact with us. And it should feel just as meaningful for us to work with each other. So each Yearling will vow to be a model of emotional intelligence, who'll treat others with empathy, kindness, and respect.
 
 Of course, we won't hesitate to criticize indie rock as an ideology. But we'll always remind ourselves that those who've devoted their lives to it are people like us, and they're the heroes of their own stories.
-
-##### Competition
-
-Any artist who respects the listener will acknowledge that getting heard is a de facto competition. Those who say otherwise are being disingenuous. They still want to compete, just on more favorable or less obvious terms: being skilled at social media, having industry connections or a trust fund, and so on.
-
-This is why every movement founded by minorities is highly competitive: Disadvantage forces you to engage with the actual reality, not some cozy fantasy in your head. And so the Bobtail Yearlings compete, just like rappers do. It's realistic, not ruthless, and we have the highest respect for any band with ambitions like ours.
 
 ##### Helping others
 
@@ -79,7 +79,7 @@ Ongoing earnings from our extracurricular projects will first go to new bandmate
 
 ##### Recruitment
 
-The Bobtail Yearlings believe in the importance of gender diversity, and we'll do our best to achieve it when recruiting new bandmates.
+The Bobtail Yearlings recognize the importance of gender diversity, and so we'll do our best to achieve it when recruiting new bandmates.
 
 We also understand the need to juggle band life with adult responsibilities. So if bringing a life partner into the band can help a longtime bandmate maintain their commitment, then we'll do our best to make this work.
     `,
