@@ -15,16 +15,6 @@ const Component = () => (
 
 ### Our guiding principles
 
-##### Competition
-
-Any artist who respects the listener's attention must acknowledge that getting one's music heard is a de facto competition. Those who say otherwise are being disingenuous. They still want to compete, just on terms more favorable or less obvious: being skilled at social media, having industry connections or a trust fund, and so forth.
-
-${'  ' || `
-// TODO: Make this paragraph flow better.
-`}
-
-This is why every movement founded by minorities is highly competitive: Disadvantage forces you to engage with actual reality, not the feel-good fantasy in your head. All of which is to say, it's not ruthless to compete. Like rappers in hip hop, the Bobtail Yearlings have the highest respect for other bands with ambitions like ours.
-
 ##### Historical consequence
 
 In the past, the rock music of the English-speaking world was [*the* canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446). It was always the most original, and often the most accomplished. But today's indie rock isn't better than any foreign canon out there, which is why it seems so inconsequential.
@@ -49,17 +39,23 @@ Studies show that people actually *dislike* creativity— and [experts more so](
 
 And so the Bobtail Yearlings prefer to work with business partners who take pride in knowing how to do business, not in recognizing great art.
 
+##### Emotional intelligence
+
+If the Bobtail Yearlings are to achieve our mission, then others should find it rewarding to interact with us. And it should feel just as meaningful for us to work with each other. So each Yearling will vow to be a model of emotional intelligence, who'll treat others with empathy, kindness, and respect.
+
+Of course, we won't hesitate to criticize indie rock as an ideology. But we'll always remind ourselves that those who've devoted their lives to it are people like us, and they're the heroes of their own stories.
+
+##### Competition
+
+Any artist who respects the listener's attention must acknowledge that getting heard is a de facto competition. Those who say otherwise are being disingenuous. They still want to compete, just on terms more favorable or less obvious: being skilled at social media, having industry connections or a trust fund, and so on.
+
+This is why every movement founded by minorities is highly competitive: Disadvantage forces you to engage with the actual reality, not some feel-good fantasy in your head. And so the Bobtail Yearlings compete, just like rappers do. It's realistic, not ruthless, and we have the highest respect for any band with ambitions like ours.
+
 ##### Helping others
 
 Mr. Rogers once told us that when times are bad, we can [look for the helpers](https://www.goodreads.com/quotes/198594). Well, times are bad in rock now… so why aren't there more helpers? It's because indie artists are celebrated for empowering themselves— and self-empowerment isn't a trait that lends itself to helping others.
 
-But the Bobtail Yearlings promise to be a helper. We'll do so by exploring collaborative opportunities with our [BYCombo](https://bycombo.com) bands. And we'll be generous with the tools that contribute to our own artistic success, such as [*Bobtail Method*](https://bobtailmethod.com) and [*Bobtail Dominoes*](https://bobtaildominoes.com).
-
-##### Emotional intelligence
-
-If the Bobtail Yearlings are to achieve our mission, then others should find it rewarding to interact with us. And it should feel just as meaningful for us to work with each other. So each of us will vow to be a model of emotional intelligence, who'll treat others with empathy, kindness, and respect.
-
-Of course, we won't hesitate to criticize indie rock as an ideology. But we'll always remind ourselves that those who've devoted their lives to it are people like us, and they're the heroes of their own stories.
+But the Bobtail Yearlings promise to be a helper. We'll do so by exploring collaborative opportunities with our [BYCombo](https://bycombo.com) bands, and by being generous with the tools that contribute to our own artistic success, such as [*Bobtail Method*](https://bobtailmethod.com) and [*Bobtail Dominoes*](https://bobtaildominoes.com).
 
 ##### Roles
 
@@ -73,7 +69,7 @@ Ideally, we'll have one bandmate whose sole responsibility is to handle administ
 
 Each Yearling will work forty hours a week to benefit the band, for the duration of their time in the band. This work can largely be self-directed. Examples include practicing one's instrument, composing song parts, and so forth. Naturally, touring and performing count as band work. Of course, we'll take holidays, vacations, and sick days off.
 
-For each project, a bandmate or two will be assigned the role of project manager. Some projects may require certain bandmates to learn new skills in different domains, within reasonable expectations. If this is ever the case, the project manager will work with them to ensure that needed resources are provided.
+For each artistic project, a bandmate or two will be assigned the role of project manager. Some projects may require certain bandmates to learn new skills in different domains, within reasonable expectations. If this is ever the case, the project manager will work with them to ensure that needed resources are provided.
 
 ##### Compensation
 
