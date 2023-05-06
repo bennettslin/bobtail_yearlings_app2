@@ -29,7 +29,7 @@ For this reason, the Bobtail Yearlings plan to be a working band for as long as 
 
 ##### Competition
 
-Any artist who respects the listener will acknowledge that getting heard is a de facto competition. Those who say otherwise are being disingenuous. They still want to compete, just on more favorable or less obvious terms: being skilled at social media, having industry connections or a trust fund, and so on.
+Any artist who respects the listener will acknowledge that getting heard is a de facto competition. Those who say otherwise are being disingenuous. They still want to compete, just on more favorable and less obvious terms: being skilled at social media, having industry connections or a trust fund, and so on.
 
 This is why every movement started by minorities is highly competitive: Disadvantage forces you to engage with the actual reality, not some cozy fantasy in your head. And so the Bobtail Yearlings compete, just like rappers do. It's realistic, not ruthless, and we have the highest respect for any band with ambitions like ours.
 
