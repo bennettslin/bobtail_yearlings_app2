@@ -55,7 +55,7 @@ Of course, we won't hesitate to criticize indie rock as an ideology. But we'll a
 
 Mr. Rogers once told us that when times are bad, we can [look for the helpers](https://www.goodreads.com/quotes/198594). Well, times are bad in rock now… so why aren't there more helpers? It's because indie artists are celebrated for empowering themselves— and self-empowerment isn't a trait that lends itself to helping others.
 
-But the Bobtail Yearlings promise to be a helper. We'll do so by exploring collaborative opportunities with our [BYCombo](https://bycombo.com) bands, and by being generous with the tools that contribute to our own artistic success, such as [*Bobtail Method*](https://bobtailmethod.com) and [*Bobtail Dominoes*](https://bobtaildominoes.com).
+But the Bobtail Yearlings promise to be a helper. We'll do so by being generous with our creative tools, such as [*Bobtail Method*](https://bobtailmethod.com) and [*Bobtail Dominoes*](https://bobtaildominoes.com), and by collaborating with up-and-coming [BYCombo](https://bycombo.com) bands. In the long term, we'll draw from band funds to create scholarships for BYCombo's veteran artists.
 
 ##### Roles
 
@@ -75,7 +75,7 @@ For each artistic project, a bandmate or two will be assigned the role of projec
 
 Everyone who's a Yearling during the creation of a project will be given equal credit and royalties. This includes the admin, as well as artists of other mediums. Of course, we're free to mention who contributed which parts, as Lennon and McCartney often did.
 
-Ongoing earnings from our extracurricular projects will first go to new bandmates to grow their savings, if needed, up to a fixed limit. Any leftover amount will then go into our general band fund.
+Ongoing earnings from [*Yearling's Bobtail*](https://www.yearlingsbobtail.com), as well as our extracurricular projects, will first go to new bandmates to grow their savings, up to a fixed limit. Any leftover amount will then go into our general band fund.
 
 ##### Recruitment
 
