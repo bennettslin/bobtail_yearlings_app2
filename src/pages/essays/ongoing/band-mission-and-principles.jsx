@@ -59,7 +59,7 @@ But the Bobtail Yearlings promise to be a helper. We'll do so by being generous 
 
 ##### Roles
 
-The band leader decides on the overall vision for the Bobtail Yearlings. For now, Bennett is our band leader, since this is the de facto reality. However, in the long term we should be open to having multiple band leaders, or even none at all.
+The band leader decides the overall vision for the Bobtail Yearlings. For now, Bennett is our band leader, since this is the de facto reality. However, in the long term we should be open to having multiple band leaders, or even none at all.
 
 The consequential works of this century will almost certainly combine different mediums in unprecedented ways. As such, we'll always be open to bringing in new bandmates who work in other artistic mediums.
 
@@ -79,7 +79,7 @@ Ongoing earnings from [*Yearling's Bobtail*](https://www.yearlingsbobtail.com), 
 
 ##### Recruitment
 
-The Bobtail Yearlings recognize the importance of gender diversity, and so we'll do our best to achieve it when recruiting new bandmates.
+The Bobtail Yearlings believe in the importance of gender diversity, and so we'll do our best to achieve it when recruiting new bandmates.
 
 We also understand the need to juggle band life with adult responsibilities. So if bringing a life partner into the band can help a longtime bandmate maintain their commitment, then we'll do our best to make this work.
     `,
