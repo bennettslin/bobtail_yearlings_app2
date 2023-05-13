@@ -29,7 +29,7 @@ For this reason, the Bobtail Yearlings plan to be a working band for as long as 
 
 ##### Competition
 
-Any artist who respects the listener will acknowledge that getting heard is a de facto competition. Those who say otherwise are being disingenuous. They still want to compete, just on more favorable and less obvious terms: being skilled at social media, having industry connections or a trust fund, and so on.
+Any artist who respects the listener will acknowledge that getting heard is a de facto competition. Those who say otherwise are being disingenuous. They still want to compete— just on terms more favorable to them and less obvious to others: being skilled at social media, having industry connections or a trust fund, and so on.
 
 This is why every movement started by minorities is highly competitive: Disadvantage forces you to engage with the actual reality, not some cozy fantasy in your head. And so the Bobtail Yearlings compete, just like rappers do. It's realistic, not ruthless, and we have the highest respect for any band with ambitions like ours.
 
@@ -43,7 +43,7 @@ As such, the Bobtail Yearlings will readily work with business partners, allowin
 
 Studies show that people actually *dislike* creativity— and [experts more so](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275) than anyone else. This is why, time and again, business partners who care *most* about backing great art— who thus pride themselves on knowing what great art looks like— end up backing the *least* creative works.
 
-And so the Bobtail Yearlings prefer to work with business partners who take pride in knowing how to do business, not in recognizing great art.
+And so the Bobtail Yearlings prefer to work with business partners who take pride in knowing how to do business, *not* in recognizing great art.
 
 ##### Emotional intelligence
 
