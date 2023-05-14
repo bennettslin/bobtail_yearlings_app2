@@ -11,7 +11,7 @@ const Component = () => (
             body: `
 ### Our mission statement
 
-**The Bobtail Yearlings aspire to be the most historically consequential rock band of the 21st century! We'll do so by leading the interdependence movement; amassing a solid body of creative works; and providing tools for future bands to surpass us.**
+**The Bobtail Yearlings aspire to be the most historically consequential rock band of the 21st century! We'll do so by leading the interdependence movement; amassing a solid body of creative works; and helping future bands to surpass us.**
 
 ### Our guiding principles
 
