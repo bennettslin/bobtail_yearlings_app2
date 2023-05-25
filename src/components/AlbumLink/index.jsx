@@ -3,7 +3,7 @@ import cx from 'classnames'
 import Anchor from '../../components/Anchor'
 import Image from '../Image'
 import albumLink from '../../assets/images/albumLink.png'
-import { getSmartQuotedText } from '../../utils/format/smartQuote'
+import { getFormattedText } from '../../utils/format'
 import './style'
 
 const AlbumLink = () => {
@@ -58,7 +58,7 @@ const AlbumLink = () => {
                         ),
                     }}
                 >
-                    <em>{getSmartQuotedText(`Yearling's Bobtail`)}</em>
+                    <em>{getFormattedText(`Yearling's Bobtail`)}</em>
                 </div>
             </div>
         </Anchor>

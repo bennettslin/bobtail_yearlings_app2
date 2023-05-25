@@ -5,7 +5,7 @@ import ReactMarkdown from 'react-markdown'
 import Anchor from '../Anchor'
 import Heading from '../Heading'
 import Paragraph from '../Paragraph'
-import { getSmartQuotedText } from '../../utils/format/smartQuote'
+import { getFormattedText } from '../../utils/format'
 import './style'
 
 const Markdown = ({
@@ -34,7 +34,7 @@ const Markdown = ({
             },
         }}
     >
-        {getSmartQuotedText(children)}
+        {getFormattedText(children)}
     </ReactMarkdown>
 )
 
