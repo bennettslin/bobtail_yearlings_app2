@@ -8,6 +8,7 @@ const Component = () => (
     <Page
         {...{
             ...pagesMap[id],
+            metaDescription: `Our mission statement and guiding principles.`,
             body: `
 ### Our mission statement
 

@@ -4,6 +4,7 @@ import Page from '../../containers/Page'
 const Component = () => (
     <Page
         {...{
+            metaDescription: `Check out our other projects!`,
             body: `
 [*Bobtail Dominoes*](https://www.bobtaildominoes.com/)${'  '}
 Our musical tile game.

@@ -7,6 +7,7 @@ import { ESSAYS_PAGE } from '../../constants/pages'
 const Component = () => (
     <Page
         {...{
+            metaDescription: `Various writings over the years.`,
             body: getMarkdownLinksForRootPage({
                 topLevelPage: ESSAYS_PAGE,
                 pagesList,

@@ -4,6 +4,7 @@ import Page from '../../containers/Page'
 const Component = () => (
     <Page
         {...{
+            metaDescription: `A list of our band members.`,
             body: `
 **Bennett Lin** (he/him)${'  '}
 lead vocal, guitar

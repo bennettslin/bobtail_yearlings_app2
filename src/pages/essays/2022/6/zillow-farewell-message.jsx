@@ -12,6 +12,7 @@ const Component = () => (
     <Page
         {...{
             ...pagesMap[id],
+            metaDescription: `A parting message to my Zillow teammates.`,
             body: [
                 `
 *I worked as a frontend developer at Zillow for seven years. Before leaving, I wrote this farewell message to my teammates on a zWiki page. (The zWiki is Zillow's internal wiki system. Everything internal at Zillow is prefixed with a "z.")*
