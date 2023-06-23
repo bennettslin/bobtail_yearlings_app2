@@ -16,7 +16,7 @@ ${'  ' || `
 // TODO: Is leading the revolution and paving the way essentially the same thing?
 `}
 
-**The Bobtail Yearlings aspire to be the most historically consequential rock band of the 21st century! We'll do so by leading the interdependence revolution; amassing a solid body of creative works; and paving the way for future bands to surpass us.**
+**The Bobtail Yearlings aspire to be the most historically consequential rock band of the 21st century! We'll do so by leading the interdependence revolution while amassing a solid body of creative works.**
 
 ### Our guiding principles
 
@@ -40,7 +40,7 @@ This is why every movement started by minorities is highly competitive: Disadvan
 
 ##### Interdependence
 
-To avoid sharing their earnings, indie artists spend time and energy on administrative work that would otherwise be handled by business partners. And some take this a step further, by choosing to create without collaboration. But what competitive edge could a solo artist working part time possibly have, to make them the best in the *world*?
+To avoid sharing their earnings, indie artists spend time and energy on administrative work that would otherwise be handled by business partners. And some take this a step further, by choosing to create without collaboration. But what competitive edge could a solo artist working part-time possibly have, to make them the best in the *world*?
 
 As such, the Bobtail Yearlings will readily work with business partners, allowing us to focus solely on our craft. We'll also periodically bring in new bandmates to be equal collaborators, allowing us to create works greater than the sum of their parts.
 
@@ -52,7 +52,7 @@ And so the Bobtail Yearlings prefer to work with business partners who take prid
 
 ##### Emotional intelligence
 
-If the Bobtail Yearlings are to achieve our mission, then others should find it rewarding to interact with us. And it should feel just as meaningful for us to work with each other. So each Yearling will vow to be a model of emotional intelligence, who'll treat others with empathy, kindness, and respect.
+If the Bobtail Yearlings are to achieve our mission, then others should find it rewarding to interact with us. And it should feel just as meaningful for us to work with each other. So each Yearling will vow to be a model of emotional intelligence, treating others with empathy, kindness, and respect.
 
 Of course, we won't hesitate to criticize indie rock as an ideology. But we'll always remind ourselves that those who've devoted their lives to it are people like us, and they're the heroes of their own stories.
 
