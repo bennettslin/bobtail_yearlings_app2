@@ -2,19 +2,15 @@ import React from 'react'
 import Page from '../../../containers/Page'
 import { pagesMap } from '../../../content/essays/ongoing'
 
-const id = 'band-mission-and-principles'
+const id = 'our-mission-principles-and-terms'
 
 const Component = () => (
     <Page
         {...{
             ...pagesMap[id],
-            metaDescription: `Our mission statement and guiding principles.`,
+            metaDescription: `Our mission statement, guiding principles, and band terms.`,
             body: `
 ### Our mission statement
-
-${'  ' || `
-// TODO: Is leading the revolution and paving the way essentially the same thing?
-`}
 
 **The Bobtail Yearlings aspire to be the most historically consequential rock band of the 21st century! We'll do so by leading the interdependence revolution while amassing a solid body of creative works.**
 
@@ -62,9 +58,11 @@ Mr. Rogers once told us that when times are bad, we can [look for the helpers](h
 
 But the Bobtail Yearlings promise to be a helper. We'll do so by being generous with our creative tools, such as [*Bobtail Method*](https://bobtailmethod.com) and [*Bobtail Dominoes*](https://bobtaildominoes.com), and by collaborating with up-and-coming [BYCombo](https://bycombo.com) bands. In the long term, we'll draw from band funds to create scholarships for BYCombo's most promising artists.
 
+### Our band terms
+
 ##### Roles
 
-The band leader decides the overall vision for the Bobtail Yearlings. For now, Bennett is our band leader, since this is the de facto reality. However, in the long term we should be open to having multiple band leaders, or even none at all.
+The band leader decides the overall vision for the Bobtail Yearlings. For now, Bennett is our band leader, since this is the de facto reality. However, in the long term we should be open to having multiple leaders.
 
 The consequential works of this century will almost certainly combine different mediums in unprecedented ways. As such, we'll always be open to bringing in new bandmates who work in other artistic mediums.
 
@@ -80,13 +78,17 @@ For each artistic project, a bandmate or two will be assigned the role of projec
 
 Everyone who's a Yearling during the creation of a project will be given equal credit and royalties. This includes the admin, as well as artists of other mediums. Of course, we're free to mention who contributed which parts, as Lennon and McCartney often did.
 
-Ongoing earnings from [*Yearling's Bobtail*](https://www.yearlingsbobtail.com), as well as our extracurricular projects, will first go to new bandmates to grow their savings, up to a fixed limit. Any leftover amount will then go into our general band fund.
+Earnings from live performances, as well as royalties from [*Yearling's Bobtail*](https://www.yearlingsbobtail.com) and our extracurricular projects, will first be split evenly amongst new bandmates to grow their savings, up to a fixed limit. The rest will then be split evenly amongst all bandmates.
 
 ##### Recruitment
 
-The Bobtail Yearlings believe in the importance of gender diversity, and so we'll do our best to achieve it when recruiting new bandmates.
+The Bobtail Yearlings believe in the importance of gender diversity, and we'll do our best to achieve it when recruiting new bandmates.
 
 We also understand the need to juggle band life with adult responsibilities. So if bringing a life partner into the band can help a longtime bandmate maintain their commitment, then we'll do our best to make this work.
+
+##### Termination
+
+Hopefully, we should never need to fire a bandmate. But if this needs to happen, the band leaders will consult every other bandmate before making the final decision.
     `,
         }}
     />

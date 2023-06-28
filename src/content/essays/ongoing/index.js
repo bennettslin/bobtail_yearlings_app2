@@ -3,10 +3,10 @@ import { ESSAYS_PAGE } from '../../../constants/pages'
 
 export const pageConfigs = [
     {
-        id: `band-mission-and-principles`,
-        title: `Band mission and principles`,
+        id: `our-mission-principles-and-terms`,
+        title: `Our mission, principles, and terms`,
         subpath: `ongoing`,
-        date: { year: 2023, month: 5, updated: true },
+        date: { year: 2023, month: 6, updated: true },
     },
     // {
     //     id: `five-vowels-of-historical-consequence`,
