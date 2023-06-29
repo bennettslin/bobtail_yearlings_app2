@@ -90,7 +90,7 @@ We also understand the need to juggle band life with adult responsibilities. So 
 
 ##### Termination
 
-Hopefully, we should never need to fire a bandmate. But if this needs to happen, the band leaders will consult every other bandmate before making the final decision.
+Hopefully, we should never need to fire a bandmate. But if this needs to happen, the band leaders will consult with all other bandmates before making the final decision.
     `,
         }}
     />
