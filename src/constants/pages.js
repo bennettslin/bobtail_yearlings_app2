@@ -7,7 +7,7 @@ export const NOT_FOUND_PAGE = '404'
 
 export const BAND_PAGE = 'band'
 export const SHOWS_PAGE = 'shows'
-export const ESSAYS_PAGE = 'essays'
+export const WRITINGS_PAGE = 'writings'
 export const CONTACT_PAGE = 'contact'
 export const LINKS_PAGE = 'links'
 

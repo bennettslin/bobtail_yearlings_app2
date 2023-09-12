@@ -1,6 +1,6 @@
 import React from 'react'
 import Page from '../../../../containers/Page'
-import { pagesMap } from '../../../../content/essays/2021'
+import { pagesMap } from '../../../../content/writings/2021'
 import { DOMAIN_NAME } from '../../../../constants/pages'
 
 const getUrlForPdfName = page => `${DOMAIN_NAME}/docs/${page}.pdf`

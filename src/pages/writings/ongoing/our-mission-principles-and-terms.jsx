@@ -1,6 +1,6 @@
 import React from 'react'
 import Page from '../../../containers/Page'
-import { pagesMap } from '../../../content/essays/ongoing'
+import { pagesMap } from '../../../content/writings/ongoing'
 
 const id = 'our-mission-principles-and-terms'
 
@@ -20,7 +20,7 @@ const Component = () => (
 
 In the past, the rock music of the English-speaking world was [*the* canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446). It was always the most original, and often the most accomplished. But today's indie rock isn't better than any foreign canon out there, which is why it seems so inconsequential.
 
-To make history once again, bands need to be the best in the *world*— and this requires deliberate effort. So every artistic decision the Bobtail Yearlings make will be informed by our [five vowels of historical consequence](https://bobtailyearlings.com/essays/ongoing/five-vowels-of-historical-consequence).
+To make history once again, bands need to be the best in the *world*— and this requires deliberate effort. So every artistic decision the Bobtail Yearlings make will be informed by our [five vowels of historical consequence](https://bobtailyearlings.com/writings/ongoing/five-vowels-of-historical-consequence).
 
 ##### Longevity
 

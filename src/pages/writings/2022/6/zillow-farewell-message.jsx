@@ -1,10 +1,10 @@
 import React from 'react'
 import Page from '../../../../containers/Page'
-import { pagesMap } from '../../../../content/essays/2022'
+import { pagesMap } from '../../../../content/writings/2022'
 import Image from '../../../../components/Image'
-import demoPhoto from '../../../../assets/images/essays/2022/6/zillow-farewell-message/bennett_lin-133b10c35r20m20.jpg'
-import bandPhoto from '../../../../assets/images/essays/2022/6/zillow-farewell-message/BobtailYearlingsMiscellany.jpg'
-import teamPhoto from '../../../../assets/images/essays/2022/6/zillow-farewell-message/IMG_9427a.jpg'
+import demoPhoto from '../../../../assets/images/writings/2022/6/zillow-farewell-message/bennett_lin-133b10c35r20m20.jpg'
+import bandPhoto from '../../../../assets/images/writings/2022/6/zillow-farewell-message/BobtailYearlingsMiscellany.jpg'
+import teamPhoto from '../../../../assets/images/writings/2022/6/zillow-farewell-message/IMG_9427a.jpg'
 
 const id = 'zillow-farewell-message'
 

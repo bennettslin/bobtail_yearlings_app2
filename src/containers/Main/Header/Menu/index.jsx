@@ -4,7 +4,7 @@ import HeaderButton from '../HeaderButton'
 import {
     BAND_PAGE,
     CONTACT_PAGE,
-    ESSAYS_PAGE,
+    WRITINGS_PAGE,
     LINKS_PAGE,
 } from '../../../../constants/pages'
 import './style'
@@ -20,8 +20,8 @@ const Menu = () => (
         <HeaderButton {...{ pagePath: BAND_PAGE }}>
             Band
         </HeaderButton>
-        <HeaderButton {...{ pagePath: ESSAYS_PAGE }}>
-            Essays
+        <HeaderButton {...{ pagePath: WRITINGS_PAGE }}>
+            Writings
         </HeaderButton>
         <HeaderButton {...{ pagePath: CONTACT_PAGE }}>
             Contact

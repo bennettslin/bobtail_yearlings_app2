@@ -1,6 +1,6 @@
 import React from 'react'
 import Page from '../../../../containers/Page'
-import { pagesMap } from '../../../../content/essays/2023'
+import { pagesMap } from '../../../../content/writings/2023'
 
 const id = 'science-explains-why-todays-rock-is-worse'
 
