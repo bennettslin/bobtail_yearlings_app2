@@ -1,7 +1,7 @@
 import React from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import Popup from '../../Popup'
-import FollowButtons from '../../FollowButtons'
+// import FollowButtons from '../../FollowButtons'
 import MailingList from '../../MailingList'
 import UpsellDisableLink from './DisableLink'
 import { updateIsUpsellShown } from '../../../redux/option/action'
@@ -25,7 +25,7 @@ const UpsellPopup = () => {
             }}
         >
             <MailingList />
-            <FollowButtons />
+            {/* <FollowButtons /> */}
             <UpsellDisableLink />
         </Popup>
     )

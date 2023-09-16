@@ -4,7 +4,7 @@ import { useSelector } from 'react-redux'
 import { CSSTransition } from 'react-transition-group'
 import Flex from '../../../components/Flex'
 import MailingList from '../../../components/MailingList'
-import FollowButtons from '../../../components/FollowButtons'
+// import FollowButtons from '../../../components/FollowButtons'
 import StyledFrame from '../StyledFrame'
 import YearlingsBobtailUpsell from './YearlingsBobtailUpsell'
 import { mapIsUpsellShown } from '../../../redux/option/selector'
@@ -59,7 +59,7 @@ const MainFooter = () => {
                         }}
                     >
                         <MailingList />
-                        <FollowButtons />
+                        {/* <FollowButtons /> */}
                     </Flex>
                     <YearlingsBobtailUpsell />
                 </Flex>
