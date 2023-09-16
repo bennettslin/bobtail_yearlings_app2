@@ -1,8 +1,6 @@
 import React from 'react'
 import cx from 'classnames'
 import Flex from '../Flex'
-import FacebookButton from './FollowButton/FacebookButton'
-import TwitterButton from './FollowButton/TwitterButton'
 import './style'
 
 const FollowButtons = () => (
@@ -24,8 +22,6 @@ const FollowButtons = () => (
                 justifyContent: 'normal',
             }}
         >
-            <FacebookButton />
-            <TwitterButton />
         </Flex>
     </Flex>
 )
