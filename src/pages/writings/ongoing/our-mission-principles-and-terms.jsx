@@ -54,9 +54,9 @@ Of course, we won't hesitate to criticize indie rock as an ideology. But we'll a
 
 ##### Helping others
 
-Mr. Rogers once told us that when times are bad, we can [look for the helpers](https://www.goodreads.com/quotes/198594). Well, times are bad in rock now… so why aren't there more helpers? It's because indie artists are celebrated for empowering themselves— and self-empowerment isn't a trait that lends itself to helping others.
+Mr. Rogers told us that when times are bad, we can [look for the helpers](https://www.goodreads.com/quotes/198594). Well, times are bad in rock now… so why aren't there more helpers?
 
-But the Bobtail Yearlings promise to be a helper. We'll do so by being generous with our creative tools, such as [*Bobtail Method*](https://bobtailmethod.com) and [*Bobtail Dominoes*](https://bobtaildominoes.com), and by collaborating with up-and-coming [BYCombo](https://bycombo.com) bands. In the long term, we'll help create scholarships for BYCombo's most promising artists.
+Well, the Bobtail Yearlings promise to be a helper. We'll do so by being generous with our creative tools, such as [*Bobtail Method*](https://bobtailmethod.com) and [*Bobtail Dominoes*](https://bobtaildominoes.com), and by collaborating with up-and-coming [BYCombo](https://bycombo.com) bands. In the long term, we'll help create scholarships for BYCombo's most promising artists.
 
 ### Our band terms
 
