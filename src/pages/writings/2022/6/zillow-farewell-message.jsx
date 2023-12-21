@@ -2,9 +2,10 @@ import React from 'react'
 import Page from '../../../../containers/Page'
 import { pagesMap } from '../../../../content/writings/2022'
 import Image from '../../../../components/Image'
-import demoPhoto from '../../../../assets/images/writings/2022/6/zillow-farewell-message/bennett_lin-133b10c35r20m20.jpg'
-import bandPhoto from '../../../../assets/images/writings/2022/6/zillow-farewell-message/BobtailYearlingsMiscellany.jpg'
-import teamPhoto from '../../../../assets/images/writings/2022/6/zillow-farewell-message/IMG_9427a.jpg'
+import promoPhoto from '../../../../assets/images/writings/2022/6/zillow-farewell-message/promo.jpg'
+import showPhoto from '../../../../assets/images/writings/2022/6/zillow-farewell-message/show.jpg'
+import teamPhoto from '../../../../assets/images/writings/2022/6/zillow-farewell-message/team.jpg'
+import ticketPhoto from '../../../../assets/images/writings/2022/6/zillow-farewell-message/ticket.jpg'
 
 const id = 'zillow-farewell-message'
 
@@ -30,7 +31,7 @@ I spent my college years in the Bay Area, playing in a band with friends. We wer
                     <Image
                         isPortrait
                         {...{
-                            src: demoPhoto,
+                            src: promoPhoto,
                             caption: `Embarrassing promo photo for the demo.`,
                         }}
                     />
@@ -43,7 +44,7 @@ Not knowing what else to do, I moved to New York and got an MA in music composit
                 `, (
                     <Image
                         {...{
-                            src: bandPhoto,
+                            src: showPhoto,
                             caption: `The New York lineup of the Bobtail Yearlings.`,
                         }}
                     />
@@ -55,7 +56,14 @@ Unfortunately, my advisor retired as soon as I arrived at UW, and no one else sp
 With no chance of getting a PhD, I wrapped up my studies with just another MA. Being in Seattle, I couldn't help but hear about the startup scene. Still stinging from my missed opportunity with the record labels, I had an idea for a startup of my own: a band incubator to connect ambitious musicians. Hoping to find a technical cofounder, I attended tech meetups. But no one wanted to join my startup. I mostly ended up just scoring free food.
 
 However, through these meetups, I kept hearing about something called a coding bootcamp. It seemed too good to be true. I applied and was accepted into General Assembly's second cohort. One day, we took a field trip to a company called Zillow. The name sounded familiar. As I stepped into the office, I realized I'd been there before, for a tech meetup.
-
+                `, (
+                    <Image
+                        {...{
+                            src: ticketPhoto,
+                            caption: `I scored a free Zillow mug that night. Little did I know, my cupboard would soon be filled with Zillow mugs.`,
+                        }}
+                    />
+                ), `
 ### The Zillow part
 
 We sat in the classroom on Floor 29, as Josh Ritter answered our questions. Everyone we met was so warm and friendly. I loved their energy and spirit. Admittedly, the free snacks and oceanside view also won me over! I vowed right then and there to work at Zillow. After applying, I spent every waking hour of the next few weeks preparing for the interview. I got the offer.
