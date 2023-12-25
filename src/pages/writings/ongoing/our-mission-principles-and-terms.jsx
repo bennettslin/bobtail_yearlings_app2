@@ -50,7 +50,7 @@ And so the Bobtail Yearlings prefer to work with business partners who take prid
 
 If the Bobtail Yearlings are to achieve our mission, then others should find it rewarding to interact with us. And it should feel just as meaningful for us to work with each other. So each Yearling will strive to be a model of emotional intelligence, treating others with empathy, kindness, and respect.
 
-This means we'll only ever attack systems and ideologies, never people as individuals. We'll remind ourselves that others are like us, and they're the heroes of their own stories.
+This means we'll only attack systems, institutions, and ideologies— never individuals. After all, those we disagree with are still people like us, and they're the heroes of their own stories.
 
 ##### Helping others
 
