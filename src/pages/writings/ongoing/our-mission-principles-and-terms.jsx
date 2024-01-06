@@ -36,7 +36,7 @@ This is why every movement started by minorities is highly competitive: Disadvan
 
 ##### Interdependence
 
-To avoid sharing their earnings, indie artists spend time and energy on administrative work that would otherwise be handled by business partners. And some take this a step further, by choosing to create without collaboration. But what competitive edge could a solo artist working part-time possibly have, to make them the best in the *world*?
+To avoid sharing their earnings, indie artists spend time and energy on business matters that could otherwise be handled by partners. And some go a step further, by choosing to create without collaboration. But what competitive edge could a solo artist working part-time possibly have, to make them the best in the *world*?
 
 As such, the Bobtail Yearlings will readily work with business partners, allowing us to focus solely on our craft. We'll also periodically bring in new bandmates to be equal collaborators, allowing us to create works greater than the sum of their parts.
 
@@ -50,13 +50,13 @@ And so the Bobtail Yearlings prefer to work with business partners who take prid
 
 If the Bobtail Yearlings are to achieve our mission, then others should find it rewarding to interact with us. And it should feel just as meaningful for us to work with each other. So each Yearling will strive to be a model of emotional intelligence, treating others with empathy, kindness, and respect.
 
-This means we'll only attack systems, institutions, and ideologies— never people as individuals. After all, we'd rather win them over to our side. And even if we can't, we'll still remind ourselves that they're the heroes of their own stories.
+This means we'll only attack systems, institutions, and ideologies— never people as individuals. After all, we'd rather win them over to our side. And if we ever end up on the wrong side ourselves, we'll admit our mistake and make amends.
 
 ##### Helping others
 
 Mr. Rogers told us that when times are bad, we can [look for the helpers](https://www.goodreads.com/quotes/198594). Well, times are bad in rock now… so why aren't there more helpers?
 
-Well, the Bobtail Yearlings promise to be a helper. We'll do so by being generous with our creative tools, such as [*Bobtail Method*](https://bobtailmethod.com) and [*Bobtail Dominoes*](https://bobtaildominoes.com), and by collaborating with up-and-coming [BYCombo](https://bycombo.com) bands. In the long term, we'll help create scholarships for BYCombo's most promising artists.
+But the Bobtail Yearlings promise to be helpers. We'll do so by being generous with our creative tools, such as [*Bobtail Method*](https://bobtailmethod.com) and [*Bobtail Dominoes*](https://bobtaildominoes.com), and by collaborating with up-and-coming [BYCombo](https://bycombo.com) bands. In the long term, we'll help create scholarships for BYCombo's most promising artists.
 
 ### Our band terms
 
