@@ -36,15 +36,15 @@ This is why every movement started by minorities is highly competitive: Disadvan
 
 ##### Interdependence
 
-To avoid sharing their earnings, indie artists spend time and energy on business matters that could otherwise be handled by partners. And some go a step further, by choosing to create without collaboration. But what competitive edge could a solo artist working part-time possibly have, to make them the best in the *world*?
+To avoid sharing their earnings, indie artists spend time and energy on business matters that could be handled by partners instead. And some take this a step further, by creating without collaboration. But what competitive edge could a solo artist working part-time possibly have, to make them the best in the *world*?
 
-As such, the Bobtail Yearlings will readily work with business partners, allowing us to focus solely on our craft. We'll also periodically bring in new bandmates to be equal collaborators, allowing us to create works greater than the sum of our parts.
+And so the Bobtail Yearlings will readily work with business partners, allowing us to focus solely on our craft. We'll also periodically bring in new bandmates to be equal collaborators, allowing us to create works greater than the sum of our parts.
 
 ##### Business partners
 
-Studies show that people actually *dislike* creativity— and [experts more so](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275) than anyone else. This is why, time and again, business partners who care *most* about backing great art— who thus pride themselves on knowing what great art looks like— end up backing the *least* creative works.
+Studies show that people *dislike* creativity— and [experts more so](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275) than anyone else. This is why, time and again, business partners who care *most* about backing great art— who thus pride themselves on knowing what great art looks like— end up backing the *least* creative works.
 
-And so the Bobtail Yearlings prefer to work with business partners who take pride in knowing how to do business, *not* in recognizing great art.
+As such, the Bobtail Yearlings prefer to work with business partners who take pride in knowing how to do business, *not* in recognizing great art.
 
 ##### Emotional intelligence
 
