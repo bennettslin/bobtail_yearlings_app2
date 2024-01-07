@@ -38,7 +38,7 @@ This is why every movement started by minorities is highly competitive: Disadvan
 
 To avoid sharing their earnings, indie artists spend time and energy on business matters that could otherwise be handled by partners. And some go a step further, by choosing to create without collaboration. But what competitive edge could a solo artist working part-time possibly have, to make them the best in the *world*?
 
-As such, the Bobtail Yearlings will readily work with business partners, allowing us to focus solely on our craft. We'll also periodically bring in new bandmates to be equal collaborators, allowing us to create works greater than the sum of their parts.
+As such, the Bobtail Yearlings will readily work with business partners, allowing us to focus solely on our craft. We'll also periodically bring in new bandmates to be equal collaborators, allowing us to create works greater than the sum of our parts.
 
 ##### Business partners
 
