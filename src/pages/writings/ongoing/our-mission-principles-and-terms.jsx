@@ -19,16 +19,16 @@ const Component = () => (
 ##### Historical consequence
 
 ${'  ' || `
-// TODO: Revise. Don't mention vowels.
+// TODO: Revise. Don't mention canon. Make it more about content.
 `}
 
-In the past, the rock music of the English-speaking world was [*the* canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446). It was always the most original, and often the most accomplished. But today's indie rock isn't better than any foreign canon out there, which is why it seems so inconsequential.
+In the past, the rock music of the English-speaking world was [*the* canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446). It was always the most original, and often the most accomplished. But today's indie rock isn't better than any foreign canon out there, which is why it's so inconsequential.
 
-To make history once again, bands need to be the best in the *world*— and this requires deliberate effort. So every artistic decision the Bobtail Yearlings make will be informed by our [five vowels of historical consequence](https://bobtailyearlings.com/writings/ongoing/five-vowels-of-historical-consequence).
+To make history once again, bands need to be among the best— both in the *world*, and for all *time*. But this requires conscious effort. And so the Bobtail Yearlings will always make art for *future* audiences first and foremost— knowing that this might hurt us in the present.
 
 ##### Longevity
 
-In classical music, the best artists got *better* with age. Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. This isn't the case in rock yet— which proves that these are still the early days of the canon.
+In classical music, the best artists got *better* with age. Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case in rock— which means there's a whole frontier left to explore!
 
 For this reason, the Bobtail Yearlings plan to be a working band for as long as Bennett is alive and well. There will never be a hiatus. And we'll ensure that our best works always lie ahead of us.
 
@@ -60,7 +60,7 @@ This means we'll only attack systems, institutions, and ideologies— never peop
 
 Mr. Rogers told us that when times are bad, we can [look for the helpers](https://www.goodreads.com/quotes/198594). Well, times are bad in rock now… so why aren't there more helpers?
 
-But the Bobtail Yearlings promise to be helpers. We'll do so by being generous with our creative tools, such as [*Bobtail Method*](https://bobtailmethod.com) and [*Bobtail Dominoes*](https://bobtaildominoes.com), and by collaborating with up-and-coming [BYCombo](https://bycombo.com) bands. In the long term, we'll help create scholarships for BYCombo's most promising artists.
+Luckily, the Bobtail Yearlings promise to be helpers! We'll do so by being generous with our creative tools, such as [*Bobtail Method*](https://bobtailmethod.com) and [*Bobtail Dominoes*](https://bobtaildominoes.com), and by collaborating with up-and-coming [BYCombo](https://bycombo.com) bands. In the long term, we'll help create scholarships for BYCombo's most promising artists.
 
 ### Our band terms
 
