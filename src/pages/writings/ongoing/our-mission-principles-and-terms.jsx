@@ -19,18 +19,22 @@ const Component = () => (
 ##### Historical consequence
 
 ${'  ' || `
-// TODO: Revise. Don't mention canon. Make it more about content.
+// TODO: Review.
 `}
 
-In the past, the rock music of the English-speaking world was [*the* canon](https://www.rollingstone.com/music/music-lists/100-greatest-artists-147446). It was always the most original, and often the most accomplished. But today's indie rock isn't better than any foreign canon out there, which is why it's so inconsequential.
+Today's artists gain exposure by creating *content*— namely, art that engages directly with its audience. But while content has an advantage over *past* art, it loses once it's in the past *itself*— which is why this century's art seems so inconsequential.
 
-To make history once again, bands need to be among the best— both in the *world*, and for all *time*. But this requires conscious effort. And so the Bobtail Yearlings will always make art for *future* audiences first and foremost— knowing that this might hurt us in the present.
+To make history once again, artists must consciously *refuse* to be content creators. And so the Bobtail Yearlings will always make art for *future* audiences, first and foremost— even if this hurts us in the present.
 
 ##### Longevity
 
+${'  ' || `
+// TODO: Review.
+`}
+
 In classical music, the best artists got *better* with age. Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case in rock— which means there's a whole frontier left to explore!
 
-For this reason, the Bobtail Yearlings plan to be a working band for as long as Bennett is alive and well. There will never be a hiatus. And we'll ensure that our best works always lie ahead of us.
+As such, the Bobtail Yearlings plan to be a working band for as long as Bennett is alive and well; there will never be a hiatus. And we'll ensure that our best works always lie ahead of us.
 
 ##### Competition
 
