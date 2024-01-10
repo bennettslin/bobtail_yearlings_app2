@@ -18,19 +18,11 @@ const Component = () => (
 
 ##### Historical consequence
 
-${'  ' || `
-// TODO: Review.
-`}
-
 Today's artists gain exposure by creating *content*— namely, art that engages directly with its audience. But while content has an advantage over *past* art, it loses once it's in the past *itself*— which is why this century's art seems so inconsequential.
 
 To make history once again, artists must consciously *refuse* to be content creators. And so the Bobtail Yearlings will always make art for *future* audiences, first and foremost— even if this hurts us in the present.
 
 ##### Longevity
-
-${'  ' || `
-// TODO: Review.
-`}
 
 In classical music, the best artists got *better* with age. Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case in rock— which means there's a whole frontier left to explore!
 

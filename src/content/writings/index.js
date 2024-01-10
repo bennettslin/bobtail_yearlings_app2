@@ -7,10 +7,6 @@ export const pagesList = [
     {
         pages: pageConfigsOngoing,
     },
-    // {
-    //     heading: 2023,
-    //     pages: pageConfigs2023,
-    // },
     {
         heading: 2022,
         pages: pageConfigs2022,
