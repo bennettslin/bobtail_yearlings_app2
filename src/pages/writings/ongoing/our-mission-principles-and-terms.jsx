@@ -32,7 +32,7 @@ As such, the Bobtail Yearlings plan to be a working band for as long as Bennett 
 
 Any artist who respects the listener will acknowledge that getting heard is a de facto competition. Those who say otherwise are being disingenuous. They still want to compete— just on terms more favorable to them and less obvious to others: being skilled at social media, having industry connections or a trust fund, and so on.
 
-This is why every movement started by minorities is highly competitive: Disadvantage forces you to engage with the actual reality, not some cozy fantasy in your head. And so the Bobtail Yearlings compete, just like rappers do. It's realistic, not ruthless, and we have the highest respect for any band with ambitions like ours.
+This is why every movement started by minorities is highly competitive: Disadvantage forces you to engage with the actual reality, not some cozy fantasy in your head. And so the Bobtail Yearlings compete, just like rappers do. It's realistic, not ruthless, and we have the highest respect for any artist with ambitions like ours.
 
 ##### Interdependence
 
@@ -76,21 +76,19 @@ ${'  ' || `
 
 Each Yearling will work forty hours a week to benefit the band, for the duration of their time in the band. This work can largely be self-directed. Examples include practicing one's instrument, composing song parts, and so forth. Naturally, touring and performing count as band work. Of course, we'll take holidays, vacations, and sick days off.
 
-No Yearling will engage in solo projects or collaborate with others by themselves. The Bobtail Yearlings will only ever collaborate as an entire band.
+No Yearling will engage in solo projects or collaborate with others by themselves. If the Bobtail Yearlings work with other artists, it will be as an entire band.
 
 For each artistic project, a bandmate or two will be assigned the role of project manager. Some projects may require certain bandmates to learn new skills in different domains, within reasonable expectations. If this is ever the case, the project manager will work with them to ensure that needed resources are provided.
 
 ##### Compensation
 
 ${'  ' || `
-// TODO: Revise. Be more specific about how savings works.
+// TODO: Review.
 `}
 
 Everyone who's a Yearling during the creation of a project will be given equal credit and royalties. This includes the admin, as well as artists of other mediums. Of course, we're free to mention who contributed which parts, as Lennon and McCartney often did.
 
-Earnings from our extracurricular projects will first be split evenly amongst those bandmates who have yet to grow their savings, up to a fixed limit. The rest will then be split evenly amongst all bandmates.
-
-Since [*Yearling's Bobtail*](https://www.yearlingsbobtail.com) was made while Bennett was the sole bandmate, its royalties will be treated like earnings from an extracurricular project.
+Earnings from live performances and extracurricular projects will also be split evenly. Since [*Yearling's Bobtail*](https://www.yearlingsbobtail.com) was made while Bennett was the sole bandmate, its royalties will be treated like earnings from an extracurricular project.
 
 ##### Recruitment
 
