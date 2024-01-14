@@ -26,7 +26,7 @@ To make history once again, artists must consciously *refuse* to be content crea
 
 In classical music, the best artists got *better* with age. Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case in rock— which means there's a whole frontier left to explore!
 
-As such, the Bobtail Yearlings plan to be a working band for as long as Bennett is alive and well; there will never be a hiatus. And we'll ensure that our best works always lie ahead of us.
+As such, the Bobtail Yearlings plan to be a working band for as long as Bennett is alive and well. There will never be a hiatus. And we'll ensure that our best works always lie ahead of us.
 
 ##### Competition
 
@@ -70,15 +70,25 @@ Ideally, we'll have one bandmate whose sole responsibility is to handle administ
 
 ##### Duties
 
+${'  ' || `
+// TODO: Review.
+`}
+
 Each Yearling will work forty hours a week to benefit the band, for the duration of their time in the band. This work can largely be self-directed. Examples include practicing one's instrument, composing song parts, and so forth. Naturally, touring and performing count as band work. Of course, we'll take holidays, vacations, and sick days off.
+
+No Yearling will engage in solo projects or collaborate with others by themselves. The Bobtail Yearlings will only ever collaborate as an entire band.
 
 For each artistic project, a bandmate or two will be assigned the role of project manager. Some projects may require certain bandmates to learn new skills in different domains, within reasonable expectations. If this is ever the case, the project manager will work with them to ensure that needed resources are provided.
 
 ##### Compensation
 
+${'  ' || `
+// TODO: Revise. Be more specific about how savings works.
+`}
+
 Everyone who's a Yearling during the creation of a project will be given equal credit and royalties. This includes the admin, as well as artists of other mediums. Of course, we're free to mention who contributed which parts, as Lennon and McCartney often did.
 
-Earnings from live performances and our extracurricular projects will first be split evenly amongst new bandmates to grow their savings, up to a fixed limit. The rest will then be split evenly amongst all bandmates.
+Earnings from our extracurricular projects will first be split evenly amongst those bandmates who have yet to grow their savings, up to a fixed limit. The rest will then be split evenly amongst all bandmates.
 
 Since [*Yearling's Bobtail*](https://www.yearlingsbobtail.com) was made while Bennett was the sole bandmate, its royalties will be treated like earnings from an extracurricular project.
 
