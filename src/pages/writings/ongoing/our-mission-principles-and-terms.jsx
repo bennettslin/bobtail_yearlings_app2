@@ -76,7 +76,7 @@ ${'  ' || `
 
 Each Yearling will work forty hours a week to benefit the band, for the duration of their time in the band. This work can largely be self-directed. Examples include practicing one's instrument, composing song parts, and so forth. Naturally, touring and performing count as band work. Of course, we'll take holidays, vacations, and sick days off.
 
-No Yearling will engage in solo projects or collaborate with others by themselves. If the Bobtail Yearlings work with other artists, it will be as an entire band.
+No Yearling will engage in solo projects or collaborate with others on their own. When working with other artists, the Bobtail Yearlings will only ever do so as a full band.
 
 For each artistic project, a bandmate or two will be assigned the role of project manager. Some projects may require certain bandmates to learn new skills in different domains, within reasonable expectations. If this is ever the case, the project manager will work with them to ensure that needed resources are provided.
 
@@ -86,7 +86,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-Everyone who's a Yearling during the creation of a project will be given equal credit and royalties. This includes the admin, as well as artists of other mediums. Of course, we're free to mention who contributed which parts, as Lennon and McCartney often did.
+Everyone who's a Yearling during the creation of a project will be given equal credit and royalties. This includes the admin, as well as artists of other mediums. Of course, we're free to mention who contributed which parts.
 
 Earnings from live performances and extracurricular projects will also be split evenly. Since [*Yearling's Bobtail*](https://www.yearlingsbobtail.com) was made while Bennett was the sole bandmate, its royalties will be treated like earnings from an extracurricular project.
 
