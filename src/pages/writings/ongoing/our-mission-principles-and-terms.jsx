@@ -22,6 +22,18 @@ Today's artists gain exposure by creating *content*— namely, art that engages 
 
 To make history once again, artists must consciously *refuse* to be content creators. And so the Bobtail Yearlings will always make art for *future* audiences, first and foremost— even if this hurts us in the present.
 
+##### Future audiences
+
+${'  ' || `
+// TODO: Keep working on. In second paragraph, make it more about "how much does it do this" rather than just "does it do this."
+`}
+
+There are two ways to determine what future audiences might want. The first is to simply trust our instincts as artists. Certain works by others inspire envy in us, and so we can extrapolate to make works that will inspire envy in others.
+
+The second way is more methodical. Is this a work that someone would teach to others or study themselves? Could they also enjoy it of their own accord? And is it the only one of its kind, in the entire world and across all of time?
+
+These two ways will likely yield the same results. That is to say, if a work is enviable, then it's almost certainly educational, enjoyable, and exclusive as well; and vice versa.
+
 ##### Longevity
 
 In classical music, the best artists got *better* with age. Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case in rock— which means there's a whole frontier left to explore!
