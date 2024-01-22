@@ -22,17 +22,17 @@ Today's artists gain exposure by creating *content*— namely, art that engages 
 
 To make history once again, artists must consciously *refuse* to be content creators. And so the Bobtail Yearlings will always make art for *future* audiences, first and foremost— even if this hurts us in the present.
 
-##### Evaluating our works
+##### Self-evaluation
 
 ${'  ' || `
 // TODO: Review a few more times.
 `}
 
-We'll determine what future audiences might want in two ways. The first is to trust our instincts as artists. Certain works by others inspire envy in us, and we can extrapolate from this to make works that will inspire envy in others.
+We'll determine what future audiences might want in two ways. The first is to trust our instincts as artists. Certain works by others inspire envy in us, and we can extrapolate from this to make works that will inspire the most envy in others.
 
-The second way is a methodical evaluation. Is this a work that someone would study on their own, and even teach to others? Could they also enjoy it of their own accord? And is it the only one of its kind in the entire world up until now?
+The second way is a methodical evaluation. We'll ask: Relative to all that's come before and all else that's out there, how much is this a work that someone would study on their own, or even teach to others? And how much could they enjoy it of their own accord?
 
-These two ways likely converge on the same results. That is to say, if a work is enviable, then it's almost certainly educational, enjoyable, and exclusive as well; and vice versa.
+These two ways likely converge on the same conclusions. That is to say, if a work is enviable, then it's almost certainly educational and enjoyable as well, and vice versa.
 
 ##### Longevity
 
