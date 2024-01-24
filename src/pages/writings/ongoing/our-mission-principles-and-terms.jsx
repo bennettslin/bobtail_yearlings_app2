@@ -24,13 +24,9 @@ To make history once again, artists must consciously *refuse* to be content crea
 
 ##### Self-evaluation
 
-${'  ' || `
-// TODO: Review.
-`}
-
 We'll determine what future audiences might want in two ways. The first is to trust our instincts as artists. Certain works by others inspire envy in us, and we can extrapolate from this to make works that inspire envy in others.
 
-The second way is a methodical evaluation. We'll ask: Next to all that's come before and all else that's out there, is this a work that someone would study to benefit themselves, or even teach to others? And could they also enjoy it for the experience alone?
+The second way is a methodical evaluation. We'll ask: Next to all that's come before and all else that's out there, is this a work that someone would study to benefit themselves, or even teach to others? And could they enjoy it for the experience alone?
 
 These two ways likely converge on the same results. That is to say, if a work is enviable, then it's almost certainly educational and enjoyable as well, and vice versa.
 
