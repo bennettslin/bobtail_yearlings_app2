@@ -24,10 +24,6 @@ To make history once again, artists must consciously *refuse* to be content crea
 
 ##### Self-evaluation
 
-${'  ' || `
-// TODO: Review a few more times.
-`}
-
 Though we may be prolific, we'll only ever release our best works, which we'll evaluate in two ways. The first is to trust our instincts as artists. Certain works by others inspire envy in us, and we can extrapolate from this to make works that inspire envy in others.
 
 The second way is to imagine someone who knows or cares little about us, and then to ask: "Next to all that's come before and all else that's out there, is this a work they would study to benefit themselves? And could they enjoy it for the experience alone?"
