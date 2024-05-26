@@ -50,7 +50,7 @@ And so the Bobtail Yearlings will readily work with business partners, allowing 
 
 ##### Business partners
 
-Studies show that people *dislike* creativity— and [experts more so](https://www.theatlantic.com/business/archive/2014/10/why-new-ideas-fail/381275) than anyone else. This is why, time and again, business partners who care *most* about backing great art— who thus pride themselves on knowing what great art looks like— end up backing the *least* creative works.
+Studies show that people *dislike* creativity— and [experts more so](https://archive.today/EUTFS) than anyone else. This is why, time and again, business partners who care *most* about backing great art— who thus pride themselves on knowing what great art looks like— end up backing the *least* creative works.
 
 As such, the Bobtail Yearlings prefer to work with business partners who take pride in knowing how to do business, *not* in recognizing great art.
 
