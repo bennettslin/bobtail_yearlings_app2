@@ -20,15 +20,11 @@ const Component = () => (
 
 Today's artists gain exposure by creating *content*— namely, art that engages directly with its audience. But while content has an advantage over *past* art, it loses once it's in the past *itself*— which is why this century's art seems so inconsequential.
 
-To make history once again, artists must consciously *refuse* to be content creators. And so the Bobtail Yearlings will always make art for *future* audiences, first and foremost— even if this hurts us in the present.
+${'  ' || `
+// TODO: Review.
+`}
 
-##### Self-evaluation
-
-Even if we're prolific, we'll only release our best works, which we'll evaluate in two ways. The first is to trust our instincts as artists. Certain works by others inspire envy in us, and we can extrapolate from this to make works that inspire envy in others.
-
-The second way is to imagine someone who knows or cares little about us, and then to ask: "Next to all that's come before and all else that's out there, is this a work they would study to benefit themselves? And could they enjoy it for the experience alone?"
-
-These two ways likely converge on the same results. That is to say, if a work is enviable, then it's almost certainly educational and enjoyable as well, and vice versa.
+To make history once again, artists must consciously *refuse* to be content creators. And so the Bobtail Yearlings strive to make art for *future* audiences, first and foremost— even if this hurts us in the present.
 
 ##### Longevity
 
@@ -40,7 +36,23 @@ As such, the Bobtail Yearlings plan to be a working band for as long as Bennett 
 
 Any artist who respects the listener will acknowledge that getting heard is a de facto competition. Those who say otherwise are being disingenuous. They still want to compete— just on terms more favorable to them and less obvious to others: being skilled at social media, having industry connections or a trust fund, and so on.
 
-This is why every movement started by minorities is highly competitive: Disadvantage forces you to engage with the actual reality, not some cozy fantasy in your head. And so the Bobtail Yearlings compete, just like rappers do. It's realistic, not ruthless, and we have the highest respect for any artist with ambitions like ours.
+${'  ' || `
+// TODO: Review.
+`}
+
+This is why every movement started by minorities is highly competitive: Disadvantage forces you to engage with the actual reality, not some cozy fantasy in your head. And so the Bobtail Yearlings compete, just like rappers do. It's realistic, not ruthless, and we have the highest respect for others with ambitions like ours.
+
+##### Self-evaluation
+
+${'  ' || `
+// TODO: Review move.
+`}
+
+We'll only release our best works, which we'll evaluate in two ways. The first is to trust our instincts as artists. Certain works by others inspire envy in us, and we can extrapolate from this to make works that inspire envy in others.
+
+The second way is to imagine someone who knows or cares little about us, and then to ask: "Next to all that's come before and all else that's out there, is this a work they would study to benefit themselves? And could they enjoy it for the experience alone?"
+
+These two ways likely converge on the same results. That is to say, if a work is enviable, then it's almost certainly educational and enjoyable as well— and vice versa.
 
 ##### Interdependence
 
@@ -62,31 +74,59 @@ This means we'll only attack systems, institutions, and ideologies— never peop
 
 ##### Helping others
 
-Mr. Rogers told us that when times are bad, we can [look for the helpers](https://www.goodreads.com/quotes/198594). Well, times are bad in rock now… so why aren't there more helpers?
+${'  ' || `
+// TODO: Review.
+`}
 
-Luckily, the Bobtail Yearlings promise to be helpers! We'll do so by being generous with our creative tools, such as [*Bobtail Method*](https://bobtailmethod.com) and [*Bobtail Dominoes*](https://bobtaildominoes.com), and by collaborating with up-and-coming [BYCombo](https://bycombo.com) bands. In the long term, we'll help create scholarships for BYCombo's most promising artists.
+Mr. Rogers told us that when times are bad, we can [look for the helpers](https://www.goodreads.com/quotes/12135721). Well, times are bad in rock now… so why aren't there more helpers?
+
+Well, the Bobtail Yearlings promise to be helpers! We'll do so by being generous with our creative tools, such as [*Bobtail Method*](https://bobtailmethod.com) and [*Bobtail Dominoes*](https://bobtaildominoes.com), and by collaborating with up-and-coming [BYCombo](https://bycombo.com) bands. In the long term, we'll help create scholarships for BYCombo's most promising artists.
 
 ### Our band terms
 
-##### Roles
+##### Leadership
 
-The band leader decides the overall vision for the Bobtail Yearlings. For now, Bennett is our band leader, since this is the de facto reality. However, in the long term we should be open to having multiple leaders.
+${'  ' || `
+// TODO: Review.
+`}
 
-The consequential works of this century will almost certainly combine different mediums in unprecedented ways. As such, we'll always be open to bringing in new bandmates who work in other artistic mediums.
+Bennett is our band leader, at least for now, since this is the de facto reality. He'll decide the overall vision for the Bobtail Yearlings.
 
 Ideally, we'll have one bandmate whose sole responsibility is to handle administrative work. This admin would also oversee development of our extracurricular projects such as BYCombo, Bobtail Method, and Bobtail Dominoes.
 
+##### Roles
+
+${'  ' || `
+// TODO: Review.
+`}
+
+Bennett will have the additional role of ensuring that each song is a "hum and strum"— that is to say, even when we simply hum its melody and strum its chords, it should still be enjoyable to hear and perform.
+
+Another Yearling will have the additional role of mastering harmony and counterpoint, allowing them to score and arrange parts as needed. Yet another Yearling will do the same for sonic textures and effects. The remaining Yearlings will have the additional role of writing lyrics.
+
+Since the consequential works of this century will almost certainly combine different mediums in unprecedented ways, we'll also be open to bringing in new bandmates who work in other artistic mediums.
+
+In addition to mastering our respective instruments or mediums, each Yearling will contribute lead or backing vocals as desired.
+
 ##### Duties
 
-Each Yearling will work forty hours a week to benefit the band, for the duration of their time in the band. This work can largely be self-directed. Examples include practicing one's instrument, composing song parts, and so forth. Naturally, touring and performing count as band work. Of course, we'll take holidays, vacations, and sick days off.
+${'  ' || `
+// TODO: Review.
+`}
+
+Each Yearling will work forty hours a week to benefit the band. For the most part, this work can be self-directed. Examples include practicing one's instrument, and so forth. Naturally, touring and performing count as band work. Of course, we'll take holidays, vacations, and sick days off.
 
 No Yearling will engage in solo projects or collaborate with others on their own. When working with other artists, the Bobtail Yearlings will only ever do so as a full band.
 
-For each artistic project, a bandmate or two will be assigned the role of project manager. Some projects may require certain bandmates to learn new skills in different domains, within reasonable expectations. If this is ever the case, the project manager will work with them to ensure that needed resources are provided.
+For each project, a bandmate or two will be assigned the role of project manager. Some projects may require certain bandmates to learn new skills in different domains, within reasonable expectations. When this is the case, the project manager will work with them to ensure that needed resources are provided.
 
 ##### Compensation
 
-Everyone who's a Yearling during the creation of a project will be given equal credit and royalties. This includes the admin, as well as artists of other mediums. Of course, we're free to mention who contributed which parts.
+${'  ' || `
+// TODO: Review.
+`}
+
+As they say: "Loyalties over royalties." Everyone who's a Yearling during the creation of a project will be given equal credit and payment. This includes the admin, as well as artists of other mediums. Of course, we're free to mention who contributed which parts.
 
 Earnings from live performances and extracurricular projects will also be split evenly. Since [*Yearling's Bobtail*](https://www.yearlingsbobtail.com) was made while Bennett was the sole bandmate, its royalties will be treated like earnings from an extracurricular project.
 
