@@ -20,7 +20,7 @@ const Component = () => (
 
 Today's artists gain exposure by creating *content*— namely, art that engages directly with its audience. But while content has an advantage over *past* art, it loses once it's in the past *itself*— which is why this century's art seems so inconsequential.
 
-To make history once again, artists must consciously *refuse* to be content creators. And so the Bobtail Yearlings strive to make art for *future* audiences, first and foremost— even if this hurts us in the present.
+To make history once again, artists must consciously *refuse* to be content creators. And so the Bobtail Yearlings aim to make art for *future* audiences, first and foremost— even if this hurts us in the present.
 
 ##### Longevity
 
@@ -56,7 +56,7 @@ As such, the Bobtail Yearlings prefer to work with business partners who take pr
 
 ##### Emotional intelligence
 
-If the Bobtail Yearlings are to achieve our mission, then others should find it rewarding to interact with us. And it should feel just as meaningful for us to work with each other. So each Yearling will strive to be a model of emotional intelligence, treating others with empathy, kindness, and respect.
+If the Bobtail Yearlings are to achieve our mission, then others should find it rewarding to interact with us. And it should feel just as meaningful for us to work with each other. So each Yearling will aim to be a model of emotional intelligence, treating others with empathy, kindness, and respect.
 
 This means we'll only attack systems, institutions, and ideologies— never people as individuals. After all, we'd rather win them over to our side. And if we ever end up on the wrong side ourselves, we'll admit our mistake and make amends.
 
