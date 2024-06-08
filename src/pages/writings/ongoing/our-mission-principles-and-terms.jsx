@@ -26,7 +26,11 @@ To make history once again, artists must consciously *refuse* to be content crea
 
 In classical music, the best artists got *better* with age. Beethoven, for one, composed his [magnum opus](https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)) in the final years of his life. But this isn't yet the case in rock— which means there's a whole frontier left to explore!
 
-As such, the Bobtail Yearlings plan to be a working band for as long as Bennett is alive and well. There will never be a hiatus. And we'll ensure that our best works always lie ahead of us.
+${'  ' || `
+// TODO: Review.
+`}
+
+So the Bobtail Yearlings plan to be a working band for as long as Bennett is alive. There will never be a hiatus. And we'll ensure that our best works always lie ahead of us.
 
 ##### Competition
 
@@ -52,7 +56,11 @@ And so the Bobtail Yearlings will readily work with business partners, allowing 
 
 Studies show that people *dislike* creativity— and [experts more so](https://archive.today/EUTFS) than anyone else. This is why, time and again, business partners who care *most* about backing great art— who thus pride themselves on knowing what great art looks like— end up backing the *least* creative works.
 
-As such, the Bobtail Yearlings prefer to work with business partners who take pride in knowing how to do business, *not* in recognizing great art.
+${'  ' || `
+// TODO: Review.
+`}
+
+For this reason, the Bobtail Yearlings prefer to work with business partners who take pride in knowing how to do business, *not* in recognizing great art.
 
 ##### Emotional intelligence
 
