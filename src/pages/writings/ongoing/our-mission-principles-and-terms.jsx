@@ -18,7 +18,11 @@ const Component = () => (
 
 ##### Historical consequence
 
-Today's artists gain exposure by creating *content*— namely, art that engages directly with its audience. But while content has an advantage over *past* art, it loses once it's in the past *itself*— which is why this century's art seems so inconsequential.
+Today, artists gain exposure by creating *content*— namely, art that engages directly with its audience. But while content has an advantage over *past* art, it loses once it's in the past *itself*— which is why this century's art seems so inconsequential.
+
+${'  ' || `
+// TODO: Revise. Make this point about the Bobtail Yearlings only.
+`}
 
 To make history once again, artists must consciously *refuse* to be content creators. And so the Bobtail Yearlings aim to make art for *future* audiences, first and foremost— even if this hurts us in the present.
 
@@ -30,7 +34,7 @@ ${'  ' || `
 // TODO: Review.
 `}
 
-So the Bobtail Yearlings plan to be a working band for as long as Bennett is alive. There will never be a hiatus. And we'll ensure that our best works always lie ahead of us.
+So the Bobtail Yearlings plan to be a working band for as long as Bennett is alive; there will never be a hiatus. And we'll ensure that our best works always lie ahead of us.
 
 ##### Competition
 
@@ -48,7 +52,11 @@ These two ways likely converge on the same results. That is to say, if a work is
 
 ##### Interdependence
 
-To avoid sharing their earnings, indie artists spend time and energy on business matters that could be handled by partners instead. And some take this a step further, by creating without collaboration. But what competitive edge could a solo artist working part-time possibly have, to make them the best in the *world*?
+${'  ' || `
+// TODO: Review.
+`}
+
+To avoid sharing their earnings, indie artists spend time and energy on business matters that could be handled by partners instead. And some take this a step further, by creating without collaboration. But what competitive edge could a solo artist working part-time on their art possibly have, to make them the best in the *world*?
 
 And so the Bobtail Yearlings will readily work with business partners, allowing us to focus solely on our craft. We'll also periodically bring in new bandmates to be equal collaborators, allowing us to create works greater than the sum of our parts.
 
@@ -80,7 +88,11 @@ Well, the Bobtail Yearlings promise to be helpers! We'll do so by being generous
 
 Bennett is our band leader, at least for now, since this is the de facto reality. He'll decide the overall vision for the Bobtail Yearlings.
 
-Ideally, we'll have one bandmate whose sole responsibility is to handle administrative work. This admin would also oversee development of our extracurricular projects such as BYCombo, Bobtail Method, and Bobtail Dominoes.
+${'  ' || `
+// TODO: Review.
+`}
+
+Ideally, we'll have one bandmate, known as the admin, whose sole responsibility is to handle business matters. They would also oversee development of our extracurricular projects such as BYCombo, Bobtail Method, and Bobtail Dominoes.
 
 ##### Roles
 
