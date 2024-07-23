@@ -27,7 +27,7 @@ Still stinging from the rejection of my "*Ulysses* of rock albums," I had many o
 
 The work that became my Master's thesis. I came up with a new theory for composing music in multidimensional spaces that I call amnesticism. I'm not sure my advisor or anyone else ever took it seriously. But in academia, unlike in indie rock, no one dismisses weird ideas offhand.
 
-[Tonal Composition in Multidimensional Virtual Realms](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/23566/Lin_washington_0250O_12002.pdf) (Spring 2013)${'  '}
+[Tonal Composition in Multidimensional Virtual Realms](https://digital.lib.washington.edu/researchworks/handle/1773/23566) (Spring 2013)${'  '}
 [Choose Your Own Cadenza](${getUrlForPdfName('Cadenza_poster')}) (Fall 2011, presented at SMT)${'  '}
 [Diminished Triads and Scale Networks](${getUrlForPdfName('Scale_Network_paper')}) (Fall 2010)${'  '}
 [Using Geometric Models](${getUrlForPdfName('Cube_Dance_paper')}) (Spring 2010)${'  '}
