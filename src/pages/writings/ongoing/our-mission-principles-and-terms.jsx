@@ -18,13 +18,23 @@ const Component = () => (
 
 ##### Historical consequence
 
-Today, artists gain exposure by creating *content*— namely, art that engages directly with its audience. But while content has an advantage over *past* art, it loses once it's in the past *itself*— which is why this century's art seems so inconsequential.
+Today, artists gain exposure by creating *content*— namely, art that engages directly with its audience. But while content has an advantage over *past* art, it loses once it's in the past *itself*— which is why this century's art feels so inconsequential.
 
 ${'  ' || `
-// TODO: Revise. Make this point about the Bobtail Yearlings only.
+// TODO: Review.
 `}
 
-To make history once again, artists must consciously *refuse* to be content creators. And so the Bobtail Yearlings aim to make art for *future* audiences, first and foremost— even if this hurts us in the present.
+To make history once again, artists must consciously *refuse* to be content creators. And so the Bobtail Yearlings aim to make art for *future* audiences, first and foremost— even if this hurts us with all but the discerning listener here and now.
+
+##### Self-evaluation
+
+${'  ' || `
+// TODO: Review.
+`}
+
+Unlike what many seem to think, your chances of making history as an artist *can* be reliably measured: It's how much your talents and works inspire the envy of *other* artists, relative to your fame.
+
+To evaluate our works, then, we'll imagine a fellow artist who knows little about us, and then ask: "Next to all that's come before and all else that's out there, is this a work they would study to benefit their own talents?"
 
 ##### Longevity
 
@@ -37,14 +47,6 @@ So the Bobtail Yearlings plan to be a working band for as long as Bennett is ali
 Any artist who respects the listener will acknowledge that getting heard is a de facto competition. Those who say otherwise are being disingenuous. They still want to compete— just on terms more favorable to them and less obvious to others: being skilled at social media, having industry connections or a trust fund, and so on.
 
 This is why every movement started by minorities is highly competitive: Disadvantage forces you to engage with the actual reality, not some cozy fantasy in your head. And so the Bobtail Yearlings compete, just like rappers do. It's realistic, not ruthless, and we have the highest respect for others with ambitions like ours.
-
-##### Self-evaluation
-
-We'll only release our best works, which we'll evaluate in two ways. The first is to trust our instincts as artists. Certain works by others inspire envy in us, and we can extrapolate from this to make works that inspire envy in others.
-
-The second way is to imagine someone who knows or cares little about us, and then to ask: "Next to all that's come before and all else that's out there, is this a work they would study to benefit themselves? And could they enjoy it for the experience alone?"
-
-These two ways likely converge on the same results. That is to say, if a work is enviable, then it's almost certainly educational and enjoyable as well— and vice versa.
 
 ##### Interdependence
 
