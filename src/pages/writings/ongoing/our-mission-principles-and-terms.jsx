@@ -18,23 +18,23 @@ const Component = () => (
 
 ##### Historical consequence
 
-Today, artists gain exposure by creating *content*— namely, art that engages directly with its audience. But while content has an advantage over *past* art, it loses once it's in the past *itself*— which is why this century's art feels so inconsequential.
-
 ${'  ' || `
-// TODO: Review.
+// TODO: Review section.
 `}
 
-To make history once again, artists must consciously *refuse* to be content creators. And so the Bobtail Yearlings aim to make art for *future* audiences, first and foremost— even if this hurts us with all but the discerning listener here and now.
+Today, artists gain exposure by creating *content*— namely, art that engages directly with their fanbase. But while content has an advantage over *past* art, it loses once it's in the past *itself*— which is why this century's art feels so inconsequential.
+
+To make history once again, artists must consciously *refuse* to be content creators. And so the Bobtail Yearlings aim to make art for a future audience, first and foremost— even if this hurts us with our present-day fanbase.
 
 ##### Self-evaluation
 
 ${'  ' || `
-// TODO: Review.
+// TODO: Review section.
 `}
 
-Unlike what many seem to think, your chances of making history as an artist *can* be reliably measured: It's how much your talents and works inspire the envy of *other* artists, relative to your fame.
+An artist's chances of making history can be measured by how much their talents and works inspire the envy of *other* artists, relative to their fame.
 
-To evaluate our works, then, we'll imagine a fellow artist who knows little about us, and then ask: "Next to all that's come before and all else that's out there, is this a work they would study to benefit their own talents?"
+To evaluate our works, then, we'll imagine those who care little about us, and then ask: "Next to all that's come before and all else that's out there, is this a work they would study to benefit their own talents? And could they enjoy it for its own sake?"
 
 ##### Longevity
 
@@ -68,9 +68,13 @@ This means we'll only attack systems, institutions, and ideologies— never peop
 
 ##### Helping others
 
-Mr. Rogers told us that when times are bad, we can [look for the helpers](https://www.goodreads.com/quotes/12135721). Well, times are bad in rock now… so why aren't there more helpers?
+${'  ' || `
+// TODO: Review section.
+`}
 
-Well, the Bobtail Yearlings promise to be helpers! We'll do so by being generous with our creative tools, such as [*Bobtail Method*](https://bobtailmethod.com) and [*Bobtail Dominoes*](https://bobtaildominoes.com), and by collaborating with up-and-coming [BYCombo](https://bycombo.com) bands. In the long term, we'll help create scholarships for BYCombo's most promising artists.
+Mr. Rogers told us that when times are bad, we can [look for the helpers](https://www.goodreads.com/quotes/12135721). Well, times are bad in rock now… so the Bobtail Yearlings promise to be helpers!
+
+We'll do so by sharing our creative tools, such as [*Bobtail Method*](https://bobtailmethod.com) and [*Bobtail Dominoes*](https://bobtaildominoes.com); encouraging others to explore and experiment with our creative ideas, like [amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566); and collaborating with up-and-coming [BYCombo](https://bycombo.com) bands.
 
 ### Our band terms
 
@@ -100,7 +104,11 @@ For each project, a bandmate or two will be assigned the role of project manager
 
 ##### Compensation
 
-As they say: "Loyalties over royalties." Everyone who's a Yearling during the creation of a project will be given equal credit and payment. This includes the admin, as well as artists of other mediums. Of course, we're free to mention who contributed which parts.
+${'  ' || `
+// TODO: Review.
+`}
+
+Loyalties over royalties! Everyone who's a Yearling during the creation of a project will be given equal credit and payment. This includes the admin, as well as artists of other mediums. Of course, we're free to mention who contributed which parts.
 
 Earnings from live performances and extracurricular projects will also be split evenly. Since [*Yearling's Bobtail*](https://www.yearlingsbobtail.com) was made while Bennett was the sole bandmate, its royalties will be treated like earnings from an extracurricular project.
 
