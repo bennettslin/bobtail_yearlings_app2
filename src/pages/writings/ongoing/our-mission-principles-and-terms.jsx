@@ -22,7 +22,7 @@ ${'  ' || `
 // TODO: Review section.
 `}
 
-Today, artists gain exposure by creating *content*— namely, art that engages directly with their fanbase. But while content has an advantage over *past* art, it loses once it's in the past *itself*— which is why this century's art feels so inconsequential.
+Today, artists gain exposure by creating *content*— namely, art that engages directly with their fans. But while content has an advantage over *past* art, it loses once it's in the past *itself*— which is why this century's art feels so inconsequential.
 
 To make history once again, artists must consciously *refuse* to be content creators. And so the Bobtail Yearlings aim to make art for a future audience, first and foremost— even if this hurts us with our present-day fanbase.
 
@@ -34,7 +34,7 @@ ${'  ' || `
 
 An artist's chances of making history can be measured by how much their talents and works inspire the envy of *other* artists, relative to their fame.
 
-To evaluate our works, then, we'll imagine those who care little about us, and then ask: "Next to all that's come before and all else that's out there, is this a work they would study to benefit their own talents? And could they enjoy it for its own sake?"
+To evaluate our works, then, we'll imagine a fellow artist who cares little about us, and then ask: "Next to all that's come before and all else that's out there, is this a work they'd study to benefit their own talents? And could they enjoy it for its own sake?"
 
 ##### Longevity
 
@@ -68,10 +68,6 @@ This means we'll only attack systems, institutions, and ideologies— never peop
 
 ##### Helping others
 
-${'  ' || `
-// TODO: Review section.
-`}
-
 Mr. Rogers told us that when times are bad, we can [look for the helpers](https://www.goodreads.com/quotes/12135721). Well, times are bad in rock now… so the Bobtail Yearlings promise to be helpers!
 
 We'll do so by sharing our creative tools, such as [*Bobtail Method*](https://bobtailmethod.com) and [*Bobtail Dominoes*](https://bobtaildominoes.com); encouraging others to explore and experiment with our creative ideas, like [amnesticism](https://digital.lib.washington.edu/researchworks/handle/1773/23566); and collaborating with up-and-coming [BYCombo](https://bycombo.com) bands.
@@ -103,10 +99,6 @@ No Yearling will engage in solo projects or collaborate with others on their own
 For each project, a bandmate or two will be assigned the role of project manager. Some projects may require certain bandmates to learn new skills in different domains, within reasonable expectations. When this is the case, the project manager will work with them to ensure that needed resources are provided.
 
 ##### Compensation
-
-${'  ' || `
-// TODO: Review.
-`}
 
 Loyalties over royalties! Everyone who's a Yearling during the creation of a project will be given equal credit and payment. This includes the admin, as well as artists of other mediums. Of course, we're free to mention who contributed which parts.
 
