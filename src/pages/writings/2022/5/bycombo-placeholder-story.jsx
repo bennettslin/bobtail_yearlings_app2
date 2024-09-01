@@ -32,7 +32,7 @@ An artist who creates the "*Ulysses* of rock albums," in other words, will seem 
 
 ### Momentum from nothing
 
-This frustrated me, of course. But soon I saw a history-making opportunity and grew excited. Because along with studying masterpieces, I'd also studied musical revolutions. And revolution begins with the incompetent.
+This frustrated me, of course. But soon I saw a history-making opportunity and grew excited. Because, along with studying masterpieces, I'd also studied musical revolutions. And revolution begins with the incompetent.
 
 Every now and then, some underground bands we respect are welcomed into the mainstream. Let's call this a minor revolution. There is no momentum, because each incremental shifting of the needle faces new resistance. The next cohort is now the one whose music is too raw, or too experimental, for a mainstream audience.
 

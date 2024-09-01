@@ -7,11 +7,11 @@ export const pageConfigs = [
         title: `Zillow farewell message`,
         date: { year: 2022, month: 6 },
     },
-    {
-        id: `bycombo-placeholder-story`,
-        title: `BYCombo placeholder story`,
-        date: { year: 2022, month: 5 },
-    },
+    // {
+    //     id: `bycombo-placeholder-story`,
+    //     title: `BYCombo placeholder story`,
+    //     date: { year: 2022, month: 5 },
+    // },
 ]
 
 export const pagesMap = getMapFromPageConfigs({
