@@ -18,23 +18,23 @@ const Component = () => (
 
 ##### Historical consequence
 
-${'  ' || `
-// TODO: Review section.
-`}
-
 Today, artists gain exposure by creating *content*— namely, art that engages directly with their fans. But while content has an advantage over *past* art, it loses once it's in the past *itself*— which is why this century's art feels so inconsequential.
 
-To make history once again, artists must consciously *refuse* to be content creators. And so the Bobtail Yearlings aim to make art for a future audience, first and foremost— even if this hurts us with our present-day fanbase.
+${'  ' || `
+// TODO: Review.
+`}
+
+To make history once again, artists must consciously *refuse* to be content creators. And so the Bobtail Yearlings aim to make art for a future audience, first and foremost— even if this hurts us with our fanbase in the present.
 
 ##### Self-evaluation
 
-${'  ' || `
-// TODO: Review section.
-`}
-
 An artist's chances of making history can be measured by how much their talents and works inspire the envy of *other* artists, relative to their fame.
 
-To evaluate our works, then, we'll imagine a fellow artist who cares little about us, and then ask: "Next to all that's come before and all else that's out there, is this a work they'd study to benefit their own talents? And could they enjoy it for its own sake?"
+${'  ' || `
+// TODO: Review.
+`}
+
+So to evaluate our works, we'll imagine a fellow artist who cares little about us, and then ask ourselves: "Next to all that's come before and all else that's out there, is this a work they'd study to benefit their own talents? And could they enjoy it for its own sake?"
 
 ##### Longevity
 
