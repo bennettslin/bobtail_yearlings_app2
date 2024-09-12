@@ -6,7 +6,7 @@ export const pageConfigs = [
         id: `our-mission-principles-and-terms`,
         title: `Our mission, principles, and terms`,
         subpath: `ongoing`,
-        date: { year: 2024, month: 8, updated: true },
+        date: { year: 2024, month: 9, updated: true },
     },
 ]
 

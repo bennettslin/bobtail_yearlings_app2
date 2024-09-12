@@ -20,19 +20,11 @@ const Component = () => (
 
 Today, artists gain exposure by creating *content*— namely, art that engages directly with their fans. But while content has an advantage over *past* art, it loses once it's in the past *itself*— which is why this century's art feels so inconsequential.
 
-${'  ' || `
-// TODO: Review.
-`}
-
 To make history once again, artists must consciously *refuse* to be content creators. And so the Bobtail Yearlings aim to make art for a future audience, first and foremost— even if this hurts us with our fanbase in the present.
 
 ##### Self-evaluation
 
 An artist's chances of making history can be measured by how much their talents and works inspire the envy of *other* artists, relative to their fame.
-
-${'  ' || `
-// TODO: Review.
-`}
 
 So to evaluate our works, we'll imagine a fellow artist who cares little about us, and then ask ourselves: "Next to all that's come before and all else that's out there, is this a work they'd study to benefit their own talents? And could they enjoy it for its own sake?"
 
